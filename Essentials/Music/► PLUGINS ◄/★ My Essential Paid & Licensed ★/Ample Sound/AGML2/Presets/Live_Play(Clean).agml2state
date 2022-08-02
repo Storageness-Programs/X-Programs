@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AAG_STATE Name="Live_Play(Clean)">
+  <Articulation Value="Sus"/>
+  <Position Value="0"/>
+  <Chord-Path Value="C:\Users\amplesound-jrf\Documents\Ample Sound\Chord Banks"/>
+  <Chords Author="Ample Sound" Category="Pop" Key="C" Path="C:\Users\amplesound-jrf\Documents\Ample Sound\Chord Banks"
+          Name="Default">
+    <Chord ID="1" Root="C" Type="Maj" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="3"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="0"/>
+      <String ID="2" Fret="1"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="2" Root="A" Type="Maj" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="0"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="2"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="3" Root="D" Type="min" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="-1"/>
+      <String ID="4" Fret="0"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="3"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+    <Chord ID="4" Root="F" Type="min" Pos="1">
+      <String ID="6" Fret="1"/>
+      <String ID="5" Fret="3"/>
+      <String ID="4" Fret="3"/>
+      <String ID="3" Fret="1"/>
+      <String ID="2" Fret="1"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+    <Chord ID="5" Root="E" Type="min" Pos="1">
+      <String ID="6" Fret="0"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="0"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="6" Root="F" Type="Maj" Pos="1">
+      <String ID="6" Fret="1"/>
+      <String ID="5" Fret="3"/>
+      <String ID="4" Fret="3"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="1"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+    <Chord ID="7" Root="D" Type="Maj" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="-1"/>
+      <String ID="4" Fret="0"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="3"/>
+      <String ID="1" Fret="2"/>
+    </Chord>
+    <Chord ID="8" Root="G" Type="Maj" Pos="1">
+      <String ID="6" Fret="3"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="0"/>
+      <String ID="3" Fret="0"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="3"/>
+    </Chord>
+    <Chord ID="9" Root="E" Type="Maj" Pos="1">
+      <String ID="6" Fret="0"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="1"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="10" Root="A" Type="min" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="0"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="1"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="11" Root="A#" Type="Maj" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="1"/>
+      <String ID="4" Fret="3"/>
+      <String ID="3" Fret="3"/>
+      <String ID="2" Fret="3"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+    <Chord ID="12" Root="G" Type="7" Pos="1">
+      <String ID="6" Fret="3"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="0"/>
+      <String ID="3" Fret="0"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+    <Chord ID="13" Root="C" Type="Maj" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="3"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="0"/>
+      <String ID="2" Fret="1"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="14" Root="A" Type="Maj" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="0"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="2"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="15" Root="D" Type="min" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="-1"/>
+      <String ID="4" Fret="0"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="3"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+    <Chord ID="16" Root="F" Type="min" Pos="1">
+      <String ID="6" Fret="1"/>
+      <String ID="5" Fret="3"/>
+      <String ID="4" Fret="3"/>
+      <String ID="3" Fret="1"/>
+      <String ID="2" Fret="1"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+    <Chord ID="17" Root="E" Type="min" Pos="1">
+      <String ID="6" Fret="0"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="0"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="18" Root="F" Type="Maj" Pos="1">
+      <String ID="6" Fret="1"/>
+      <String ID="5" Fret="3"/>
+      <String ID="4" Fret="3"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="1"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+    <Chord ID="19" Root="D" Type="Maj" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="-1"/>
+      <String ID="4" Fret="0"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="3"/>
+      <String ID="1" Fret="2"/>
+    </Chord>
+    <Chord ID="20" Root="G" Type="Maj" Pos="1">
+      <String ID="6" Fret="3"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="0"/>
+      <String ID="3" Fret="0"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="3"/>
+    </Chord>
+    <Chord ID="21" Root="E" Type="Maj" Pos="1">
+      <String ID="6" Fret="0"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="1"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="22" Root="A" Type="min" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="0"/>
+      <String ID="4" Fret="2"/>
+      <String ID="3" Fret="2"/>
+      <String ID="2" Fret="1"/>
+      <String ID="1" Fret="0"/>
+    </Chord>
+    <Chord ID="23" Root="A#" Type="Maj" Pos="1">
+      <String ID="6" Fret="-1"/>
+      <String ID="5" Fret="1"/>
+      <String ID="4" Fret="3"/>
+      <String ID="3" Fret="3"/>
+      <String ID="2" Fret="3"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+    <Chord ID="24" Root="G" Type="7" Pos="1">
+      <String ID="6" Fret="3"/>
+      <String ID="5" Fret="2"/>
+      <String ID="4" Fret="0"/>
+      <String ID="3" Fret="0"/>
+      <String ID="2" Fret="0"/>
+      <String ID="1" Fret="1"/>
+    </Chord>
+  </Chords>
+  <Pattern-Path Value="C:\Users\amplesound-jrf\Documents\Ample Sound\Strum Patterns"/>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="1" Path="C:\Users\amplesound-jrf\Documents\Ample Sound\Strum Patterns"
+           Name="Default1">
+    <Note Note="72" Velocity="100" Begin="1" End="2"/>
+    <Note Note="74" Velocity="80" Begin="3" End="3"/>
+    <Note Note="76" Velocity="60" Begin="4" End="5"/>
+    <Note Note="76" Velocity="70" Begin="6" End="7"/>
+    <Note Note="76" Velocity="60" Begin="8" End="8"/>
+    <Note Note="74" Velocity="40" Begin="11" End="11"/>
+    <Note Note="76" Velocity="90" Begin="12" End="12"/>
+    <Note Note="74" Velocity="50" Begin="15" End="15"/>
+    <Note Note="76" Velocity="60" Begin="16" End="16"/>
+    <Note Note="72" Velocity="70" Begin="9" End="10"/>
+    <Note Note="74" Velocity="50" Begin="13" End="13"/>
+    <Note Note="76" Velocity="40" Begin="14" End="14"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="2" Path="C:\Users\amplesound-jrf\Documents\Ample Sound\Strum Patterns"
+           Name="Default2">
+    <Note Note="72" Velocity="100" Begin="1" End="2"/>
+    <Note Note="74" Velocity="60" Begin="7" End="7"/>
+    <Note Note="76" Velocity="90" Begin="8" End="8"/>
+    <Note Note="78" Velocity="60" Begin="9" End="9"/>
+    <Note Note="76" Velocity="70" Begin="16" End="16"/>
+    <Note Note="74" Velocity="40" Begin="3" End="3"/>
+    <Note Note="76" Velocity="40" Begin="4" End="4"/>
+    <Note Note="72" Velocity="90" Begin="5" End="5"/>
+    <Note Note="76" Velocity="30" Begin="6" End="6"/>
+    <Note Note="76" Velocity="80" Begin="10" End="10"/>
+    <Note Note="74" Velocity="80" Begin="11" End="11"/>
+    <Note Note="76" Velocity="50" Begin="12" End="12"/>
+    <Note Note="72" Velocity="80" Begin="13" End="14"/>
+    <Note Note="74" Velocity="60" Begin="15" End="15"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="3" Path="C:\Users\amplesound-jrf\Documents\Ample Sound\Strum Patterns"
+           Name="Default3">
+    <Note Note="72" Velocity="55" Begin="1" End="4"/>
+    <Note Note="77" Velocity="100" Begin="5" End="6"/>
+    <Note Note="76" Velocity="80" Begin="7" End="8"/>
+    <Note Note="74" Velocity="60" Begin="9" End="9"/>
+    <Note Note="76" Velocity="60" Begin="11" End="12"/>
+    <Note Note="77" Velocity="60" Begin="13" End="14"/>
+    <Note Note="76" Velocity="90" Begin="15" End="16"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="4" Path="C:\Users\amplesound-jrf\Documents\Ample Sound\Strum Patterns"
+           Name="Default4">
+    <Note Note="72" Velocity="90" Begin="1" End="2"/>
+    <Note Note="74" Velocity="30" Begin="3" End="3"/>
+    <Note Note="76" Velocity="60" Begin="4" End="4"/>
+    <Note Note="72" Velocity="60" Begin="5" End="6"/>
+    <Note Note="76" Velocity="70" Begin="7" End="8"/>
+    <Note Note="79" Velocity="30" Begin="9" End="9"/>
+    <Note Note="83" Velocity="40" Begin="10" End="10"/>
+    <Note Note="81" Velocity="50" Begin="11" End="11"/>
+    <Note Note="76" Velocity="60" Begin="12" End="12"/>
+    <Note Note="72" Velocity="70" Begin="13" End="13"/>
+    <Note Note="81" Velocity="40" Begin="14" End="14"/>
+    <Note Note="76" Velocity="80" Begin="15" End="16"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="5" Path="C:\Users\amplesound-jrf\Documents\Ample Sound\Strum Patterns"
+           Name="Default5">
+    <Note Note="72" Velocity="80" Begin="1" End="1"/>
+    <Note Note="78" Velocity="70" Begin="2" End="2"/>
+    <Note Note="72" Velocity="60" Begin="3" End="4"/>
+    <Note Note="72" Velocity="100" Begin="5" End="5"/>
+    <Note Note="81" Velocity="60" Begin="6" End="6"/>
+    <Note Note="83" Velocity="60" Begin="7" End="7"/>
+    <Note Note="76" Velocity="90" Begin="8" End="8"/>
+    <Note Note="72" Velocity="60" Begin="9" End="9"/>
+    <Note Note="83" Velocity="70" Begin="10" End="10"/>
+    <Note Note="72" Velocity="70" Begin="11" End="12"/>
+    <Note Note="81" Velocity="60" Begin="14" End="14"/>
+    <Note Note="83" Velocity="60" Begin="15" End="15"/>
+    <Note Note="76" Velocity="80" Begin="16" End="16"/>
+    <Note Note="72" Velocity="100" Begin="13" End="13"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="6" Path="C:\Users\amplesound-jrf\Documents\Ample Sound\Strum Patterns"
+           Name="Default6">
+    <Note Note="79" Velocity="90" Begin="1" End="1"/>
+    <Note Note="79" Velocity="50" Begin="2" End="2"/>
+    <Note Note="79" Velocity="30" Begin="3" End="3"/>
+    <Note Note="79" Velocity="90" Begin="4" End="4"/>
+    <Note Note="79" Velocity="30" Begin="5" End="5"/>
+    <Note Note="79" Velocity="40" Begin="6" End="6"/>
+    <Note Note="79" Velocity="90" Begin="7" End="7"/>
+    <Note Note="79" Velocity="50" Begin="8" End="8"/>
+    <Note Note="79" Velocity="30" Begin="9" End="9"/>
+    <Note Note="79" Velocity="90" Begin="10" End="10"/>
+    <Note Note="79" Velocity="30" Begin="11" End="11"/>
+    <Note Note="79" Velocity="40" Begin="12" End="12"/>
+    <Note Note="79" Velocity="90" Begin="13" End="13"/>
+    <Note Note="81" Velocity="90" Begin="15" End="15"/>
+    <Note Note="83" Velocity="90" Begin="16" End="16"/>
+    <Note Note="77" Velocity="90" Begin="14" End="14"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="7" Path="C:\Users\amplesound-jrf\Documents\Ample Sound\Strum Patterns"
+           Name="Default7">
+    <Note Note="72" Velocity="80" Begin="1" End="3"/>
+    <Note Note="76" Velocity="50" Begin="4" End="4"/>
+    <Note Note="74" Velocity="100" Begin="5" End="5"/>
+    <Note Note="76" Velocity="30" Begin="6" End="6"/>
+    <Note Note="74" Velocity="60" Begin="7" End="7"/>
+    <Note Note="76" Velocity="70" Begin="8" End="8"/>
+    <Note Note="69" Velocity="80" Begin="9" End="10"/>
+    <Note Note="67" Velocity="70" Begin="9" End="10"/>
+    <Note Note="71" Velocity="90" Begin="11" End="12"/>
+    <Note Note="67" Velocity="60" Begin="14" End="14"/>
+    <Note Note="69" Velocity="60" Begin="15" End="15"/>
+    <Note Note="71" Velocity="80" Begin="16" End="16"/>
+    <Note Note="64" Velocity="80" Begin="13" End="13"/>
+  </Pattern>
+  <Pattern Author="Ample Sound" Category="Pop" Time-Signature="4/4" Quantize="1/16"
+           BPM="100" ID="8" Path="C:\Users\amplesound-jrf\Documents\Ample Sound\Strum Patterns"
+           Name="Default8">
+    <Note Note="64" Velocity="90" Begin="1" End="1"/>
+    <Note Note="67" Velocity="60" Begin="2" End="2"/>
+    <Note Note="69" Velocity="90" Begin="3" End="3"/>
+    <Note Note="67" Velocity="40" Begin="4" End="4"/>
+    <Note Note="71" Velocity="90" Begin="5" End="5"/>
+    <Note Note="67" Velocity="50" Begin="6" End="6"/>
+    <Note Note="69" Velocity="70" Begin="7" End="7"/>
+    <Note Note="67" Velocity="40" Begin="8" End="8"/>
+    <Note Note="67" Velocity="40" Begin="10" End="10"/>
+    <Note Note="69" Velocity="80" Begin="11" End="12"/>
+    <Note Note="71" Velocity="100" Begin="13" End="13"/>
+    <Note Note="67" Velocity="60" Begin="14" End="14"/>
+    <Note Note="69" Velocity="90" Begin="15" End="15"/>
+    <Note Note="71" Velocity="80" Begin="16" End="16"/>
+    <Note Note="77" Velocity="30" Begin="9" End="9"/>
+  </Pattern>
+  <Tab-Path Value="C:\Users\amplesound-jrf\Documents\Ample Sound\Tabs\Guitar\Welcome to Guitar Tab Player.gpx"/>
+  <Layer ID="1" Value="96"/>
+  <Layer ID="2" Value="64"/>
+  <Layer ID="3" Value="32"/>
+  <Control ID="2" Parameter="M-Pitch Bend"/>
+  <Control ID="4" Parameter="M-Vibrato"/>
+  <Control ID="5" Parameter="M-FA Gain"/>
+  <Control ID="10" Parameter="M-Master Vol"/>
+  <Control ID="13" Parameter="M-Pan"/>
+  <Control ID="67" Parameter="Hold Pedal Tog"/>
+  <Control ID="76" Parameter="M-Res Release"/>
+  <Parameter Name="M-Mic 1 Vol" Value="0.89999997615814209"/>
+  <Parameter Name="M-Mic 2 Vol" Value="0.89999997615814209"/>
+  <Parameter Name="M-Master Vol" Value="1"/>
+  <Parameter Name="M-Pan" Value="0"/>
+  <Parameter Name="M-Width" Value="50"/>
+  <Parameter Name="M-Doubling Wid" Value="15"/>
+  <Parameter Name="M-Doubling Tog" Value="0"/>
+  <Parameter Name="M-Rel Gain" Value="0.60000002384185791"/>
+  <Parameter Name="M-Fx Gain" Value="1"/>
+  <Parameter Name="M-Res Gain" Value="1"/>
+  <Parameter Name="M-FA Gain" Value="1"/>
+  <Parameter Name="M-FR Gain" Value="1"/>
+  <Parameter Name="M-Fret Sound" Value="1"/>
+  <Parameter Name="M-Res Release" Value="0.40000000596046448"/>
+  <Parameter Name="M-Start Time" Value="50"/>
+  <Parameter Name="M-Capo" Value="0"/>
+  <Parameter Name="M-Pitch Bend" Value="0"/>
+  <Parameter Name="M-Vibrato" Value="0"/>
+  <Parameter Name="S-Strum Toggle" Value="0"/>
+  <Parameter Name="S-Strum T Mode" Value="0"/>
+  <Parameter Name="S-Strum Time" Value="29"/>
+  <Parameter Name="S-ADSR Switch" Value="0"/>
+  <Parameter Name="S-Body Response" Value="16"/>
+  <Parameter Name="S-Mute Depth" Value="500"/>
+  <Parameter Name="S-Stroke Vol" Value="0.89999997615814209"/>
+  <Parameter Name="S-Hum ST All" Value="0"/>
+  <Parameter Name="S-Hum ST Each" Value="0"/>
+  <Parameter Name="S-Hum Strum Vel" Value="0"/>
+  <Parameter Name="S-Chord Mode" Value="0"/>
+  <Parameter Name="S-Transpose" Value="0"/>
+  <Parameter Name="S-SEQ Sync Tog" Value="1"/>
+  <Parameter Name="S-SEQ Swing" Value="0"/>
+  <Parameter Name="S-SEQ Quantize" Value="2"/>
+  <Parameter Name="S-SEQ Time Sig" Value="2"/>
+  <Parameter Name="T-Loop Toggle" Value="0"/>
+  <Parameter Name="T-Vel Prop" Value="9"/>
+  <Parameter Name="T-Vel Hum" Value="0"/>
+  <Parameter Name="T-Swing" Value="0"/>
+  <Parameter Name="T-Strum T Prop" Value="9"/>
+  <Parameter Name="F-Com-Toggle" Value="0"/>
+  <Parameter Name="F-OD-Toggle" Value="0"/>
+  <Parameter Name="F-EQ-Toggle" Value="0"/>
+  <Parameter Name="F-Wah-Toggle" Value="0"/>
+  <Parameter Name="F-Cho-Toggle" Value="0"/>
+  <Parameter Name="F-Pha-Toggle" Value="0"/>
+  <Parameter Name="F-Dly-Toggle" Value="0"/>
+  <Parameter Name="F-Rev-Toggle" Value="0"/>
+  <Parameter Name="F-Com-Thre" Value="-20"/>
+  <Parameter Name="F-Com-Ratio" Value="0.5"/>
+  <Parameter Name="F-Com-Attack" Value="5"/>
+  <Parameter Name="F-Com-Release" Value="50"/>
+  <Parameter Name="F-Com-Gain" Value="2"/>
+  <Parameter Name="F-OD-Gain" Value="150"/>
+  <Parameter Name="F-OD-Output" Value="0.10000000149011612"/>
+  <Parameter Name="F-OD-Tone" Value="3200"/>
+  <Parameter Name="F-EQ-Q1 Toggle" Value="0"/>
+  <Parameter Name="F-EQ-Q1 Gain" Value="0"/>
+  <Parameter Name="F-EQ-Q5 Toggle" Value="0"/>
+  <Parameter Name="F-EQ-Q5 Gain" Value="0"/>
+  <Parameter Name="F-EQ-Q2 Gain" Value="0"/>
+  <Parameter Name="F-EQ-Q3 Gain" Value="0"/>
+  <Parameter Name="F-EQ-Q4 Gain" Value="0"/>
+  <Parameter Name="F-Wah-Min" Value="550"/>
+  <Parameter Name="F-Wah-Max" Value="4000"/>
+  <Parameter Name="F-Wah-Pedal" Value="550"/>
+  <Parameter Name="F-Cho-Send" Value="0.5"/>
+  <Parameter Name="F-Pha-Send" Value="0.20000000298023224"/>
+  <Parameter Name="F-Dly-Send" Value="0.10000000149011612"/>
+  <Parameter Name="F-Rev-Send" Value="0.20000000298023224"/>
+  <Parameter Name="F-Cho-Depth" Value="0.10000000149011612"/>
+  <Parameter Name="F-Cho-Rate" Value="0.10000000149011612"/>
+  <Parameter Name="F-Pha-Depth" Value="0.5"/>
+  <Parameter Name="F-Pha-Rate" Value="0.5"/>
+  <Parameter Name="F-Pha-Feedback" Value="0.5"/>
+  <Parameter Name="F-Dly-L.Time" Value="0.25"/>
+  <Parameter Name="F-Dly-R.Time" Value="0.5"/>
+  <Parameter Name="F-Dly-Feedback" Value="0.30000001192092896"/>
+  <Parameter Name="F-Rev-Width" Value="1"/>
+  <Parameter Name="F-Rev-Damp" Value="0.5"/>
+  <Parameter Name="F-Rev-Size" Value="0.49999994039535522"/>
+  <Parameter Name="Sound Mode" Value="0"/>
+  <Parameter Name="Str 6 Tuner" Value="0"/>
+  <Parameter Name="Str 5 Tuner" Value="0"/>
+  <Parameter Name="Str 4 Tuner" Value="0"/>
+  <Parameter Name="Str 3 Tuner" Value="0"/>
+  <Parameter Name="Str 2 Tuner" Value="0"/>
+  <Parameter Name="Str 1 Tuner" Value="0"/>
+  <Parameter Name="Open Str First" Value="0"/>
+  <Parameter Name="Hold Pedal Tog" Value="0"/>
+  <Parameter Name="Play Mode" Value="0"/>
+  <Parameter Name="Auto Legato" Value="0"/>
+  <Parameter Name="Bend Range" Value="2"/>
+  <Parameter Name="Poly Bender Tog" Value="0"/>
+  <Parameter Name="Mod Range" Value="0.25"/>
+  <Parameter Name="Auto Mod Tog" Value="0"/>
+  <Parameter Name="Pedal Noise Tog" Value="1"/>
+  <Parameter Name="Num Host Params" Value="0"/>
+  <Parameter Name="S-Chord Root 1" Value="0"/>
+  <Parameter Name="S-Chord Root 2" Value="9"/>
+  <Parameter Name="S-Chord Root 3" Value="2"/>
+  <Parameter Name="S-Chord Root 4" Value="5"/>
+  <Parameter Name="S-Chord Root 5" Value="4"/>
+  <Parameter Name="S-Chord Root 6" Value="5"/>
+  <Parameter Name="S-Chord Root 7" Value="2"/>
+  <Parameter Name="S-Chord Root 8" Value="7"/>
+  <Parameter Name="S-Chord Root 9" Value="4"/>
+  <Parameter Name="S-Chord Root 10" Value="9"/>
+  <Parameter Name="S-Chord Root 11" Value="10"/>
+  <Parameter Name="S-Chord Root 12" Value="7"/>
+  <Parameter Name="S-Chord Root 13" Value="0"/>
+  <Parameter Name="S-Chord Root 14" Value="9"/>
+  <Parameter Name="S-Chord Root 15" Value="2"/>
+  <Parameter Name="S-Chord Root 16" Value="5"/>
+  <Parameter Name="S-Chord Root 17" Value="4"/>
+  <Parameter Name="S-Chord Root 18" Value="5"/>
+  <Parameter Name="S-Chord Root 19" Value="2"/>
+  <Parameter Name="S-Chord Root 20" Value="7"/>
+  <Parameter Name="S-Chord Root 21" Value="4"/>
+  <Parameter Name="S-Chord Root 22" Value="9"/>
+  <Parameter Name="S-Chord Root 23" Value="10"/>
+  <Parameter Name="S-Chord Root 24" Value="7"/>
+  <Parameter Name="S-Dt Chord R" Value="0"/>
+  <Parameter Name="S-Chord Type 1" Value="0"/>
+  <Parameter Name="S-Chord Type 2" Value="0"/>
+  <Parameter Name="S-Chord Type 3" Value="1"/>
+  <Parameter Name="S-Chord Type 4" Value="1"/>
+  <Parameter Name="S-Chord Type 5" Value="1"/>
+  <Parameter Name="S-Chord Type 6" Value="0"/>
+  <Parameter Name="S-Chord Type 7" Value="0"/>
+  <Parameter Name="S-Chord Type 8" Value="0"/>
+  <Parameter Name="S-Chord Type 9" Value="0"/>
+  <Parameter Name="S-Chord Type 10" Value="1"/>
+  <Parameter Name="S-Chord Type 11" Value="0"/>
+  <Parameter Name="S-Chord Type 12" Value="2"/>
+  <Parameter Name="S-Chord Type 13" Value="0"/>
+  <Parameter Name="S-Chord Type 14" Value="0"/>
+  <Parameter Name="S-Chord Type 15" Value="1"/>
+  <Parameter Name="S-Chord Type 16" Value="1"/>
+  <Parameter Name="S-Chord Type 17" Value="1"/>
+  <Parameter Name="S-Chord Type 18" Value="0"/>
+  <Parameter Name="S-Chord Type 19" Value="0"/>
+  <Parameter Name="S-Chord Type 20" Value="0"/>
+  <Parameter Name="S-Chord Type 21" Value="0"/>
+  <Parameter Name="S-Chord Type 22" Value="1"/>
+  <Parameter Name="S-Chord Type 23" Value="0"/>
+  <Parameter Name="S-Chord Type 24" Value="2"/>
+  <Parameter Name="S-Dt Chord T" Value="0"/>
+  <Parameter Name="S-Chord Pos 1" Value="0"/>
+  <Parameter Name="S-Chord Pos 2" Value="0"/>
+  <Parameter Name="S-Chord Pos 3" Value="0"/>
+  <Parameter Name="S-Chord Pos 4" Value="0"/>
+  <Parameter Name="S-Chord Pos 5" Value="0"/>
+  <Parameter Name="S-Chord Pos 6" Value="0"/>
+  <Parameter Name="S-Chord Pos 7" Value="0"/>
+  <Parameter Name="S-Chord Pos 8" Value="0"/>
+  <Parameter Name="S-Chord Pos 9" Value="0"/>
+  <Parameter Name="S-Chord Pos 10" Value="0"/>
+  <Parameter Name="S-Chord Pos 11" Value="0"/>
+  <Parameter Name="S-Chord Pos 12" Value="0"/>
+  <Parameter Name="S-Chord Pos 13" Value="0"/>
+  <Parameter Name="S-Chord Pos 14" Value="0"/>
+  <Parameter Name="S-Chord Pos 15" Value="0"/>
+  <Parameter Name="S-Chord Pos 16" Value="0"/>
+  <Parameter Name="S-Chord Pos 17" Value="0"/>
+  <Parameter Name="S-Chord Pos 18" Value="0"/>
+  <Parameter Name="S-Chord Pos 19" Value="0"/>
+  <Parameter Name="S-Chord Pos 20" Value="0"/>
+  <Parameter Name="S-Chord Pos 21" Value="0"/>
+  <Parameter Name="S-Chord Pos 22" Value="0"/>
+  <Parameter Name="S-Chord Pos 23" Value="0"/>
+  <Parameter Name="S-Chord Pos 24" Value="0"/>
+  <Parameter Name="S-Dt Chord P" Value="0"/>
+  <Parameter Name="S-Chord Index" Value="0"/>
+  <Parameter Name="S-Chord Page" Value="0"/>
+  <Parameter Name="S-Pattern Index" Value="0"/>
+  <Parameter Name="S-SEQ Play Tog" Value="0"/>
+  <Parameter Name="T-Play Toggle" Value="0"/>
+  <Parameter Name="T-Track Index" Value="0"/>
+  <Parameter Name="Master Tune" Value="440"/>
+  <Parameter Name="MIDI Out" Value="0"/>
+  <Parameter Name="Max Voices" Value="64"/>
+  <Parameter Name="Vel Sensitivity" Value="100"/>
+  <DBName Value="AGML2Fg"/>
+  <Tune-Path Value="C:\Users\amplesound-jrf\Documents\Ample Sound\AGML2\Tune\Tune_Default.AGML2Fg"/>
+</AAG_STATE>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AEG_STATE Name="Kane's_Setting">
+  <Articulation Value="Sus"/>
+  <Position Value="0"/>
+  <Tab-Path Value="C:\Users\amplesound-jrf\Documents\Ample Sound\Tabs\Bass\Welcome to Bass Tab Player.gp5"/>
+  <Layer ID="1" Value="64"/>
+  <Control ID="2" Parameter="M-Pitch Bend"/>
+  <Control ID="4" Parameter="M-Vibrato"/>
+  <Control ID="5" Parameter="M-FA Gain"/>
+  <Control ID="10" Parameter="Master Vol"/>
+  <Control ID="67" Parameter="Hold Pedal Tog"/>
+  <Parameter Name="Master Vol" Value="1"/>
+  <Parameter Name="Pan" Value="0"/>
+  <Parameter Name="Slap Vol Ratio" Value="1"/>
+  <Parameter Name="M-Buzz Freq" Value="20"/>
+  <Parameter Name="M-Buzz Toggle" Value="0"/>
+  <Parameter Name="M-Acc Freq" Value="20"/>
+  <Parameter Name="M-Acc Toggle" Value="0"/>
+  <Parameter Name="M-Rel Gain" Value="0.5"/>
+  <Parameter Name="M-Fx Gain" Value="1"/>
+  <Parameter Name="M-Acc Gain" Value="0.20000000298023224"/>
+  <Parameter Name="M-FA Gain" Value="0.5"/>
+  <Parameter Name="M-FR Gain" Value="1"/>
+  <Parameter Name="M-Fret Sound" Value="1"/>
+  <Parameter Name="M-Fade In" Value="0"/>
+  <Parameter Name="M-Start Time" Value="0"/>
+  <Parameter Name="M-Capo" Value="0"/>
+  <Parameter Name="M-Pitch Bend" Value="0"/>
+  <Parameter Name="M-Vibrato" Value="0"/>
+  <Parameter Name="T-Loop Toggle" Value="0"/>
+  <Parameter Name="T-Vel Prop" Value="9"/>
+  <Parameter Name="T-Vel Hum" Value="0"/>
+  <Parameter Name="T-Swing" Value="0"/>
+  <Parameter Name="T-Duration" Value="9"/>
+  <Parameter Name="Str 4 Tuner" Value="-2"/>
+  <Parameter Name="Str 3 Tuner" Value="0"/>
+  <Parameter Name="Str 2 Tuner" Value="0"/>
+  <Parameter Name="Str 1 Tuner" Value="0"/>
+  <Parameter Name="Open Str First" Value="0"/>
+  <Parameter Name="Hold Pedal Tog" Value="0"/>
+  <Parameter Name="Play Mode" Value="0"/>
+  <Parameter Name="Auto Legato" Value="0"/>
+  <Parameter Name="Bend Range" Value="2"/>
+  <Parameter Name="Poly Bender Tog" Value="0"/>
+  <Parameter Name="Mod Range" Value="0.25"/>
+  <Parameter Name="Auto Mod Tog" Value="0"/>
+  <Parameter Name="Pedal Noise Tog" Value="1"/>
+  <Parameter Name="Num Host Params" Value="0"/>
+  <Parameter Name="T-Play Toggle" Value="0"/>
+  <Parameter Name="T-Track Index" Value="0"/>
+  <Parameter Name="Master Tune" Value="440"/>
+  <Parameter Name="MIDI Out" Value="0"/>
+  <Parameter Name="Max Voices" Value="64"/>
+  <Parameter Name="Vel Sensitivity" Value="100"/>
+  <DBName Value="ABPL2Fg"/>
+  <Tune-Path Value="C:\Users\amplesound-jrf\Documents\Ample Sound\ABP2\Tune\Tune_Default.ABPL2Fg"/>
+</AEG_STATE>

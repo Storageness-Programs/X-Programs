@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Infos>
+  <AuthorInfo Name="Ample Sound"/>
+  <InstDB DBName="ABPL2Fg"/>
+  <SampleInfo>
+    <sample ID="181" DBName="ABPL2Fg" Articulation="Sus4" RootNote="40" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="182" DBName="ABPL2Fg" Articulation="Sus4" RootNote="40" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="183" DBName="ABPL2Fg" Articulation="Sus4" RootNote="40" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="184" DBName="ABPL2Fg" Articulation="Sus4" RootNote="40" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="185" DBName="ABPL2Fg" Articulation="Sus4" RootNote="41" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="186" DBName="ABPL2Fg" Articulation="Sus4" RootNote="41" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="187" DBName="ABPL2Fg" Articulation="Sus4" RootNote="41" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="188" DBName="ABPL2Fg" Articulation="Sus4" RootNote="41" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="189" DBName="ABPL2Fg" Articulation="Sus4" RootNote="42" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="190" DBName="ABPL2Fg" Articulation="Sus4" RootNote="42" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="191" DBName="ABPL2Fg" Articulation="Sus4" RootNote="42" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="192" DBName="ABPL2Fg" Articulation="Sus4" RootNote="42" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="193" DBName="ABPL2Fg" Articulation="Sus4" RootNote="43" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="194" DBName="ABPL2Fg" Articulation="Sus4" RootNote="43" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="195" DBName="ABPL2Fg" Articulation="Sus4" RootNote="43" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="196" DBName="ABPL2Fg" Articulation="Sus4" RootNote="43" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="197" DBName="ABPL2Fg" Articulation="Sus4" RootNote="44" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="198" DBName="ABPL2Fg" Articulation="Sus4" RootNote="44" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="199" DBName="ABPL2Fg" Articulation="Sus4" RootNote="44" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="200" DBName="ABPL2Fg" Articulation="Sus4" RootNote="44" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="161" DBName="ABPL2Fg" Articulation="Sus3" RootNote="45" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="162" DBName="ABPL2Fg" Articulation="Sus3" RootNote="45" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="163" DBName="ABPL2Fg" Articulation="Sus3" RootNote="45" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="164" DBName="ABPL2Fg" Articulation="Sus3" RootNote="45" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="165" DBName="ABPL2Fg" Articulation="Sus3" RootNote="46" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="166" DBName="ABPL2Fg" Articulation="Sus3" RootNote="46" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="167" DBName="ABPL2Fg" Articulation="Sus3" RootNote="46" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="168" DBName="ABPL2Fg" Articulation="Sus3" RootNote="46" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="169" DBName="ABPL2Fg" Articulation="Sus3" RootNote="47" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="170" DBName="ABPL2Fg" Articulation="Sus3" RootNote="47" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="171" DBName="ABPL2Fg" Articulation="Sus3" RootNote="47" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="172" DBName="ABPL2Fg" Articulation="Sus3" RootNote="47" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="173" DBName="ABPL2Fg" Articulation="Sus3" RootNote="48" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="174" DBName="ABPL2Fg" Articulation="Sus3" RootNote="48" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="175" DBName="ABPL2Fg" Articulation="Sus3" RootNote="48" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="176" DBName="ABPL2Fg" Articulation="Sus3" RootNote="48" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="177" DBName="ABPL2Fg" Articulation="Sus3" RootNote="49" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="178" DBName="ABPL2Fg" Articulation="Sus3" RootNote="49" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="179" DBName="ABPL2Fg" Articulation="Sus3" RootNote="49" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="180" DBName="ABPL2Fg" Articulation="Sus3" RootNote="49" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="141" DBName="ABPL2Fg" Articulation="Sus2" RootNote="50" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="142" DBName="ABPL2Fg" Articulation="Sus2" RootNote="50" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="143" DBName="ABPL2Fg" Articulation="Sus2" RootNote="50" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="144" DBName="ABPL2Fg" Articulation="Sus2" RootNote="50" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="145" DBName="ABPL2Fg" Articulation="Sus2" RootNote="51" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="146" DBName="ABPL2Fg" Articulation="Sus2" RootNote="51" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="147" DBName="ABPL2Fg" Articulation="Sus2" RootNote="51" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="148" DBName="ABPL2Fg" Articulation="Sus2" RootNote="51" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="149" DBName="ABPL2Fg" Articulation="Sus2" RootNote="52" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="150" DBName="ABPL2Fg" Articulation="Sus2" RootNote="52" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="151" DBName="ABPL2Fg" Articulation="Sus2" RootNote="52" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="152" DBName="ABPL2Fg" Articulation="Sus2" RootNote="52" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="153" DBName="ABPL2Fg" Articulation="Sus2" RootNote="53" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="154" DBName="ABPL2Fg" Articulation="Sus2" RootNote="53" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="155" DBName="ABPL2Fg" Articulation="Sus2" RootNote="53" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="156" DBName="ABPL2Fg" Articulation="Sus2" RootNote="53" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="157" DBName="ABPL2Fg" Articulation="Sus2" RootNote="54" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="158" DBName="ABPL2Fg" Articulation="Sus2" RootNote="54" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="159" DBName="ABPL2Fg" Articulation="Sus2" RootNote="54" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="160" DBName="ABPL2Fg" Articulation="Sus2" RootNote="54" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="55" DBName="ABPL2Fg" Articulation="Sus1" RootNote="55" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="56" DBName="ABPL2Fg" Articulation="Sus1" RootNote="55" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="57" DBName="ABPL2Fg" Articulation="Sus1" RootNote="55" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="58" DBName="ABPL2Fg" Articulation="Sus1" RootNote="55" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="59" DBName="ABPL2Fg" Articulation="Sus1" RootNote="56" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="60" DBName="ABPL2Fg" Articulation="Sus1" RootNote="56" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="61" DBName="ABPL2Fg" Articulation="Sus1" RootNote="56" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="62" DBName="ABPL2Fg" Articulation="Sus1" RootNote="56" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="103" DBName="ABPL2Fg" Articulation="Sus1" RootNote="57" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="104" DBName="ABPL2Fg" Articulation="Sus1" RootNote="57" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="105" DBName="ABPL2Fg" Articulation="Sus1" RootNote="57" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="106" DBName="ABPL2Fg" Articulation="Sus1" RootNote="57" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="113" DBName="ABPL2Fg" Articulation="Sus1" RootNote="58" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="114" DBName="ABPL2Fg" Articulation="Sus1" RootNote="58" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="115" DBName="ABPL2Fg" Articulation="Sus1" RootNote="58" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="116" DBName="ABPL2Fg" Articulation="Sus1" RootNote="58" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="117" DBName="ABPL2Fg" Articulation="Sus1" RootNote="59" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="118" DBName="ABPL2Fg" Articulation="Sus1" RootNote="59" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="119" DBName="ABPL2Fg" Articulation="Sus1" RootNote="59" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="120" DBName="ABPL2Fg" Articulation="Sus1" RootNote="59" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="121" DBName="ABPL2Fg" Articulation="Sus1" RootNote="60" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="122" DBName="ABPL2Fg" Articulation="Sus1" RootNote="60" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="123" DBName="ABPL2Fg" Articulation="Sus1" RootNote="60" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="124" DBName="ABPL2Fg" Articulation="Sus1" RootNote="60" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="125" DBName="ABPL2Fg" Articulation="Sus1" RootNote="61" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="126" DBName="ABPL2Fg" Articulation="Sus1" RootNote="61" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="127" DBName="ABPL2Fg" Articulation="Sus1" RootNote="61" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="128" DBName="ABPL2Fg" Articulation="Sus1" RootNote="61" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="129" DBName="ABPL2Fg" Articulation="Sus1" RootNote="62" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="130" DBName="ABPL2Fg" Articulation="Sus1" RootNote="62" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="131" DBName="ABPL2Fg" Articulation="Sus1" RootNote="62" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="132" DBName="ABPL2Fg" Articulation="Sus1" RootNote="62" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="133" DBName="ABPL2Fg" Articulation="Sus1" RootNote="63" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="134" DBName="ABPL2Fg" Articulation="Sus1" RootNote="63" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="135" DBName="ABPL2Fg" Articulation="Sus1" RootNote="63" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="136" DBName="ABPL2Fg" Articulation="Sus1" RootNote="63" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="137" DBName="ABPL2Fg" Articulation="Sus1" RootNote="64" VelLayer="0"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="138" DBName="ABPL2Fg" Articulation="Sus1" RootNote="64" VelLayer="0"
+            Cycle="1" Tune="2" Gain="1"/>
+    <sample ID="139" DBName="ABPL2Fg" Articulation="Sus1" RootNote="64" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="140" DBName="ABPL2Fg" Articulation="Sus1" RootNote="64" VelLayer="1"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="63" DBName="ABPL2Fg" Articulation="Sus1" RootNote="65" VelLayer="0"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="64" DBName="ABPL2Fg" Articulation="Sus1" RootNote="65" VelLayer="0"
+            Cycle="1" Tune="-1" Gain="1"/>
+    <sample ID="65" DBName="ABPL2Fg" Articulation="Sus1" RootNote="65" VelLayer="1"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="66" DBName="ABPL2Fg" Articulation="Sus1" RootNote="65" VelLayer="1"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="67" DBName="ABPL2Fg" Articulation="Sus1" RootNote="66" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="68" DBName="ABPL2Fg" Articulation="Sus1" RootNote="66" VelLayer="0"
+            Cycle="1" Tune="-2" Gain="1"/>
+    <sample ID="69" DBName="ABPL2Fg" Articulation="Sus1" RootNote="66" VelLayer="1"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="70" DBName="ABPL2Fg" Articulation="Sus1" RootNote="66" VelLayer="1"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="71" DBName="ABPL2Fg" Articulation="Sus1" RootNote="67" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="72" DBName="ABPL2Fg" Articulation="Sus1" RootNote="67" VelLayer="0"
+            Cycle="1" Tune="-1" Gain="1"/>
+    <sample ID="73" DBName="ABPL2Fg" Articulation="Sus1" RootNote="67" VelLayer="1"
+            Cycle="0" Tune="0" Gain="1"/>
+    <sample ID="74" DBName="ABPL2Fg" Articulation="Sus1" RootNote="67" VelLayer="1"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="75" DBName="ABPL2Fg" Articulation="Sus1" RootNote="68" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="76" DBName="ABPL2Fg" Articulation="Sus1" RootNote="68" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="77" DBName="ABPL2Fg" Articulation="Sus1" RootNote="68" VelLayer="1"
+            Cycle="0" Tune="2" Gain="1"/>
+    <sample ID="78" DBName="ABPL2Fg" Articulation="Sus1" RootNote="68" VelLayer="1"
+            Cycle="1" Tune="-5" Gain="1"/>
+    <sample ID="79" DBName="ABPL2Fg" Articulation="Sus1" RootNote="69" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="80" DBName="ABPL2Fg" Articulation="Sus1" RootNote="69" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="81" DBName="ABPL2Fg" Articulation="Sus1" RootNote="69" VelLayer="1"
+            Cycle="0" Tune="6" Gain="1"/>
+    <sample ID="82" DBName="ABPL2Fg" Articulation="Sus1" RootNote="69" VelLayer="1"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="83" DBName="ABPL2Fg" Articulation="Sus1" RootNote="70" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="84" DBName="ABPL2Fg" Articulation="Sus1" RootNote="70" VelLayer="0"
+            Cycle="1" Tune="-3" Gain="1"/>
+    <sample ID="85" DBName="ABPL2Fg" Articulation="Sus1" RootNote="70" VelLayer="1"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="86" DBName="ABPL2Fg" Articulation="Sus1" RootNote="70" VelLayer="1"
+            Cycle="1" Tune="-6" Gain="1"/>
+    <sample ID="87" DBName="ABPL2Fg" Articulation="Sus1" RootNote="71" VelLayer="0"
+            Cycle="0" Tune="-14" Gain="1"/>
+    <sample ID="88" DBName="ABPL2Fg" Articulation="Sus1" RootNote="71" VelLayer="0"
+            Cycle="1" Tune="-1" Gain="1"/>
+    <sample ID="89" DBName="ABPL2Fg" Articulation="Sus1" RootNote="71" VelLayer="1"
+            Cycle="0" Tune="-12" Gain="1"/>
+    <sample ID="90" DBName="ABPL2Fg" Articulation="Sus1" RootNote="71" VelLayer="1"
+            Cycle="1" Tune="-6" Gain="1"/>
+    <sample ID="91" DBName="ABPL2Fg" Articulation="Sus1" RootNote="72" VelLayer="0"
+            Cycle="0" Tune="-16" Gain="1"/>
+    <sample ID="92" DBName="ABPL2Fg" Articulation="Sus1" RootNote="72" VelLayer="0"
+            Cycle="1" Tune="-4" Gain="1"/>
+    <sample ID="93" DBName="ABPL2Fg" Articulation="Sus1" RootNote="72" VelLayer="1"
+            Cycle="0" Tune="-8" Gain="1"/>
+    <sample ID="94" DBName="ABPL2Fg" Articulation="Sus1" RootNote="72" VelLayer="1"
+            Cycle="1" Tune="-8" Gain="1"/>
+    <sample ID="95" DBName="ABPL2Fg" Articulation="Sus1" RootNote="73" VelLayer="0"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="96" DBName="ABPL2Fg" Articulation="Sus1" RootNote="73" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="97" DBName="ABPL2Fg" Articulation="Sus1" RootNote="73" VelLayer="1"
+            Cycle="0" Tune="-11" Gain="1"/>
+    <sample ID="98" DBName="ABPL2Fg" Articulation="Sus1" RootNote="73" VelLayer="1"
+            Cycle="1" Tune="-9" Gain="1"/>
+    <sample ID="99" DBName="ABPL2Fg" Articulation="Sus1" RootNote="74" VelLayer="0"
+            Cycle="0" Tune="-9" Gain="1"/>
+    <sample ID="100" DBName="ABPL2Fg" Articulation="Sus1" RootNote="74" VelLayer="0"
+            Cycle="1" Tune="0" Gain="1"/>
+    <sample ID="101" DBName="ABPL2Fg" Articulation="Sus1" RootNote="74" VelLayer="1"
+            Cycle="0" Tune="-6" Gain="1"/>
+    <sample ID="102" DBName="ABPL2Fg" Articulation="Sus1" RootNote="74" VelLayer="1"
+            Cycle="1" Tune="-8" Gain="1"/>
+    <sample ID="107" DBName="ABPL2Fg" Articulation="Sus1" RootNote="75" VelLayer="0"
+            Cycle="0" Tune="-5" Gain="1"/>
+    <sample ID="108" DBName="ABPL2Fg" Articulation="Sus1" RootNote="75" VelLayer="1"
+            Cycle="0" Tune="-10" Gain="1"/>
+    <sample ID="109" DBName="ABPL2Fg" Articulation="Sus1" RootNote="76" VelLayer="0"
+            Cycle="0" Tune="1" Gain="1"/>
+    <sample ID="110" DBName="ABPL2Fg" Articulation="Sus1" RootNote="76" VelLayer="1"
+            Cycle="0" Tune="-7" Gain="1"/>
+    <sample ID="111" DBName="ABPL2Fg" Articulation="Sus1" RootNote="77" VelLayer="0"
+            Cycle="0" Tune="4" Gain="1"/>
+    <sample ID="112" DBName="ABPL2Fg" Articulation="Sus1" RootNote="77" VelLayer="1"
+            Cycle="0" Tune="-11" Gain="1"/>
+  </SampleInfo>
+</Infos>

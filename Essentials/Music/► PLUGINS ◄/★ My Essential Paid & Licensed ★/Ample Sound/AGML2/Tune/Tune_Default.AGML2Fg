@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Infos>
+  <AuthorInfo Name="Ample Sound"/>
+  <InstDB DBName="AGML2Fg"/>
+  <SampleInfo>
+    <0 ID="0" DBName="AGML2Fg" Articulation="Sus1" RootNote="64" VelLayer="0"
+       Cycle="0" Tune="-7" Gain="1"/>
+    <1 ID="1" DBName="AGML2Fg" Articulation="Sus1" RootNote="64" VelLayer="0"
+       Cycle="1" Tune="-6" Gain="1"/>
+    <2 ID="2" DBName="AGML2Fg" Articulation="Sus1" RootNote="64" VelLayer="1"
+       Cycle="0" Tune="-3" Gain="1"/>
+    <3 ID="3" DBName="AGML2Fg" Articulation="Sus1" RootNote="64" VelLayer="1"
+       Cycle="1" Tune="-4" Gain="1"/>
+    <4 ID="4" DBName="AGML2Fg" Articulation="Sus1" RootNote="64" VelLayer="2"
+       Cycle="0" Tune="0" Gain="1"/>
+    <5 ID="5" DBName="AGML2Fg" Articulation="Sus1" RootNote="64" VelLayer="2"
+       Cycle="1" Tune="-3" Gain="1"/>
+    <6 ID="6" DBName="AGML2Fg" Articulation="Sus1" RootNote="64" VelLayer="3"
+       Cycle="0" Tune="-2" Gain="1"/>
+    <7 ID="7" DBName="AGML2Fg" Articulation="Sus1" RootNote="64" VelLayer="3"
+       Cycle="1" Tune="-3" Gain="1"/>
+    <8 ID="8" DBName="AGML2Fg" Articulation="Sus1" RootNote="65" VelLayer="0"
+       Cycle="0" Tune="-4" Gain="1"/>
+    <9 ID="9" DBName="AGML2Fg" Articulation="Sus1" RootNote="65" VelLayer="0"
+       Cycle="1" Tune="-3" Gain="1"/>
+    <10 ID="10" DBName="AGML2Fg" Articulation="Sus1" RootNote="65" VelLayer="1"
+        Cycle="0" Tune="-4" Gain="1"/>
+    <11 ID="11" DBName="AGML2Fg" Articulation="Sus1" RootNote="65" VelLayer="1"
+        Cycle="1" Tune="-3" Gain="1"/>
+    <12 ID="12" DBName="AGML2Fg" Articulation="Sus1" RootNote="65" VelLayer="2"
+        Cycle="0" Tune="-4" Gain="1"/>
+    <13 ID="13" DBName="AGML2Fg" Articulation="Sus1" RootNote="65" VelLayer="2"
+        Cycle="1" Tune="-4" Gain="1"/>
+    <14 ID="14" DBName="AGML2Fg" Articulation="Sus1" RootNote="65" VelLayer="3"
+        Cycle="0" Tune="-3" Gain="1"/>
+    <15 ID="15" DBName="AGML2Fg" Articulation="Sus1" RootNote="65" VelLayer="3"
+        Cycle="1" Tune="-3" Gain="1"/>
+    <16 ID="16" DBName="AGML2Fg" Articulation="Sus1" RootNote="66" VelLayer="0"
+        Cycle="0" Tune="-2" Gain="1"/>
+    <17 ID="17" DBName="AGML2Fg" Articulation="Sus1" RootNote="66" VelLayer="0"
+        Cycle="1" Tune="-2" Gain="1"/>
+    <18 ID="18" DBName="AGML2Fg" Articulation="Sus1" RootNote="66" VelLayer="1"
+        Cycle="0" Tune="-3" Gain="1"/>
+    <19 ID="19" DBName="AGML2Fg" Articulation="Sus1" RootNote="66" VelLayer="1"
+        Cycle="1" Tune="-3" Gain="1"/>
+    <20 ID="20" DBName="AGML2Fg" Articulation="Sus1" RootNote="66" VelLayer="2"
+        Cycle="0" Tune="-2" Gain="1"/>
+    <21 ID="21" DBName="AGML2Fg" Articulation="Sus1" RootNote="66" VelLayer="2"
+        Cycle="1" Tune="-2" Gain="1"/>
+    <22 ID="22" DBName="AGML2Fg" Articulation="Sus1" RootNote="66" VelLayer="3"
+        Cycle="0" Tune="-2" Gain="1"/>
+    <23 ID="23" DBName="AGML2Fg" Articulation="Sus1" RootNote="66" VelLayer="3"
+        Cycle="1" Tune="-3" Gain="1"/>
+    <24 ID="24" DBName="AGML2Fg" Articulation="Sus1" RootNote="67" VelLayer="0"
+        Cycle="0" Tune="-2" Gain="1"/>
+    <25 ID="25" DBName="AGML2Fg" Articulation="Sus1" RootNote="67" VelLayer="0"
+        Cycle="1" Tune="-2" Gain="1"/>
+    <26 ID="26" DBName="AGML2Fg" Articulation="Sus1" RootNote="67" VelLayer="1"
+        Cycle="0" Tune="-2" Gain="1"/>
+    <27 ID="27" DBName="AGML2Fg" Articulation="Sus1" RootNote="67" VelLayer="1"
+        Cycle="1" Tune="-1" Gain="1"/>
+    <28 ID="28" DBName="AGML2Fg" Articulation="Sus1" RootNote="67" VelLayer="2"
+        Cycle="0" Tune="0" Gain="1"/>
+    <29 ID="29" DBName="AGML2Fg" Articulation="Sus1" RootNote="67" VelLayer="2"
+        Cycle="1" Tune="-1" Gain="1"/>
+    <30 ID="30" DBName="AGML2Fg" Articulation="Sus1" RootNote="67" VelLayer="3"
+        Cycle="0" Tune="0" Gain="1"/>
+    <31 ID="31" DBName="AGML2Fg" Articulation="Sus1" RootNote="67" VelLayer="3"
+        Cycle="1" Tune="-1" Gain="1"/>
+    <32 ID="32" DBName="AGML2Fg" Articulation="Sus1" RootNote="68" VelLayer="0"
+        Cycle="0" Tune="-1" Gain="1"/>
+    <33 ID="33" DBName="AGML2Fg" Articulation="Sus1" RootNote="68" VelLayer="1"
+        Cycle="0" Tune="-2" Gain="1"/>
+    <34 ID="34" DBName="AGML2Fg" Articulation="Sus1" RootNote="68" VelLayer="1"
+        Cycle="1" Tune="-1" Gain="1"/>
+    <35 ID="35" DBName="AGML2Fg" Articulation="Sus1" RootNote="68" VelLayer="2"
+        Cycle="0" Tune="-2" Gain="1"/>
+    <36 ID="36" DBName="AGML2Fg" Articulation="Sus1" RootNote="68" VelLayer="2"
+        Cycle="1" Tune="-1" Gain="1"/>
+    <37 ID="37" DBName="AGML2Fg" Articulation="Sus1" RootNote="68" VelLayer="3"
+        Cycle="0" Tune="-1" Gain="1"/>
+    <38 ID="38" DBName="AGML2Fg" Articulation="Sus2" RootNote="59" VelLayer="0"
+        Cycle="0" Tune="-1" Gain="1"/>
+    <39 ID="39" DBName="AGML2Fg" Articulation="Sus2" RootNote="59" VelLayer="0"
+        Cycle="1" Tune="0" Gain="1"/>
+    <40 ID="40" DBName="AGML2Fg" Articulation="Sus2" RootNote="59" VelLayer="1"
+        Cycle="0" Tune="5" Gain="1"/>
+    <41 ID="41" DBName="AGML2Fg" Articulation="Sus2" RootNote="59" VelLayer="1"
+        Cycle="1" Tune="0" Gain="1"/>
+    <42 ID="42" DBName="AGML2Fg" Articulation="Sus2" RootNote="59" VelLayer="2"
+        Cycle="0" Tune="-5" Gain="1"/>
+    <43 ID="43" DBName="AGML2Fg" Articulation="Sus2" RootNote="59" VelLayer="2"
+        Cycle="1" Tune="-5" Gain="1"/>
+    <44 ID="44" DBName="AGML2Fg" Articulation="Sus2" RootNote="59" VelLayer="3"
+        Cycle="0" Tune="0" Gain="1"/>
+    <45 ID="45" DBName="AGML2Fg" Articulation="Sus2" RootNote="59" VelLayer="3"
+        Cycle="1" Tune="5" Gain="1"/>
+    <46 ID="46" DBName="AGML2Fg" Articulation="Sus2" RootNote="60" VelLayer="0"
+        Cycle="0" Tune="-3" Gain="1"/>
+    <47 ID="47" DBName="AGML2Fg" Articulation="Sus2" RootNote="60" VelLayer="0"
+        Cycle="1" Tune="-6" Gain="1"/>
+    <48 ID="48" DBName="AGML2Fg" Articulation="Sus2" RootNote="60" VelLayer="1"
+        Cycle="0" Tune="0" Gain="1"/>
+    <49 ID="49" DBName="AGML2Fg" Articulation="Sus2" RootNote="60" VelLayer="1"
+        Cycle="1" Tune="-2" Gain="1"/>
+    <50 ID="50" DBName="AGML2Fg" Articulation="Sus2" RootNote="60" VelLayer="2"
+        Cycle="0" Tune="-4" Gain="1"/>
+    <51 ID="51" DBName="AGML2Fg" Articulation="Sus2" RootNote="60" VelLayer="2"
+        Cycle="1" Tune="-1" Gain="1"/>
+    <52 ID="52" DBName="AGML2Fg" Articulation="Sus2" RootNote="60" VelLayer="3"
+        Cycle="0" Tune="0" Gain="1"/>
+    <53 ID="53" DBName="AGML2Fg" Articulation="Sus2" RootNote="60" VelLayer="3"
+        Cycle="1" Tune="-1" Gain="1"/>
+    <54 ID="54" DBName="AGML2Fg" Articulation="Sus2" RootNote="61" VelLayer="0"
+        Cycle="0" Tune="-4" Gain="1"/>
+    <55 ID="55" DBName="AGML2Fg" Articulation="Sus2" RootNote="61" VelLayer="0"
+        Cycle="1" Tune="-4" Gain="1"/>
+    <56 ID="56" DBName="AGML2Fg" Articulation="Sus2" RootNote="61" VelLayer="1"
+        Cycle="0" Tune="-5" Gain="1"/>
+    <57 ID="57" DBName="AGML2Fg" Articulation="Sus2" RootNote="61" VelLayer="1"
+        Cycle="1" Tune="-3" Gain="1"/>
+    <58 ID="58" DBName="AGML2Fg" Articulation="Sus2" RootNote="61" VelLayer="2"
+        Cycle="0" Tune="-6" Gain="1"/>
+    <59 ID="59" DBName="AGML2Fg" Articulation="Sus2" RootNote="61" VelLayer="2"
+        Cycle="1" Tune="-7" Gain="1"/>
+    <60 ID="60" DBName="AGML2Fg" Articulation="Sus2" RootNote="61" VelLayer="3"
+        Cycle="0" Tune="-10" Gain="1"/>
+    <61 ID="61" DBName="AGML2Fg" Articulation="Sus2" RootNote="61" VelLayer="3"
+        Cycle="1" Tune="-7" Gain="1"/>
+    <62 ID="62" DBName="AGML2Fg" Articulation="Sus2" RootNote="62" VelLayer="0"
+        Cycle="0" Tune="-2" Gain="1"/>
+    <63 ID="63" DBName="AGML2Fg" Articulation="Sus2" RootNote="62" VelLayer="0"
+        Cycle="1" Tune="-3" Gain="1"/>
+    <64 ID="64" DBName="AGML2Fg" Articulation="Sus2" RootNote="62" VelLayer="1"
+        Cycle="0" Tune="-1" Gain="1"/>
+    <65 ID="65" DBName="AGML2Fg" Articulation="Sus2" RootNote="62" VelLayer="1"
+        Cycle="1" Tune="-3" Gain="1"/>
+    <66 ID="66" DBName="AGML2Fg" Articulation="Sus2" RootNote="62" VelLayer="2"
+        Cycle="0" Tune="0" Gain="1"/>
+    <67 ID="67" DBName="AGML2Fg" Articulation="Sus2" RootNote="62" VelLayer="2"
+        Cycle="1" Tune="-4" Gain="1"/>
+    <68 ID="68" DBName="AGML2Fg" Articulation="Sus2" RootNote="62" VelLayer="3"
+        Cycle="0" Tune="-2" Gain="1"/>
+    <69 ID="69" DBName="AGML2Fg" Articulation="Sus2" RootNote="62" VelLayer="3"
+        Cycle="1" Tune="-3" Gain="1"/>
+    <70 ID="70" DBName="AGML2Fg" Articulation="Sus2" RootNote="63" VelLayer="0"
+        Cycle="0" Tune="-5" Gain="1"/>
+    <71 ID="71" DBName="AGML2Fg" Articulation="Sus2" RootNote="63" VelLayer="0"
+        Cycle="1" Tune="-10" Gain="1"/>
+    <72 ID="72" DBName="AGML2Fg" Articulation="Sus2" RootNote="63" VelLayer="1"
+        Cycle="0" Tune="-8" Gain="1"/>
+    <73 ID="73" DBName="AGML2Fg" Articulation="Sus2" RootNote="63" VelLayer="1"
+        Cycle="1" Tune="-4" Gain="1"/>
+    <74 ID="74" DBName="AGML2Fg" Articulation="Sus2" RootNote="63" VelLayer="2"
+        Cycle="0" Tune="-9" Gain="1"/>
+    <75 ID="75" DBName="AGML2Fg" Articulation="Sus2" RootNote="63" VelLayer="2"
+        Cycle="1" Tune="-4" Gain="1"/>
+    <76 ID="76" DBName="AGML2Fg" Articulation="Sus2" RootNote="63" VelLayer="3"
+        Cycle="0" Tune="-4" Gain="1"/>
+    <77 ID="77" DBName="AGML2Fg" Articulation="Sus2" RootNote="63" VelLayer="3"
+        Cycle="1" Tune="-5" Gain="1"/>
+    <78 ID="78" DBName="AGML2Fg" Articulation="Sus3" RootNote="55" VelLayer="0"
+        Cycle="0" Tune="-4" Gain="1"/>
+    <79 ID="79" DBName="AGML2Fg" Articulation="Sus3" RootNote="55" VelLayer="0"
+        Cycle="1" Tune="-4" Gain="1"/>
+    <80 ID="80" DBName="AGML2Fg" Articulation="Sus3" RootNote="55" VelLayer="1"
+        Cycle="0" Tune="-3" Gain="1"/>
+    <81 ID="81" DBName="AGML2Fg" Articulation="Sus3" RootNote="55" VelLayer="1"
+        Cycle="1" Tune="-4" Gain="1"/>
+    <82 ID="82" DBName="AGML2Fg" Articulation="Sus3" RootNote="55" VelLayer="2"
+        Cycle="0" Tune="-6" Gain="1"/>
+    <83 ID="83" DBName="AGML2Fg" Articulation="Sus3" RootNote="55" VelLayer="2"
+        Cycle="1" Tune="-4" Gain="1"/>
+    <84 ID="84" DBName="AGML2Fg" Articulation="Sus3" RootNote="55" VelLayer="3"
+        Cycle="0" Tune="-2" Gain="1"/>
+    <85 ID="85" DBName="AGML2Fg" Articulation="Sus3" RootNote="55" VelLayer="3"
+        Cycle="1" Tune="-3" Gain="1"/>
+    <86 ID="86" DBName="AGML2Fg" Articulation="Sus3" RootNote="56" VelLayer="0"
+        Cycle="0" Tune="-3" Gain="1"/>
+    <87 ID="87" DBName="AGML2Fg" Articulation="Sus3" RootNote="56" VelLayer="0"
+        Cycle="1" Tune="-3" Gain="1"/>
+    <88 ID="88" DBName="AGML2Fg" Articulation="Sus3" RootNote="56" VelLayer="1"
+        Cycle="0" Tune="-4" Gain="1"/>
+    <89 ID="89" DBName="AGML2Fg" Articulation="Sus3" RootNote="56" VelLayer="1"
+        Cycle="1" Tune="-3" Gain="1"/>
+    <90 ID="90" DBName="AGML2Fg" Articulation="Sus3" RootNote="56" VelLayer="2"
+        Cycle="0" Tune="-3" Gain="1"/>
+    <91 ID="91" DBName="AGML2Fg" Articulation="Sus3" RootNote="56" VelLayer="2"
+        Cycle="1" Tune="-4" Gain="1"/>
+    <92 ID="92" DBName="AGML2Fg" Articulation="Sus3" RootNote="56" VelLayer="3"
+        Cycle="0" Tune="-3" Gain="1"/>
+    <93 ID="93" DBName="AGML2Fg" Articulation="Sus3" RootNote="56" VelLayer="3"
+        Cycle="1" Tune="-2" Gain="1"/>
+    <94 ID="94" DBName="AGML2Fg" Articulation="Sus3" RootNote="57" VelLayer="0"
+        Cycle="0" Tune="-4" Gain="1"/>
+    <95 ID="95" DBName="AGML2Fg" Articulation="Sus3" RootNote="57" VelLayer="0"
+        Cycle="1" Tune="-4" Gain="1"/>
+    <96 ID="96" DBName="AGML2Fg" Articulation="Sus3" RootNote="57" VelLayer="1"
+        Cycle="0" Tune="-3" Gain="1"/>
+    <97 ID="97" DBName="AGML2Fg" Articulation="Sus3" RootNote="57" VelLayer="1"
+        Cycle="1" Tune="-6" Gain="1"/>
+    <98 ID="98" DBName="AGML2Fg" Articulation="Sus3" RootNote="57" VelLayer="2"
+        Cycle="0" Tune="-4" Gain="1"/>
+    <99 ID="99" DBName="AGML2Fg" Articulation="Sus3" RootNote="57" VelLayer="2"
+        Cycle="1" Tune="-3" Gain="1"/>
+    <100 ID="100" DBName="AGML2Fg" Articulation="Sus3" RootNote="57" VelLayer="3"
+         Cycle="0" Tune="-5" Gain="1"/>
+    <101 ID="101" DBName="AGML2Fg" Articulation="Sus3" RootNote="57" VelLayer="3"
+         Cycle="1" Tune="-4" Gain="1"/>
+    <102 ID="102" DBName="AGML2Fg" Articulation="Sus3" RootNote="58" VelLayer="0"
+         Cycle="0" Tune="-3" Gain="1"/>
+    <103 ID="103" DBName="AGML2Fg" Articulation="Sus3" RootNote="58" VelLayer="0"
+         Cycle="1" Tune="-4" Gain="1"/>
+    <104 ID="104" DBName="AGML2Fg" Articulation="Sus3" RootNote="58" VelLayer="1"
+         Cycle="0" Tune="-2" Gain="1"/>
+    <105 ID="105" DBName="AGML2Fg" Articulation="Sus3" RootNote="58" VelLayer="1"
+         Cycle="1" Tune="-2" Gain="1"/>
+    <106 ID="106" DBName="AGML2Fg" Articulation="Sus3" RootNote="58" VelLayer="2"
+         Cycle="0" Tune="-2" Gain="1"/>
+    <107 ID="107" DBName="AGML2Fg" Articulation="Sus3" RootNote="58" VelLayer="2"
+         Cycle="1" Tune="-3" Gain="1"/>
+    <108 ID="108" DBName="AGML2Fg" Articulation="Sus3" RootNote="58" VelLayer="3"
+         Cycle="0" Tune="-2" Gain="1"/>
+    <109 ID="109" DBName="AGML2Fg" Articulation="Sus3" RootNote="58" VelLayer="3"
+         Cycle="1" Tune="-1" Gain="1"/>
+    <110 ID="110" DBName="AGML2Fg" Articulation="Sus3" RootNote="59" VelLayer="0"
+         Cycle="0" Tune="-2" Gain="1"/>
+    <111 ID="111" DBName="AGML2Fg" Articulation="Sus3" RootNote="59" VelLayer="1"
+         Cycle="0" Tune="-2" Gain="1"/>
+    <112 ID="112" DBName="AGML2Fg" Articulation="Sus3" RootNote="59" VelLayer="1"
+         Cycle="1" Tune="-4" Gain="1"/>
+    <113 ID="113" DBName="AGML2Fg" Articulation="Sus3" RootNote="59" VelLayer="2"
+         Cycle="0" Tune="-2" Gain="1"/>
+    <114 ID="114" DBName="AGML2Fg" Articulation="Sus3" RootNote="59" VelLayer="2"
+         Cycle="1" Tune="-3" Gain="1"/>
+    <115 ID="115" DBName="AGML2Fg" Articulation="Sus3" RootNote="59" VelLayer="3"
+         Cycle="0" Tune="-4" Gain="1"/>
+    <116 ID="116" DBName="AGML2Fg" Articulation="Sus4" RootNote="50" VelLayer="0"
+         Cycle="0" Tune="-2" Gain="1"/>
+    <117 ID="117" DBName="AGML2Fg" Articulation="Sus4" RootNote="50" VelLayer="0"
+         Cycle="1" Tune="-2" Gain="1"/>
+    <118 ID="118" DBName="AGML2Fg" Articulation="Sus4" RootNote="50" VelLayer="1"
+         Cycle="0" Tune="-2" Gain="1"/>
+    <119 ID="119" DBName="AGML2Fg" Articulation="Sus4" RootNote="50" VelLayer="1"
+         Cycle="1" Tune="-1" Gain="1"/>
+    <120 ID="120" DBName="AGML2Fg" Articulation="Sus4" RootNote="50" VelLayer="2"
+         Cycle="0" Tune="-2" Gain="1"/>
+    <121 ID="121" DBName="AGML2Fg" Articulation="Sus4" RootNote="50" VelLayer="2"
+         Cycle="1" Tune="-2" Gain="1"/>
+    <122 ID="122" DBName="AGML2Fg" Articulation="Sus4" RootNote="50" VelLayer="3"
+         Cycle="0" Tune="-1" Gain="1"/>
+    <123 ID="123" DBName="AGML2Fg" Articulation="Sus4" RootNote="50" VelLayer="3"
+         Cycle="1" Tune="-1" Gain="1"/>
+    <124 ID="124" DBName="AGML2Fg" Articulation="Sus4" RootNote="51" VelLayer="0"
+         Cycle="0" Tune="0" Gain="1"/>
+    <125 ID="125" DBName="AGML2Fg" Articulation="Sus4" RootNote="51" VelLayer="0"
+         Cycle="1" Tune="1" Gain="1"/>
+    <126 ID="126" DBName="AGML2Fg" Articulation="Sus4" RootNote="51" VelLayer="1"
+         Cycle="0" Tune="-1" Gain="1"/>
+    <127 ID="127" DBName="AGML2Fg" Articulation="Sus4" RootNote="51" VelLayer="1"
+         Cycle="1" Tune="1" Gain="1"/>
+    <128 ID="128" DBName="AGML2Fg" Articulation="Sus4" RootNote="51" VelLayer="2"
+         Cycle="0" Tune="1" Gain="1"/>
+    <129 ID="129" DBName="AGML2Fg" Articulation="Sus4" RootNote="51" VelLayer="2"
+         Cycle="1" Tune="2" Gain="1"/>
+    <130 ID="130" DBName="AGML2Fg" Articulation="Sus4" RootNote="51" VelLayer="3"
+         Cycle="0" Tune="2" Gain="1"/>
+    <131 ID="131" DBName="AGML2Fg" Articulation="Sus4" RootNote="51" VelLayer="3"
+         Cycle="1" Tune="2" Gain="1"/>
+    <132 ID="132" DBName="AGML2Fg" Articulation="Sus4" RootNote="52" VelLayer="0"
+         Cycle="0" Tune="1" Gain="1"/>
+    <133 ID="133" DBName="AGML2Fg" Articulation="Sus4" RootNote="52" VelLayer="0"
+         Cycle="1" Tune="1" Gain="1"/>
+    <134 ID="134" DBName="AGML2Fg" Articulation="Sus4" RootNote="52" VelLayer="1"
+         Cycle="0" Tune="1" Gain="1"/>
+    <135 ID="135" DBName="AGML2Fg" Articulation="Sus4" RootNote="52" VelLayer="1"
+         Cycle="1" Tune="2" Gain="1"/>
+    <136 ID="136" DBName="AGML2Fg" Articulation="Sus4" RootNote="52" VelLayer="2"
+         Cycle="0" Tune="1" Gain="1"/>
+    <137 ID="137" DBName="AGML2Fg" Articulation="Sus4" RootNote="52" VelLayer="2"
+         Cycle="1" Tune="2" Gain="1"/>
+    <138 ID="138" DBName="AGML2Fg" Articulation="Sus4" RootNote="52" VelLayer="3"
+         Cycle="0" Tune="3" Gain="1"/>
+    <139 ID="139" DBName="AGML2Fg" Articulation="Sus4" RootNote="52" VelLayer="3"
+         Cycle="1" Tune="2" Gain="1"/>
+    <140 ID="140" DBName="AGML2Fg" Articulation="Sus4" RootNote="53" VelLayer="0"
+         Cycle="0" Tune="0" Gain="1"/>
+    <141 ID="141" DBName="AGML2Fg" Articulation="Sus4" RootNote="53" VelLayer="0"
+         Cycle="1" Tune="0" Gain="1"/>
+    <142 ID="142" DBName="AGML2Fg" Articulation="Sus4" RootNote="53" VelLayer="1"
+         Cycle="0" Tune="0" Gain="1"/>
+    <143 ID="143" DBName="AGML2Fg" Articulation="Sus4" RootNote="53" VelLayer="1"
+         Cycle="1" Tune="-1" Gain="1"/>
+    <144 ID="144" DBName="AGML2Fg" Articulation="Sus4" RootNote="53" VelLayer="2"
+         Cycle="0" Tune="3" Gain="1"/>
+    <145 ID="145" DBName="AGML2Fg" Articulation="Sus4" RootNote="53" VelLayer="2"
+         Cycle="1" Tune="0" Gain="1"/>
+    <146 ID="146" DBName="AGML2Fg" Articulation="Sus4" RootNote="53" VelLayer="3"
+         Cycle="0" Tune="-1" Gain="1"/>
+    <147 ID="147" DBName="AGML2Fg" Articulation="Sus4" RootNote="53" VelLayer="3"
+         Cycle="1" Tune="1" Gain="1"/>
+    <148 ID="148" DBName="AGML2Fg" Articulation="Sus4" RootNote="54" VelLayer="0"
+         Cycle="0" Tune="-2" Gain="1"/>
+    <149 ID="149" DBName="AGML2Fg" Articulation="Sus4" RootNote="54" VelLayer="0"
+         Cycle="1" Tune="-3" Gain="1"/>
+    <150 ID="150" DBName="AGML2Fg" Articulation="Sus4" RootNote="54" VelLayer="1"
+         Cycle="0" Tune="-6" Gain="1"/>
+    <151 ID="151" DBName="AGML2Fg" Articulation="Sus4" RootNote="54" VelLayer="1"
+         Cycle="1" Tune="-2" Gain="1"/>
+    <152 ID="152" DBName="AGML2Fg" Articulation="Sus4" RootNote="54" VelLayer="2"
+         Cycle="0" Tune="-6" Gain="1"/>
+    <153 ID="153" DBName="AGML2Fg" Articulation="Sus4" RootNote="54" VelLayer="2"
+         Cycle="1" Tune="-5" Gain="1"/>
+    <154 ID="154" DBName="AGML2Fg" Articulation="Sus4" RootNote="54" VelLayer="3"
+         Cycle="0" Tune="-7" Gain="1"/>
+    <155 ID="155" DBName="AGML2Fg" Articulation="Sus4" RootNote="54" VelLayer="3"
+         Cycle="1" Tune="-2" Gain="1"/>
+    <156 ID="156" DBName="AGML2Fg" Articulation="Sus5" RootNote="45" VelLayer="0"
+         Cycle="0" Tune="-13" Gain="1"/>
+    <157 ID="157" DBName="AGML2Fg" Articulation="Sus5" RootNote="45" VelLayer="0"
+         Cycle="1" Tune="-1" Gain="1"/>
+    <158 ID="158" DBName="AGML2Fg" Articulation="Sus5" RootNote="45" VelLayer="1"
+         Cycle="0" Tune="-13" Gain="1"/>
+    <159 ID="159" DBName="AGML2Fg" Articulation="Sus5" RootNote="45" VelLayer="1"
+         Cycle="1" Tune="-12" Gain="1"/>
+    <160 ID="160" DBName="AGML2Fg" Articulation="Sus5" RootNote="45" VelLayer="2"
+         Cycle="0" Tune="-16" Gain="1"/>
+    <161 ID="161" DBName="AGML2Fg" Articulation="Sus5" RootNote="45" VelLayer="2"
+         Cycle="1" Tune="-12" Gain="1"/>
+    <162 ID="162" DBName="AGML2Fg" Articulation="Sus5" RootNote="45" VelLayer="3"
+         Cycle="0" Tune="-15" Gain="1"/>
+    <163 ID="163" DBName="AGML2Fg" Articulation="Sus5" RootNote="45" VelLayer="3"
+         Cycle="1" Tune="-16" Gain="1"/>
+    <164 ID="164" DBName="AGML2Fg" Articulation="Sus5" RootNote="46" VelLayer="0"
+         Cycle="0" Tune="-17" Gain="1"/>
+    <165 ID="165" DBName="AGML2Fg" Articulation="Sus5" RootNote="46" VelLayer="1"
+         Cycle="0" Tune="-17" Gain="1"/>
+    <166 ID="166" DBName="AGML2Fg" Articulation="Sus5" RootNote="46" VelLayer="1"
+         Cycle="1" Tune="-19" Gain="1"/>
+    <167 ID="167" DBName="AGML2Fg" Articulation="Sus5" RootNote="46" VelLayer="2"
+         Cycle="0" Tune="-13" Gain="1"/>
+    <168 ID="168" DBName="AGML2Fg" Articulation="Sus5" RootNote="46" VelLayer="2"
+         Cycle="1" Tune="-12" Gain="1"/>
+    <169 ID="169" DBName="AGML2Fg" Articulation="Sus5" RootNote="46" VelLayer="3"
+         Cycle="0" Tune="-14" Gain="1"/>
+    <170 ID="170" DBName="AGML2Fg" Articulation="Sus5" RootNote="47" VelLayer="0"
+         Cycle="0" Tune="-17" Gain="1"/>
+    <171 ID="171" DBName="AGML2Fg" Articulation="Sus5" RootNote="47" VelLayer="1"
+         Cycle="0" Tune="-14" Gain="1"/>
+    <172 ID="172" DBName="AGML2Fg" Articulation="Sus5" RootNote="47" VelLayer="1"
+         Cycle="1" Tune="-15" Gain="1"/>
+    <173 ID="173" DBName="AGML2Fg" Articulation="Sus5" RootNote="47" VelLayer="2"
+         Cycle="0" Tune="-14" Gain="1"/>
+    <174 ID="174" DBName="AGML2Fg" Articulation="Sus5" RootNote="47" VelLayer="2"
+         Cycle="1" Tune="-14" Gain="1"/>
+    <175 ID="175" DBName="AGML2Fg" Articulation="Sus5" RootNote="47" VelLayer="3"
+         Cycle="0" Tune="-16" Gain="1"/>
+    <176 ID="176" DBName="AGML2Fg" Articulation="Sus5" RootNote="48" VelLayer="0"
+         Cycle="0" Tune="-15" Gain="1"/>
+    <177 ID="177" DBName="AGML2Fg" Articulation="Sus5" RootNote="48" VelLayer="1"
+         Cycle="0" Tune="-13" Gain="1"/>
+    <178 ID="178" DBName="AGML2Fg" Articulation="Sus5" RootNote="48" VelLayer="1"
+         Cycle="1" Tune="-13" Gain="1"/>
+    <179 ID="179" DBName="AGML2Fg" Articulation="Sus5" RootNote="48" VelLayer="2"
+         Cycle="0" Tune="-12" Gain="1"/>
+    <180 ID="180" DBName="AGML2Fg" Articulation="Sus5" RootNote="48" VelLayer="2"
+         Cycle="1" Tune="-14" Gain="1"/>
+    <181 ID="181" DBName="AGML2Fg" Articulation="Sus5" RootNote="48" VelLayer="3"
+         Cycle="0" Tune="-15" Gain="1"/>
+    <182 ID="182" DBName="AGML2Fg" Articulation="Sus5" RootNote="49" VelLayer="0"
+         Cycle="0" Tune="1" Gain="1"/>
+    <183 ID="183" DBName="AGML2Fg" Articulation="Sus5" RootNote="49" VelLayer="1"
+         Cycle="0" Tune="-12" Gain="1"/>
+    <184 ID="184" DBName="AGML2Fg" Articulation="Sus5" RootNote="49" VelLayer="1"
+         Cycle="1" Tune="-12" Gain="1"/>
+    <185 ID="185" DBName="AGML2Fg" Articulation="Sus5" RootNote="49" VelLayer="2"
+         Cycle="0" Tune="0" Gain="1"/>
+    <186 ID="186" DBName="AGML2Fg" Articulation="Sus5" RootNote="49" VelLayer="2"
+         Cycle="1" Tune="-12" Gain="1"/>
+    <187 ID="187" DBName="AGML2Fg" Articulation="Sus5" RootNote="49" VelLayer="3"
+         Cycle="0" Tune="-10" Gain="1"/>
+    <188 ID="188" DBName="AGML2Fg" Articulation="Sus6" RootNote="40" VelLayer="0"
+         Cycle="0" Tune="-15" Gain="1"/>
+    <189 ID="189" DBName="AGML2Fg" Articulation="Sus6" RootNote="40" VelLayer="0"
+         Cycle="1" Tune="-13" Gain="1"/>
+    <190 ID="190" DBName="AGML2Fg" Articulation="Sus6" RootNote="40" VelLayer="1"
+         Cycle="0" Tune="-11" Gain="1"/>
+    <191 ID="191" DBName="AGML2Fg" Articulation="Sus6" RootNote="40" VelLayer="1"
+         Cycle="1" Tune="-9" Gain="1"/>
+    <192 ID="192" DBName="AGML2Fg" Articulation="Sus6" RootNote="40" VelLayer="2"
+         Cycle="0" Tune="-8" Gain="1"/>
+    <193 ID="193" DBName="AGML2Fg" Articulation="Sus6" RootNote="40" VelLayer="2"
+         Cycle="1" Tune="-11" Gain="1"/>
+    <194 ID="194" DBName="AGML2Fg" Articulation="Sus6" RootNote="40" VelLayer="3"
+         Cycle="0" Tune="-8" Gain="1"/>
+    <195 ID="195" DBName="AGML2Fg" Articulation="Sus6" RootNote="40" VelLayer="3"
+         Cycle="1" Tune="-5" Gain="1"/>
+    <196 ID="196" DBName="AGML2Fg" Articulation="Sus6" RootNote="41" VelLayer="0"
+         Cycle="0" Tune="-26" Gain="1"/>
+    <197 ID="197" DBName="AGML2Fg" Articulation="Sus6" RootNote="41" VelLayer="1"
+         Cycle="0" Tune="-20" Gain="1"/>
+    <198 ID="198" DBName="AGML2Fg" Articulation="Sus6" RootNote="41" VelLayer="1"
+         Cycle="1" Tune="-20" Gain="1"/>
+    <199 ID="199" DBName="AGML2Fg" Articulation="Sus6" RootNote="41" VelLayer="2"
+         Cycle="0" Tune="-19" Gain="1"/>
+    <200 ID="200" DBName="AGML2Fg" Articulation="Sus6" RootNote="41" VelLayer="2"
+         Cycle="1" Tune="-17" Gain="1"/>
+    <201 ID="201" DBName="AGML2Fg" Articulation="Sus6" RootNote="41" VelLayer="3"
+         Cycle="0" Tune="-19" Gain="1"/>
+    <202 ID="202" DBName="AGML2Fg" Articulation="Sus6" RootNote="42" VelLayer="0"
+         Cycle="0" Tune="-32" Gain="1"/>
+    <203 ID="203" DBName="AGML2Fg" Articulation="Sus6" RootNote="42" VelLayer="1"
+         Cycle="0" Tune="-32" Gain="1"/>
+    <204 ID="204" DBName="AGML2Fg" Articulation="Sus6" RootNote="42" VelLayer="1"
+         Cycle="1" Tune="-26" Gain="1"/>
+    <205 ID="205" DBName="AGML2Fg" Articulation="Sus6" RootNote="42" VelLayer="2"
+         Cycle="0" Tune="-26" Gain="1"/>
+    <206 ID="206" DBName="AGML2Fg" Articulation="Sus6" RootNote="42" VelLayer="2"
+         Cycle="1" Tune="-28" Gain="1"/>
+    <207 ID="207" DBName="AGML2Fg" Articulation="Sus6" RootNote="42" VelLayer="3"
+         Cycle="0" Tune="-24" Gain="1"/>
+    <208 ID="208" DBName="AGML2Fg" Articulation="Sus6" RootNote="43" VelLayer="0"
+         Cycle="0" Tune="-23" Gain="1"/>
+    <209 ID="209" DBName="AGML2Fg" Articulation="Sus6" RootNote="43" VelLayer="1"
+         Cycle="0" Tune="-23" Gain="1"/>
+    <210 ID="210" DBName="AGML2Fg" Articulation="Sus6" RootNote="43" VelLayer="1"
+         Cycle="1" Tune="-23" Gain="1"/>
+    <211 ID="211" DBName="AGML2Fg" Articulation="Sus6" RootNote="43" VelLayer="2"
+         Cycle="0" Tune="-23" Gain="1"/>
+    <212 ID="212" DBName="AGML2Fg" Articulation="Sus6" RootNote="43" VelLayer="2"
+         Cycle="1" Tune="-22" Gain="1"/>
+    <213 ID="213" DBName="AGML2Fg" Articulation="Sus6" RootNote="43" VelLayer="3"
+         Cycle="0" Tune="-20" Gain="1"/>
+    <214 ID="214" DBName="AGML2Fg" Articulation="Sus6" RootNote="44" VelLayer="0"
+         Cycle="0" Tune="-14" Gain="1"/>
+    <215 ID="215" DBName="AGML2Fg" Articulation="Sus6" RootNote="44" VelLayer="1"
+         Cycle="0" Tune="-13" Gain="1"/>
+    <216 ID="216" DBName="AGML2Fg" Articulation="Sus6" RootNote="44" VelLayer="1"
+         Cycle="1" Tune="-12" Gain="1"/>
+    <217 ID="217" DBName="AGML2Fg" Articulation="Sus6" RootNote="44" VelLayer="2"
+         Cycle="0" Tune="-11" Gain="1"/>
+    <218 ID="218" DBName="AGML2Fg" Articulation="Sus6" RootNote="44" VelLayer="2"
+         Cycle="1" Tune="-12" Gain="1"/>
+    <219 ID="219" DBName="AGML2Fg" Articulation="Sus6" RootNote="44" VelLayer="3"
+         Cycle="0" Tune="-12" Gain="1"/>
+  </SampleInfo>
+</Infos>
