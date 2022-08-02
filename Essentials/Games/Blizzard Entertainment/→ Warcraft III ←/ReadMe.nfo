@@ -1,0 +1,62 @@
+Install Instructions:
+                                                                               
+ 1. Install full game ([Disk1] Warcraft III -Reign Of Chaos.iso + [Disk2] Warcraft III - The Frozen Throne.iso).
+  
+ 2. Update, drag War3TFT_121b_English.exe from the included Patch directory to the warcraft install directory then click on it and     it should update by itsefef.
+ 
+ 3. Unpack download in patch folder to you install C:\Program Files\Warcraft III\Maps, if you installed in that direction
+  
+ 4. Play and Enjoy it.
+
+   
+
+--------------------------------------------------------------------------
+  WARCRAFT III: THE FROZEN THRONE VERSION HISTORY
+--------------------------------------------------------------------------
+
+--------------------------------------------------------------------------
+Patch 1.21b
+--------------------------------------------------------------------------
+
+FEATURES
+
+- The game no longer requires the CD to play.
+
+--------------------------------------------------------------------------
+Patch 1.21
+--------------------------------------------------------------------------
+
+FEATURES
+
+- The game now runs natively on both PowerPC-based and Intel-based Macs.
+- Player can now view frames per second using the "/fps" chat command.
+
+FIXES
+
+- Fixed a timing problem with the game on PCs with dual-core CPUs.
+- Fixed a crash that could occur with the Frost Breath ability.
+- Fixed a crash that could happen in multiplayer games.
+- Fixed an exploit that could happen in multiplayer games.
+
+Important Note on Patching for Mac Players: The file layout inside the
+game folder is changed significantly by Patch 1.21.  As a result, in order
+to be able to install the Frozen Throne expansion from CD, you must
+install Reign of Chaos first, then install Frozen Throne from CD, and then
+patch to version 1.21, in that order.  If you patch to v1.21 and then
+attempt to install Frozen Throne after that, it will not install
+correctly.
+
+MAPS
+
+- New maps:
+  - (2)SecretValley
+  - (6)BomberCommand
+- (4)LostTemple (RoC)
+  - The 4 Forest Troll Berserkers by the natural expansions now drop Level
+    2 Permanent instead of Level 2 Charged items
+- (4)TurtleRock
+  - The 4 Ogre Warriors along the outer pathways now drop Level 2
+    Permanent instead of Level 2 Charged items
+- (6)GnollWood
+  - The 4 Gnoll Brutes by the central Item Shops now drop Level 2
+    Permanent instead of Level 2 Charged items
