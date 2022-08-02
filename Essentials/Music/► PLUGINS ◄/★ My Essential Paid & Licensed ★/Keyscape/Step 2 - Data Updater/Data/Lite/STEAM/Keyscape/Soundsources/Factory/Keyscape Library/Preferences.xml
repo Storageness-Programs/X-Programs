@@ -1,0 +1,17 @@
+<SpectrasonicsPreferences >
+<PROPERTIES_SCOPE  NAME="Wurlitzer 200A" >
+<NVP  NAME="ATTR0"  VALUE="Sublayer_1" >
+</NVP>
+ <NVP  NAME="ATTR1"  VALUE="Sublayer_2" >
+</NVP>
+ </PROPERTIES_SCOPE>
+ <PROPERTIES_SCOPE  NAME="Keyboards" >
+<NVP  NAME="ATTR0"  VALUE="Type" >
+</NVP>
+ <NVP  NAME="ATTR1"  VALUE="Model" >
+</NVP>
+ <NVP  NAME="ATTR2"  VALUE="Complexity" >
+</NVP>
+ </PROPERTIES_SCOPE>
+ </SpectrasonicsPreferences>
+ 

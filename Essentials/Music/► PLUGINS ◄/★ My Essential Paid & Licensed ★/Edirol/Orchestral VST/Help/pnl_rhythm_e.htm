@@ -1,0 +1,410 @@
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<title>Rhythm Part Editor</title>
+<style><!--
+.pagestyle { line-height: 130%; color:rgb(0,0,0); font-size:10pt;}
+body { color:rgb(0,0,0);}
+th { color:rgb(0,0,0);}
+td { color:rgb(0,0,0);}
+h1 { color:rgb(0,0,204); font-size:18pt; text-decoration:underline;}
+h2 { color:rgb(100,120,0); font-size:14pt; margin-left:0pt;}
+h3 { color:rgb(190,130,0); font-size:12pt; margin-left:0pt;}
+h4 { color:rgb(10,110,130); font-size:11pt; margin-left:20pt;}
+h5 { color:rgb(0,0,0); font-size:10pt; margin-left:20pt;}
+p { color:rgb(0,0,0); font-size:10pt; margin-left:20pt;}
+p.list { color:rgb(0,0,0); font-size:10pt;}
+p.sublist { color:rgb(97,97,97); font-size:9pt;}
+p.tableitem { color:rgb(0,0,0); font-size:10pt; margin-left:0pt;}
+p.note { color:rgb(200,0,0); font-size:9pt; margin-left:30pt; margin-right:30pt; text-indent:-15pt;}
+p.info { color:rgb(0,0,150); font-size:9pt; margin-left:30pt; margin-right:30pt; text-indent:-12pt;}
+p.fig { margin-left:15pt;}
+a { font-weight:bold; }
+a.name { font-weight:normal; }
+dt { font-weight:bold; text-decoration:underline; font-size:11pt;}
+-->
+</style>
+</head>
+
+<body bgcolor="white" text="black" link="#6666CC" vlink="#6666CC" alink="#6666CC" class="pagestyle">
+<h3><a name="Rhythm Part Editor">Rhythm Part Editor</a></h3>
+<p>In this window you can edit settings for a part that uses a rhythm sound (rhythm set). After editing a sound, you can assign a name 
+to it and save it as a user sound.</p>
+            <h4>About the panel</h4>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <p><img src="img/rhythm.gif" width="493" height="278" border="0" alt="rhythm.gif">&nbsp;</p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<ol type="1">
+<p class="info"><img src="img/inform_white.gif" width="12" height="11" border="0" alt="inform_white.gif" align="absmiddle"> 
+The effect of each parameter will differ depending on the sound. For 
+some sounds, a certain parameter may have no effect.</p>
+</ol>
+<ul>
+<p class="note">
+<img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif" align="absmiddle"> 
+Changes you make using the Part Editor will be discarded when you select 
+another sound. If you want to keep your edited sound, you must save it as a 
+user sound before you select another sound.</p>
+</ul>
+<p><img src="img/box01.gif" width="18" height="18" border="0" align="absmiddle">This indicates the number of the part you are editing. To select a different 
+part for editing, you can either click the part number and choose from the menu 
+that appears, or click the up/down buttons located at the right of the part 
+number.</p>
+<p><img src="img/box02.gif" width="18" height="18" border="0" alt="box02.gif" align="absmiddle">This indicates the bank number and program number of the selected sound. 
+The upper line is the bank number, and the lower line is the program number 
+(1--36).</p>
+<p>The bank number consists of a letter (P/U) signifying whether it is a Preset 
+or a User sound, and the Bank Select LSB value (0-6).</p>
+<ul>
+    <ul>
+        <table cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+                    <p><img src="img/bank_num.gif" width="253" height="142" border="0" alt="img13.gif"></p>
+                </td>
+            </tr>
+        </table>
+    </ul>
+</ul>
+<p><img src="img/box03.gif" width="18" height="18" border="0" alt="box03.gif" align="absmiddle">This is the name of the sound. If the parameters of the sound have been edited 
+but the sound has not yet been saved, a check mark (<img src="img/check.gif" width="13" height="12" border="0" alt="img19.gif">) will be displayed at 
+the beginning of the sound name. <br>You can click on the sound name to open a menu 
+and select a sound. If you want to edit the sound name, double-click it, and 
+enter a name of up to twenty characters.</p>
+<p><img src="img/box04.gif" width="18" height="18" border="0" alt="box04.gif" align="absmiddle">These buttons let you select the sound that is before or after the currently 
+selected sound.</p>
+<ul>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="135">
+            <p align="center" class="tableitem"><b>Button</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="540">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA">
+            <p align="left" class="tableitem"><img src="img/patch_inc.gif" width="14" height="13" border="0" alt="img14.gif"></p>
+        </td>
+        <td bgcolor="#EAEAEA">
+            <p align="left" class="tableitem">Selects the program number that follows the currently selected sound. <br>If 
+the currently selected sound was the last sound in its bank, the first program 
+number of the next bank will be selected.</p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA">
+            <p align="left" class="tableitem"><img src="img/patch_dec.gif" width="14" height="14" border="0" alt="img15.gif"></p>
+        </td>
+        <td bgcolor="#EAEAEA">
+            <p align="left" class="tableitem">Selects the program number that precedes the currently selected sound. <br>If 
+the currently selected sound was the first sound in its bank, the last program 
+number of the previous bank will be selected.</p>
+        </td>
+    </tr>
+</table>
+</ul>
+<p><img src="img/box05.gif" width="18" height="18" border="0" alt="box05.gif" align="absmiddle">Displays 
+the Tone Finder&nbsp;(TONE FINDER) window.</p>
+<p><img src="img/box06.gif" width="18" height="18" border="0" alt="box06.gif" align="absmiddle"><b>PREVIEW</b> 
+: This lets you audition the rhythm sound that you are editing.</p>
+<ol type="1">
+<p class="info"><img src="img/inform_white.gif" width="12" height="11" border="0" alt="inform_white.gif" align="absmiddle"> 
+In the Rhythm Part Editor, you'll hear the rhythm sound currently being 
+edited, regardless of whether the Phrase Preview function is switched on or 
+off.</p>
+</ol>
+<p><img src="img/box07.gif" width="18" height="18" border="0" alt="box07.gif" align="absmiddle"><b>WRITE</b> 
+: Saves the edited sound as a user sound. When you click this, a list 
+of the available user bank sounds will appear. Click the location where you 
+want to save the sound.<br>For details on saving a user sound, refer to &quot;<a href="usr_data_e.htm#Saving and loading user data">Saving 
+and loading user data</a>.&quot;</p>
+<p><img src="img/box08.gif" width="18" height="18" border="0" alt="box08.gif" align="absmiddle"><b>CLOSE</b> 
+: Close the Rhythm Part Editor (RHYTHM PART EDITOR) window.</p>
+<p><img src="img/box09.gif" width="18" height="18" border="0" alt="box09.gif" align="absmiddle">This is the part level meter. It indicates the output level of that part. 
+If the output level exceeds, the peak indicator at the far right 
+will light. If the peak indicator lights frequently, distortion or noise may 
+occur, so you will need to adjust the output level.</p>
+<p><img src="img/box10.gif" width="18" height="18" border="0" alt="box10.gif" align="absmiddle"><b>MIDI</b> 
+: This is a MIDI indicator. It will light when the currently shown part 
+receives a MIDI message. The receive channel of each part is the same as its 
+part number.</p>
+<p><img src="img/box11.gif" width="18" height="18" border="0" alt="box11.gif" align="absmiddle"><b>VOL(Part 
+Volume)</b> 
+: Adjusts the output volume of the part. Double-click the slider to restore 
+the default value(100).</p>
+<p><img src="img/box12.gif" width="18" height="18" border="0" alt="box12.gif" align="absmiddle">Adjusts the pan (stereo position) and 
+the effect send level of the part.  </p>
+<ul>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+            <p align="left" class="tableitem">PAN</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">L63 - R63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">Sets the stereo position of the output sound. 
+                L63 is far left, 0 is center, 
+and R63 is far right.<br>Double-click the knob to restore 
+the default value(0 : center).         </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+            <p align="left" class="tableitem">REVERB</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">Sets the output level of the signal that is sent to the reverb.<br>Double-click the knob to restore 
+the default value(40).&nbsp; </p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">CHORUS</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">Sets the output level of the signal that is sent to the chorus.<br>Double-click the knob to restore 
+the default value(0).&nbsp; </p>
+        </td>
+    </tr>
+</table>
+</ul>
+<p><img src="img/box13.gif" width="18" height="18" border="0" alt="box13.gif" align="absmiddle">This is the name of the rhythm instrument you are editing. If the rhythm 
+instrument currently being edited is a stereo sound, &quot;STEREO&quot;(<img src="img/st_check.gif" align="absmiddle" width="54" height="14" border="0" alt="img1.gif">) will 
+be displayed with a check mark following the name. If you click this to remove 
+the check mark(<img src="img/st_uncheck.gif" align="absmiddle" width="54" height="13" border="0" alt="img2.gif">), the sound will play in mono. This will conserve the available 
+polyphony, and lets you clarify the stereo positioning.</p>
+<ol type="1">
+<p class="info"><img src="img/inform_white.gif" width="12" height="11" border="0" alt="inform_white.gif" align="absmiddle"> 
+    If the rhythm instrument currently being edited is a monaural sound, 
+nothing will be displayed here. In this case, it is not possible to switch between 
+stereo and mono.</p>
+</ol>
+<p><img src="img/box14.gif" width="18" height="18" border="0" alt="box14.gif" align="absmiddle">This button is used to select the rhythm instrument to be edited. Click <img src="img/inc_inst.gif" align="absmiddle" width="16" height="15" border="0" alt="inc_inst.gif"> 
+to switch to the rhythm instrument that is assigned to the next higher key, 
+or click <img src="img/dec_inst.gif" align="absmiddle" width="15" height="15" border="0" alt="dec_inst.gif"> to switch to the rhythm instrument that is assigned to the next 
+lower key.</p>
+<p><img src="img/box15.gif" align="absmiddle" width="18" height="18" border="0" alt="box15.gif"><b>MIDI 
+EDIT</b> : This switches the MIDI Edit function on/off. If MIDI Edit is on, 
+you can use MIDI input from an external MIDI keyboard to specify the rhythm 
+instrument to be edited.</p>
+<ul>
+<p class="note"><img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif" align="absmiddle"> 
+If a song is being played, you should switch the MIDI Edit function 
+off, since the rhythm instruments will be switched rapidly if this is left on.</p>
+</ul>
+<ul>
+<p class="note"><img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif" align="absmiddle"> 
+The rhythm instrument will not switch if the MIDI channel of the incoming 
+note message does not match the MIDI receive channel (identical to the part 
+number) of the part you are editing.</p>
+</ul>
+<p><img src="img/box16.gif" align="absmiddle" width="18" height="18" border="0" alt="box16.gif">These are <a name="the sound parameters for each rhythm instrument" class="name">the sound parameters for each rhythm instrument</a>. You can edit these 
+parameters independently for each rhythm instrument.</p>
+<ul>
+    <dl>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">LEVEL        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">0 ~&nbsp;127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Sets the output volume of the rhythm 
+                    instrument.        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+            <p align="left" class="tableitem">PAN</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">L63 -&nbsp;R63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Sets the stereo position of the rhythm 
+                    instrument. L63 is far left, 0 is center, and 
+R63 is far right. <p class="note"><img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif"> 
+The actual panning is also affected by the PAN setting of the part. For example, 
+even if you set this to R63, the sound will not necessarily be heard from the 
+far right if PAN for the Part has been set toward the left.</p>
+        </td>
+    </tr>
+            <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                    <p class="tableitem">COARSE TUNE</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                    <p class="tableitem">-48 - +48</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Sets the amount of pitch shift (in semitone steps) for the rhythm 
+                    instrument.         </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                    <p class="tableitem">FINE TUNE</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                    <p class="tableitem">-50 - +50</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Sets the amount of pitch shift (in one-cent steps; one cent = 1/100th of a 
+semitone) for the thythm instrument.        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                    <p class="tableitem">REVERB LEVEL</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                    <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Sets the output level that is sent from the thythm 
+                    instrument to the reverb. There will 
+be no effect if the send level of the part is turned down.        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                    <p class="tableitem">CHORUS LEVEL</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                    <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Sets the output level that is sent from the rhythm 
+                    instrument to the chorus. There will 
+be no effect if the send level of the part is turned down.        </td>
+            </tr>
+</table>
+</dl>
+</ul>
+<p><img src="img/box17.gif" align="absmiddle" width="18" height="18" border="0" alt="box17.gif">These are the sound parameters for the part. These parameters will affect 
+the entire rhythm set.</p>
+<ul>
+    <dl>
+    <dt>VELOCITY SENS<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">DYNAMICS</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Determines the extent to which changes in velocity (playing dynamics) will 
+affect the volume or tone. As the value is decreased, changes in velocity will 
+have less effect on the volume or tone. When the value of this parameter is 
+increased, changes in velocity will produce greater effect on the volume or 
+tone.         </td>
+        </tr>
+</table>
+    <dt><br>EQ
+    
+        </dl>
+    <dl>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="100">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="100">
+                <p class="tableitem">ON/OFF        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">ON, OFF</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Switches the EQ on/off.        </td>
+    </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="100">
+                <p class="tableitem">LOW (Low Gain)        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-12 - +12</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the gain of the lower range of frequencies, below 400 Hz        </td>
+        </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="100">
+                <p class="tableitem">MID (Mid Gain)</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-12 - +12</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the gain of the midrange, in the 1 kHz region        </td>
+        </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="100">
+                <p class="tableitem">HIGH (High Gain)</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-12 - +12</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the gain of the upper range of frequencies, above 4 kHz        </td>
+        </tr>
+</table>
+</dl>
+</ul>
+<p>&nbsp;</p>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+[Attribs] 
+Mode = InstallFromVolumes
+NumberOfVolumes = 2
+LiteVsFullPrompt = Yes
+TotalSizeMillionsBytes = 77500
+Component1SizeMillionsBytes = 30000
+InstallDataTitle = Installing Keyscape STEAM data
+PreparationTitle = Location of STEAM data
+InstallingData = Now installing data from source media to: \n\n%s\n\nPlease wait for the installation to complete.
+InstalledData = Installation complete.\n\nPlease run the Data Updater.

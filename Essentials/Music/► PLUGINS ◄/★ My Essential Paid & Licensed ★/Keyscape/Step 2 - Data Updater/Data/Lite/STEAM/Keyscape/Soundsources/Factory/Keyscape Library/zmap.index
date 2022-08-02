@@ -1,0 +1,1929 @@
+<?xml version="1.0"  encoding="ISO-8859-1"  standalone="no"?>
+<!DOCTYPE s1 SYSTEM "sbk:/style/dtd/document.dtd">
+<INDEX  VERSION="2" >
+<ENTRY  NAME="LA Custom C7 ^ Harder Lite"  PATH="Keyboards/Duo Maps Stage/LA Custom C7 Grand Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release Lite" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="LA Custom C7 Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Hardest Lite"  PATH="Keyboards/Duo Maps Stage/LA Custom C7 Grand Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release Lite" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="LA Custom C7 Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Lite"  PATH="Keyboards/Duo Maps Stage/LA Custom C7 Grand Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release Lite" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="LA Custom C7 Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Softest Lite"  PATH="Keyboards/Duo Maps Stage/LA Custom C7 Grand Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release Lite" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="LA Custom C7 Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Uber Hard"  PATH="Keyboards/Duo Maps Stage/LA Custom C7 Grand Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="14965252096" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="LA Custom C7 Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 Release Lite"  PATH="Keyboards/Duo Maps Stage/LA Custom C7 Grand Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="LA Custom C7 Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MK-80 Contemporary Rhodes ^ Lite"  PATH="Keyboards/Duo Maps Stage/MK-80 Contemporary Rhodes" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="MK-80 Digital Rhodes" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vintage Digital Keys" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Roland bought the Rhodes brand name in 1987 and in 1989, they released the MK-80 - a digital recreation of the electro-mechanical Rhodes. Because of the reverence which die-hard Rhodes fans have for the original instruments and the brand itself, this short-lived keyboard has long been scorned as a digital &#34;wannabe&#34; instrument. &#10;&#10;What&#39;s less known is that the technology used in the MK-80 was actually the next generation of Structured Adaptive Synthesis pioneered in the legendary MKS-20 and its digital Rhodes sounds are excellent in their own way. They layer quite well with other Electric Piano sounds." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="MK-80 Contemporary Rhodes" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MKS-20 E Piano 1 ^ Alt1"  PATH="Keyboards/Duo Maps Stage/MKS-20 E Piano 1 Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="MKS-20 Digital Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vintage Digital Keys" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1124581504" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="In the 1980s, after the DX-7 craze, keyboard players were still searching for the &#34;Holy Grail&#34; Rhodes sound in digital form. In 1986, Roland unveiled the 16-voice MKS-20, the best-selling, rack version of their popular RD-1000. Both units used Roland&#39;s newly-developed &#34;Structured Adaptive Synthesis,&#34; an early type of re-synthesis that provided an extremely expressive response.&#10;&#10;Eric Persing worked on developing the famous MKS-20 sounds in Japan with Roland in the &#39;80s. Roland wisely combined the digital side of the instrument with high-quality analog components and effects, resulting in a far warmer sound than most keyboards of that time. The unit went on to be used on thousands of well-known productions and remains an enduring classic. This Soundsource uses the E. Piano 1 Patch." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="MKS-20 E Piano 1 Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MKS-20 Electric Grand ^ Lite"  PATH="Keyboards/Duo Maps Stage/MKS-20 Electric Grand Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="MKS-20 Digital Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vintage Digital Keys" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Yamaha CP-70 Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="In the 1980s, the electric grand piano was king in live performance and in the studio. The sound was distinctive and it looked really cool on stage! But, they were pricey and the players who could afford one got tired of lugging around that 300 lb. beast! In 1986, Roland unveiled the 16-voice MKS-20 and its Electric Grand sound quickly earned its place on stage next to its analog cousin. In the same family as the CP70, it has its own unique sonic qualities.&#10;&#10;Eric Persing worked on developing the famous MKS-20 sounds in Japan with Roland in the &#39;80s. Roland wisely combined the digital side of the instrument with high-quality analog components and effects, resulting in a far warmer sound than most keyboards of that time. The unit went on to be used on thousands of well-known productions and remains an enduring classic." >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled A0 to C8." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="MKS-20 Electric Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Release Lite"  PATH="Keyboards/Duo Maps Stage/Rhodes - Classic Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - Classic Mark I" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="218169504" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="With over 250,000 Fender Rhodes produced, a major culture has grown up around the instrument. Numerous models were produced between 1965 and 1984, but the consensus is that the early &#39;70s 73-key MkI with wood keys and Peterson electronics is the ideal specimen. That classic is featured here. We recorded via the pre-amp and captured the mechanical noises with a mic.&#10;&#10;The Rhodes piano action causes its hammers to strike a tine (a tuned metal rod) which is attached to a more substantial metal tonebar for sustain. The sound is amplified by an electro-magnetic pickup routed to an active pre-amp. Our amazing-sounding instrument was carefully restored and rebuilt by renowned Los Angeles keyboard tech, Ken Rich." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Rhodes - Classic Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Suitcase ^ Alt1"  PATH="Keyboards/Duo Maps Stage/Rhodes - Classic Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - Classic Mark I" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="6110245376" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="With over 250,000 Fender Rhodes produced, a major culture has grown up around the instrument. Numerous models were produced between 1965 and 1984, but the consensus is that the early &#39;70s 73-key MkI with wood keys and Peterson electronics is the ideal specimen. That classic is featured here. We recorded via the pre-amp and captured the mechanical noises with a mic.&#10;&#10;The Rhodes piano action causes its hammers to strike a tine (a tuned metal rod) which is attached to a more substantial metal tonebar for sustain. The sound is amplified by an electro-magnetic pickup routed to an active pre-amp. Our amazing-sounding instrument was carefully restored and rebuilt by renowned Los Angeles keyboard tech, Ken Rich." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Rhodes - Classic Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes ^ Alt1 Lite"  PATH="Keyboards/Duo Maps Stage/Rhodes - LA Custom Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - LA Custom &#34;E&#34;" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release Lite" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Remember that incredible Rhodes sound from all those records in the Eighties? That elusive sound that, no matter how much EQ you dialed in or spent on mods, you could never get that same sparkle and punch? Well, we were fortunate enough to get our hands on this legendary custom 1974 Fender Rhodes (serial 54247-044074) and took the greatest care to reproduce its gorgeous mojo. &#10;&#10;The instrument&#39;s extraordinary sound comes from Eddy Reynolds, the legendary &#39;80s-era LA keyboard tech who performed his wizardry on this unique electric piano - one which was often rented and used on hundreds of famous albums. The combination of Eddy&#39;s magic touch, custom pre-amp design, and this particular standout Rhodes created a sonic masterpiece that is highly versatile, and extremely rare!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Rhodes - LA Custom Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes ^ Alt1"  PATH="Keyboards/Duo Maps Stage/Rhodes - LA Custom Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - LA Custom &#34;E&#34;" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5588297216" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Remember that incredible Rhodes sound from all those records in the Eighties? That elusive sound that, no matter how much EQ you dialed in or spent on mods, you could never get that same sparkle and punch? Well, we were fortunate enough to get our hands on this legendary custom 1974 Fender Rhodes (serial 54247-044074) and took the greatest care to reproduce its gorgeous mojo. &#10;&#10;The instrument&#39;s extraordinary sound comes from Eddy Reynolds, the legendary &#39;80s-era LA keyboard tech who performed his wizardry on this unique electric piano - one which was often rented and used on hundreds of famous albums. The combination of Eddy&#39;s magic touch, custom pre-amp design, and this particular standout Rhodes created a sonic masterpiece that is highly versatile, and extremely rare!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Rhodes - LA Custom Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes ^ Floppy"  PATH="Keyboards/Duo Maps Stage/Rhodes - LA Custom Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - LA Custom &#34;E&#34;" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5594235904" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Remember that incredible Rhodes sound from all those records in the Eighties? That elusive sound that, no matter how much EQ you dialed in or spent on mods, you could never get that same sparkle and punch? Well, we were fortunate enough to get our hands on this legendary custom 1974 Fender Rhodes (serial 54247-044074) and took the greatest care to reproduce its gorgeous mojo. &#10;&#10;The instrument&#39;s extraordinary sound comes from Eddy Reynolds, the legendary &#39;80s-era LA keyboard tech who performed his wizardry on this unique electric piano - one which was often rented and used on hundreds of famous albums. The combination of Eddy&#39;s magic touch, custom pre-amp design, and this particular standout Rhodes created a sonic masterpiece that is highly versatile, and extremely rare!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Rhodes - LA Custom Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes Release Lite"  PATH="Keyboards/Duo Maps Stage/Rhodes - LA Custom Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - LA Custom &#34;E&#34;" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Remember that incredible Rhodes sound from all those records in the Eighties? That elusive sound that, no matter how much EQ you dialed in or spent on mods, you could never get that same sparkle and punch? Well, we were fortunate enough to get our hands on this legendary custom 1974 Fender Rhodes (serial 54247-044074) and took the greatest care to reproduce its gorgeous mojo. &#10;&#10;The instrument&#39;s extraordinary sound comes from Eddy Reynolds, the legendary &#39;80s-era LA keyboard tech who performed his wizardry on this unique electric piano - one which was often rented and used on hundreds of famous albums. The combination of Eddy&#39;s magic touch, custom pre-amp design, and this particular standout Rhodes created a sonic masterpiece that is highly versatile, and extremely rare!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Rhodes - LA Custom Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Clavinet C ^"  PATH="Keyboards/Hohner Clavinet C" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Jonathan Merrill" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Hohner Clavinet C" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pickup 1" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pickup 2" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Clavinets" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Clavinet C Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="4264363008" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This actual Clav is from legendary Philadelphia soul factory, Sigma Sound Studios and was used on tons of hits in the 1970s by producers Thom Bell, Gamble and Huff, and countless classic hits from artists including the Spinners and David Bowie. Although originally designed as an electric Clavichord for &#39;60s folk music, the Hohner Clavinet became a mainstay in -70s Funk and Rock when Stevie Wonder used a Clavinet C on his mega-hit, &#34;Superstition.&#34; &#10;&#10;The Clavinet is an electro-mechanical keyboard, with two single coil pickups. The keys cause polymer-tipped hammers to strike the electric guitar-like strings, pushing them abruptly into contact with a metal bar which serves as a fret, causing them to sound. We painstakingly recorded this famous Clavinet C using the original strings through a customized pre-amp configuration from Clavinets.com." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Clavinet C" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Clavinet C Release"  PATH="Keyboards/Hohner Clavinet C" >
+<ATTR  NAME="Author"  VALUE="Jonathan Merrill" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Hohner Clavinet C" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pickup 1" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pickup 2" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Clavinets" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1320440448" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This actual Clav is from legendary Philadelphia soul factory, Sigma Sound Studios and was used on tons of hits in the 1970s by producers Thom Bell, Gamble and Huff, and countless classic hits from artists including the Spinners and David Bowie. Although originally designed as an electric Clavichord for &#39;60s folk music, the Hohner Clavinet became a mainstay in -70s Funk and Rock when Stevie Wonder used a Clavinet C on his mega-hit, &#34;Superstition.&#34; &#10;&#10;The Clavinet is an electro-mechanical keyboard, with two single coil pickups. The keys cause polymer-tipped hammers to strike the electric guitar-like strings, pushing them abruptly into contact with a metal bar which serves as a fret, causing them to sound. We painstakingly recorded this famous Clavinet C using the original strings through a customized pre-amp configuration from Clavinets.com." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Clavinet C" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="E6 Duo Clavinet ^"  PATH="Keyboards/Hohner Clavinet C" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Jonathan Merrill" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Hohner Clavinet E6 Duo" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pickup 1" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pickup 2" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Clavinets" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Clavinet C Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="4264363008" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="The Hohner Clavinet E was made from 1979 to 1984 and the Hohner Pianet T was made from 1977 to around the same time. Both were created by Hohner&#39;s visionary designer, Ernst Zacharias and each enjoyed its own popularity, but from 1978 to 1982, Hohner made a hybrid version that included both in the same enclosure. The keys simultaneously activated the Clavinet hammers and the Pianet sticky pads. The Clavinet action was underneath the Pianet, and this baby was heavy! It included the normal pickups for both.&#10;&#10;It was best to tune the Clavinet to the Pianet, as the Pianet rarely went out of tune. Both outputs were active at all times, and the fader controls adjusted the balance. The keyboard could be split between the two and the normal Clavinet pickup selectors were available as well. These instruments are quite rare." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Clavinet C" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="JD-800 Crystal Rhodes ^"  PATH="Keyboards/JD-800 Crystal Rhodes" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="JD-800 Crystal Rhodes" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vintage Digital Keys" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1652501504" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="By the 1990s, the DX-7 Rhodes sound had run its course, but keyboard players still wanted an electric piano sound that had a cleaner, glossy sheen. Roland&#39;s JD-800 patch &#34;Crystal Rhodes&#34; was the answer. Like the D-50, it used Roland&#39;s 4-layer Sample+Synthesis method, but the architecture was much-improved and the sound was lush and vibrant. In fact, the JD-800&#39;s core waveforms and Factory presets were created by Eric Persing!&#10;&#10;The JD-800 had separate microprocessors for the synth section and keyboard scanning, and its playing response was as fast as CV synths - setting it apart from the overloaded processors of its contemporaries. To the JD-800&#39;s 4 oscillators, 4 filters, 8 LFOs and 12 envelopes, Roland added ultra high-quality effects and brought back an analog-style hardware panel." >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled A0 to C8." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="JD-800 Crystal Rhodes" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Harder"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="45159747584" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Hardest"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="41476927488" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Softer"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="45159747584" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Softest"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="36732653568" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="45159747584" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 Pedal Noise RR"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="PedalNoise" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="30394666" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 Release"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2124009088" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MK-80 Contemporary Rhodes ^"  PATH="Keyboards/MK-80 Contemporary Rhodes" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="MK-80 Digital Rhodes" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vintage Digital Keys" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Roland bought the Rhodes brand name in 1987 and in 1989, they released the MK-80 - a digital recreation of the electro-mechanical Rhodes. Because of the reverence which die-hard Rhodes fans have for the original instruments and the brand itself, this short-lived keyboard has long been scorned as a digital &#34;wannabe&#34; instrument. &#10;&#10;What&#39;s less known is that the technology used in the MK-80 was actually the next generation of Structured Adaptive Synthesis pioneered in the legendary MKS-20 and its digital Rhodes sounds are excellent in their own way. They layer quite well with other Electric Piano sounds." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MK-80 Contemporary Rhodes" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MKS-20 E Piano 1 ^"  PATH="Keyboards/MKS-20 E Piano 1" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="MKS-20 Digital Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vintage Digital Keys" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="In the 1980s, after the DX-7 craze, keyboard players were still searching for the &#34;Holy Grail&#34; Rhodes sound in digital form. In 1986, Roland unveiled the 16-voice MKS-20, the best-selling, rack version of their popular RD-1000. Both units used Roland&#39;s newly-developed &#34;Structured Adaptive Synthesis,&#34; an early type of re-synthesis that provided an extremely expressive response.&#10;&#10;Eric Persing worked on developing the famous MKS-20 sounds in Japan with Roland in the &#39;80s. Roland wisely combined the digital side of the instrument with high-quality analog components and effects, resulting in a far warmer sound than most keyboards of that time. The unit went on to be used on thousands of well-known productions and remains an enduring classic. This Soundsource uses the E. Piano 1 Patch." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MKS-20 E Piano 1" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MKS-20 Electric Grand ^"  PATH="Keyboards/MKS-20 Electric Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="MKS-20 Digital Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vintage Digital Keys" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Yamaha CP-70 Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="In the 1980s, the electric grand piano was king in live performance and in the studio. The sound was distinctive and it looked really cool on stage! But, they were pricey and the players who could afford one got tired of lugging around that 300 lb. beast! In 1986, Roland unveiled the 16-voice MKS-20 and its Electric Grand sound quickly earned its place on stage next to its analog cousin. In the same family as the CP70, it has its own unique sonic qualities.&#10;&#10;Eric Persing worked on developing the famous MKS-20 sounds in Japan with Roland in the &#39;80s. Roland wisely combined the digital side of the instrument with high-quality analog components and effects, resulting in a far warmer sound than most keyboards of that time. The unit went on to be used on thousands of well-known productions and remains an enduring classic." >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled A0 to C8." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MKS-20 Electric Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Yamaha CP-70 Release"  PATH="Keyboards/MKS-20 Electric Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Jonathan Merrill" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Yamaha CP-70" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="354911168" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Considered by many to be the &#34;gold standard&#34; of hybrid electro-acoustic pianos, the Yamaha CP-70 from the late 1970s has been heard on classic recordings for four decades. It has a powerful character that cuts through a mix. Noted users include Peter Gabriel, Genesis, Billy Joel, Stevie Wonder, UK, Kansas, Toto, and Led Zeppelin.&#10;&#10;No need to set up microphones, the CP-70 uses a piezo-electric pickup system, which is fed to its internal pre-amp. With real piano action, hammers, strings, and a removable damper pedal, it was made to withstand the rigors of touring and although it weighs 300lbs, it can be separated into two pieces. Its tuning is remarkably stable, even when moved. Yamaha also made two 88-key models - the CP-80 and the CP-60, a single-piece upright with MIDI." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MKS-20 Electric Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MKS-20 Vibes ^"  PATH="Keyboards/MKS-20 Vibes" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="MKS-20 Digital Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vintage Digital Keys" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1362080384" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vibes have always been a poplar instrumental color in all genres of music. The thing is, they&#39;re big and delicate and tough to move. In 1986, Roland unveiled the MKS-20. Included with the impressive Electric Pianos was Roland&#39;s signature Vibes sound.&#10;&#10;Eric Persing worked on developing the famous MKS-20 sounds in Japan with Roland in the &#39;80s. Roland wisely combined the digital side of the instrument with high-quality analog components and effects, resulting in a far warmer sound than most keyboards of that time. The unit went on to be used on thousands of well-known productions and remains an enduring classic." >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled A0 to C8." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MKS-20 Vibes" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes ^"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - Classic Mark I" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="6104306688" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="With over 250,000 Fender Rhodes produced, a major culture has grown up around the instrument. Numerous models were produced between 1965 and 1984, but the consensus is that the early &#39;70s 73-key MkI with wood keys and Peterson electronics is the ideal specimen. That classic is featured here. We recorded via the pre-amp and captured the mechanical noises with a mic.&#10;&#10;The Rhodes piano action causes its hammers to strike a tine (a tuned metal rod) which is attached to a more substantial metal tonebar for sustain. The sound is amplified by an electro-magnetic pickup routed to an active pre-amp. Our amazing-sounding instrument was carefully restored and rebuilt by renowned Los Angeles keyboard tech, Ken Rich." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Amp ^"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - Classic Mark I" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5699632128" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="With over 250,000 Fender Rhodes produced, a major culture has grown up around the instrument. Numerous models were produced between 1965 and 1984, but the consensus is that the early &#39;70s 73-key MkI with wood keys and Peterson electronics is the ideal specimen. That classic is featured here. We recorded via the pre-amp and captured the mechanical noises with a mic.&#10;&#10;The Rhodes piano action causes its hammers to strike a tine (a tuned metal rod) which is attached to a more substantial metal tonebar for sustain. The sound is amplified by an electro-magnetic pickup routed to an active pre-amp. Our amazing-sounding instrument was carefully restored and rebuilt by renowned Los Angeles keyboard tech, Ken Rich." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Mechanical ^ RR"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - Classic Mark I" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Mechanical Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="375838336" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="With over 250,000 Fender Rhodes produced, a major culture has grown up around the instrument. Numerous models were produced between 1965 and 1984, but the consensus is that the early &#39;70s 73-key MkI with wood keys and Peterson electronics is the ideal specimen. That classic is featured here. We recorded via the pre-amp and captured the mechanical noises with a mic.&#10;&#10;The Rhodes piano action causes its hammers to strike a tine (a tuned metal rod) which is attached to a more substantial metal tonebar for sustain. The sound is amplified by an electro-magnetic pickup routed to an active pre-amp. Our amazing-sounding instrument was carefully restored and rebuilt by renowned Los Angeles keyboard tech, Ken Rich." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Mechanical Release"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - Classic Mark I" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="110256968" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="With over 250,000 Fender Rhodes produced, a major culture has grown up around the instrument. Numerous models were produced between 1965 and 1984, but the consensus is that the early &#39;70s 73-key MkI with wood keys and Peterson electronics is the ideal specimen. That classic is featured here. We recorded via the pre-amp and captured the mechanical noises with a mic.&#10;&#10;The Rhodes piano action causes its hammers to strike a tine (a tuned metal rod) which is attached to a more substantial metal tonebar for sustain. The sound is amplified by an electro-magnetic pickup routed to an active pre-amp. Our amazing-sounding instrument was carefully restored and rebuilt by renowned Los Angeles keyboard tech, Ken Rich." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Mellow ^"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - Classic Mark I" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="6104306688" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="With over 250,000 Fender Rhodes produced, a major culture has grown up around the instrument. Numerous models were produced between 1965 and 1984, but the consensus is that the early &#39;70s 73-key MkI with wood keys and Peterson electronics is the ideal specimen. That classic is featured here. We recorded via the direct outs and captured the mechanical noises with stereo mics.&#10;&#10;The Rhodes piano action causes its hammers to strike a tine (a tuned metal rod) which is attached to a more substantial metal tonebar for sustain. The sound is amplified by an electro-magnetic pickup routed to an active pre-amp. Our amazing-sounding instrument was carefully restored and rebuilt by renowned Los Angeles keyboard tech, Ken Rich." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Release"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - Classic Mark I" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="278228352" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="With over 250,000 Fender Rhodes produced, a major culture has grown up around the instrument. Numerous models were produced between 1965 and 1984, but the consensus is that the early &#39;70s 73-key MkI with wood keys and Peterson electronics is the ideal specimen. That classic is featured here. We recorded via the pre-amp and captured the mechanical noises with a mic.&#10;&#10;The Rhodes piano action causes its hammers to strike a tine (a tuned metal rod) which is attached to a more substantial metal tonebar for sustain. The sound is amplified by an electro-magnetic pickup routed to an active pre-amp. Our amazing-sounding instrument was carefully restored and rebuilt by renowned Los Angeles keyboard tech, Ken Rich." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Suitcase ^"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - Classic Mark I" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="6104306688" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="With over 250,000 Fender Rhodes produced, a major culture has grown up around the instrument. Numerous models were produced between 1965 and 1984, but the consensus is that the early &#39;70s 73-key MkI with wood keys and Peterson electronics is the ideal specimen. That classic is featured here. We recorded via the pre-amp and captured the mechanical noises with a mic.&#10;&#10;The Rhodes piano action causes its hammers to strike a tine (a tuned metal rod) which is attached to a more substantial metal tonebar for sustain. The sound is amplified by an electro-magnetic pickup routed to an active pre-amp. Our amazing-sounding instrument was carefully restored and rebuilt by renowned Los Angeles keyboard tech, Ken Rich." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Wah ^"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - Classic Mark I" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5699632128" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="With over 250,000 Fender Rhodes produced, a major culture has grown up around the instrument. Numerous models were produced between 1965 and 1984, but the consensus is that the early &#39;70s 73-key MkI with wood keys and Peterson electronics is the ideal specimen. That classic is featured here. We recorded via the pre-amp and captured the mechanical noises with a mic.&#10;&#10;The Rhodes piano action causes its hammers to strike a tine (a tuned metal rod) which is attached to a more substantial metal tonebar for sustain. The sound is amplified by an electro-magnetic pickup routed to an active pre-amp. Our amazing-sounding instrument was carefully restored and rebuilt by renowned Los Angeles keyboard tech, Ken Rich." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe EP Mechanical 2 ^ RR"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Vintage Vibe Electric Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Mechanical Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="375838336" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="We are pleased to present the official virtual instrument version of the Vintage Vibe Electric Piano. Since the mid-1960s, the Rhodes Electric Piano has been heard on practically every recording in almost every style of music, but these classic instruments were discontinued in the 1980s. Fast-forward to 2011 when Vintage Vibe released their new, hand-built &#34;Tine Piano.&#34; A high-quality, modern take on a classic with a vibey, authentic sound - the first &#34;real&#34; electric piano made from scratch in decades.&#10;&#10;It comes with American-made steel tines and rubber-tipped wooden hammers, along with either hand-wound passive pickups or Peterson-style pre-amps with stereo tremolo. The super-consistent action lets you play softly for a warm tone or lay into it for a real growl. We worked closely with Vintage Vibe to create the ultimate version of this modern-day classic!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Bassett I Mechanical ^ RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Weltmeister Basset" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Key Bass" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="849408320" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="The Weltmeister Basset I, sometimes referred to as the Weltmeister Combo Bass, was the first keytar! This rare &#34;Cold War&#34; electro-mechanical keyboard instrument was made from 1963 to 1969 by accordion manufacturer, Weltmeister, in East Germany. It was practically impossible to get one in the US.&#10;&#10;The battery-powered Basset I was popular in the 1960s and early 1970s with East German dance bands. Its mechanical piano action was derived from its big brother, the Weltmeister Claviset. Pressing a key causes the lip of a rubber disc to pluck the tine. When the key is released, the sound is stopped by a foam damper. A warning label in German, Cyrillic Russian, and English warns of &#34;danger of life&#34; if you connect it to a radio or an amplifier with AC-DC!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Bassett II Mechanical ^ RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Weltmeister Basset" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Key Bass" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="849408320" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="There is little information available about this extremely rare tabletop version of the Weltmeister Bassett, but it is in many ways identical to its predecessor, the Bassett I. Difficult to acquire in the US, this rare &#34;Cold War&#34; electro-mechanical keyboard instrument was in production for a brief time in the late 1960s by accordion manufacturer, Weltmeister in East Germany.&#10;&#10;The battery-powered Basset II was popular in the 1960s and early 1970s with East German dance bands. Its mechanical piano action was derived from its big brother, the Weltmeister Claviset. Pressing a key causes the lip of a rubber disc to pluck the tine. When the key is released, the sound is stopped by a foam damper. A warning label in German, Cyrillic Russian, and English warns of &#34;danger of life&#34; if you connect it to a radio or an amplifier with AC-DC!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes ^"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - LA Custom &#34;E&#34;" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5588297216" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Remember that incredible Rhodes sound from all those records in the Eighties? That elusive sound that, no matter how much EQ you dialed in or spent on mods, you could never get that same sparkle and punch? Well, we were fortunate enough to get our hands on this legendary custom 1974 Fender Rhodes (serial 54247-044074) and took the greatest care to reproduce its gorgeous mojo. &#10;&#10;The instrument&#39;s extraordinary sound comes from Eddy Reynolds, the legendary &#39;80s-era LA keyboard tech who performed his wizardry on this unique electric piano - one which was often rented and used on hundreds of famous albums. The combination of Eddy&#39;s magic touch, custom pre-amp design, and this particular standout Rhodes created a sonic masterpiece that is highly versatile, and extremely rare!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes Mechanical ^ RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - LA Custom &#34;E&#34;" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Mechanical Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="849408320" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Remember that incredible Rhodes sound from all those records in the Eighties? That elusive sound that, no matter how much EQ you dialed in or spent on mods, you could never get that same sparkle and punch? Well, we were fortunate enough to get our hands on this legendary custom 1974 Fender Rhodes (serial 54247-044074) and took the greatest care to reproduce its gorgeous mojo. &#10;&#10;The instrument&#39;s extraordinary sound comes from Eddy Reynolds, the legendary &#39;80s-era LA keyboard tech who performed his wizardry on this unique electric piano - one which was often rented and used on hundreds of famous albums. The combination of Eddy&#39;s magic touch, custom pre-amp design, and this particular standout Rhodes created a sonic masterpiece that is highly versatile, and extremely rare!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes Mechanical Pedal Noise RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - LA Custom &#34;E&#34;" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="PedalNoise" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2033370" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Remember that incredible Rhodes sound from all those records in the Eighties? That elusive sound that, no matter how much EQ you dialed in or spent on mods, you could never get that same sparkle and punch? Well, we were fortunate enough to get our hands on this legendary custom 1974 Fender Rhodes (serial 54247-044074) and took the greatest care to reproduce its gorgeous mojo. &#10;&#10;The instrument&#39;s extraordinary sound comes from Eddy Reynolds, the legendary &#39;80s-era LA keyboard tech who performed his wizardry on this unique electric piano - one which was often rented and used on hundreds of famous albums. The combination of Eddy&#39;s magic touch, custom pre-amp design, and this particular standout Rhodes created a sonic masterpiece that is highly versatile, and extremely rare!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes Mechanical Release"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - LA Custom &#34;E&#34;" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="78037688" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Remember that incredible Rhodes sound from all those records in the Eighties? That elusive sound that, no matter how much EQ you dialed in or spent on mods, you could never get that same sparkle and punch? Well, we were fortunate enough to get our hands on this legendary custom 1974 Fender Rhodes (serial 54247-044074) and took the greatest care to reproduce its gorgeous mojo. &#10;&#10;The instrument&#39;s extraordinary sound comes from Eddy Reynolds, the legendary &#39;80s-era LA keyboard tech who performed his wizardry on this unique electric piano - one which was often rented and used on hundreds of famous albums. The combination of Eddy&#39;s magic touch, custom pre-amp design, and this particular standout Rhodes created a sonic masterpiece that is highly versatile, and extremely rare!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes Pedal Noise RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - LA Custom &#34;E&#34;" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="PedalNoise" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5938521" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Remember that incredible Rhodes sound from all those records in the Eighties? That elusive sound that, no matter how much EQ you dialed in or spent on mods, you could never get that same sparkle and punch? Well, we were fortunate enough to get our hands on this legendary custom 1974 Fender Rhodes (serial 54247-044074) and took the greatest care to reproduce its gorgeous mojo. &#10;&#10;The instrument&#39;s extraordinary sound comes from Eddy Reynolds, the legendary &#39;80s-era LA keyboard tech who performed his wizardry on this unique electric piano - one which was often rented and used on hundreds of famous albums. The combination of Eddy&#39;s magic touch, custom pre-amp design, and this particular standout Rhodes created a sonic masterpiece that is highly versatile, and extremely rare!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes Release"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes - LA Custom &#34;E&#34;" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="253680512" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Remember that incredible Rhodes sound from all those records in the Eighties? That elusive sound that, no matter how much EQ you dialed in or spent on mods, you could never get that same sparkle and punch? Well, we were fortunate enough to get our hands on this legendary custom 1974 Fender Rhodes (serial 54247-044074) and took the greatest care to reproduce its gorgeous mojo. &#10;&#10;The instrument&#39;s extraordinary sound comes from Eddy Reynolds, the legendary &#39;80s-era LA keyboard tech who performed his wizardry on this unique electric piano - one which was often rented and used on hundreds of famous albums. The combination of Eddy&#39;s magic touch, custom pre-amp design, and this particular standout Rhodes created a sonic masterpiece that is highly versatile, and extremely rare!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Rhodes Bass Mechanical Noise ^ RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Rhodes Piano Bass" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Key Bass" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="849408320" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Produced in the early 1960s, before the full-range Rhodes Electric Piano, the Piano Bass was the only Rhodes Piano (excluding the Pre-Piano) built before CBS bought both Fender and Rhodes in 1962. And, even though he helped develop the now-iconic, full-range Rhodes, Leo Fender disliked their sound and thought only the Piano Bass was marketable!&#10;&#10;Its piano action has rubber-tipped hammers that strike metal tines. The sound is sent to the passive output via electro-magnetic pickups. If you&#39;ve ever watched a 1960s vintage video of the Doors playing &#34;Light My Fire&#34; or &#34;Riders on the Storm,&#34; you probably noticed there was no bass player. Doors keyboardist Ray Manzarek played the Piano Bass perched on top of his Vox Continental organ." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe EP Mechanical 1 ^ RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Vintage Vibe Electric Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Mechanical Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="849408320" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="We are pleased to present the official virtual instrument version of the Vintage Vibe Electric Piano. Since the mid-1960s, the Rhodes Electric Piano has been heard on practically every recording in almost every style of music, but these classic instruments were discontinued in the 1980s. Fast-forward to 2011 when Vintage Vibe released their new, hand-built &#34;Tine Piano.&#34; A high-quality, modern take on a classic with a vibey, authentic sound - the first &#34;real&#34; electric piano made from scratch in decades.&#10;&#10;It comes with American-made steel tines and rubber-tipped wooden hammers, along with either hand-wound passive pickups or Peterson-style pre-amps with stereo tremolo. The super-consistent action lets you play softly for a warm tone or lay into it for a real growl. We worked closely with Vintage Vibe to create the ultimate version of this modern-day classic!" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe TB Mechanical ^ RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Vintage Vibe Tine Bass" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Key Bass" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="849408320" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="We are pleased to present the official virtual instrument version of the Vintage Vibe Tine Bass. The original Rhodes Piano Bass was produced from the early 1960s to 1975 and it was famously played by the Doors&#39; keyboardist, Ray Manzarek, from its perch on top of his Vox Continental organ. Fast forward to 2011 when Vintage Vibe created the Tine Bass Piano - a quality, modern take on a classic.&#10;&#10;The Vintage Vibe Tine Bass is an electro-mechanical tine piano that weighs 37 pounds (much less than its inspiration). The pickups are routed through VV&#39;s own tube pre-amp. A tine piano lets you play softly for a warm tone or hit the keys hard for a real growl. Played as a bass by itself, doubled with a classic organ sound or even a real bass, this instrument adds a nice, fat low end to your track." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 01"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1767446" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 02"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1643024" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 03"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="523838" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 04"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1935614" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 05"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1061846" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 06"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1883702" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 07"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1035176" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 08"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1862648" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 09"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1638026" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 10"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1489412" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 11"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2275844" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Weltmeister Claviset Mechanical ^ RR"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Weltmeister Claviset" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wurlitzer 140B Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="404238944" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This 1960s Cold War collector&#39;s item was made in East Germany by the accordion manufacturer, Weltmeister (which means &#34;World Champion-), and is the only known Eastern European electric piano. Although the Claviset has a similar sound to the Hohner Pianet, the metal reeds are plucked by rotating rubber discs with small lips rather than being pulled by a sticky pads.&#10;&#10;The tines are amplified by electro-magnetic pickups routed to an internal battery-powered pre-amp. The instrument tone tabs on the front refer to the tonal qualities of the filters, rather than emulations of acoustic instruments. Difficult to get in the US until the Wall came down (and still rare to this date), the Claviset was famously used by Joe Meek and OMD (Orchestral Manoeuvres in the Dark)." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 140B ^ RR"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wurlitzer 140B Pedal Noise RR DI" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wurlitzer 140B Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="8480677888" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Many players say the iconic sound of the Wurlitzer 140B is absolutely the vibiest, the most soul-bending electric piano sound ever to rule the airwaves. The &#34;Wurli&#34; was made from 1954 to the early 1980s and used metal reeds - small blades that were struck by the hammers of a real piano action. The 140B, released in 1962, was the first solid state model.&#10;&#10;Pickups routed the sound to a self-contained amplifier and speaker. The reeds are tuned by adding drops of solder to the tip and then filing it off until the pitch is right. In this highly-detailed model, we recorded the direct out and the internal speakers as well. The first musician to record with an early 100 series Wurli was Sun Ra, for his 1956 &#34;Angels and Demons at Play&#34; and Ray Charles had a huge hit in 1959 with &#34;What&#39;d I Say,&#34; also using an early model." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 140B Mechanical Noise ^ RR"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wurlitzer 140B Pedal Noise RR Mic" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wurlitzer 140B Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="404238944" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Many players say the iconic sound of the Wurlitzer 140B is absolutely the vibiest, the most soul-bending electric piano sound ever to rule the airwaves. The &#34;Wurli&#34; was made from 1954 to the early 1980s and used metal reeds - small blades that were struck by the hammers of a real piano action. The 140B, released in 1962, was the first solid state model.&#10;&#10;Pickups routed the sound to a self-contained amplifier and speaker. The reeds are tuned by adding drops of solder to the tip and then filing it off until the pitch is right. In this highly-detailed model, we recorded the direct out and the internal speakers as well. The first musician to record with an early 100 series Wurli was Sun Ra, for his 1956 &#34;Angels and Demons at Play&#34; and Ray Charles had a huge hit in 1959 with &#34;What&#39;d I Say,&#34; also using an early model." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 140B Mechanical Release"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="32897896" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Many players say the iconic sound of the Wurlitzer 140B is absolutely the vibiest, the most soul-bending electric piano sound ever to rule the airwaves. The &#34;Wurli&#34; was made from 1954 to the early 1980s and used metal reeds - small blades that were struck by the hammers of a real piano action. The 140B, released in 1962, was the first solid state model.&#10;&#10;Pickups routed the sound to a self-contained amplifier and speaker. The reeds are tuned by adding drops of solder to the tip and then filing it off until the pitch is right. In this highly-detailed model, we recorded the direct out and the internal speakers as well. The first musician to record with an early 100 series Wurli was Sun Ra, for his 1956 &#34;Angels and Demons at Play&#34; and Ray Charles had a huge hit in 1959 with &#34;What&#39;d I Say,&#34; also using an early model." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 140B Pedal Noise RR DI"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="PedalNoise" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2323111" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Many players say the iconic sound of the Wurlitzer 140B is absolutely the vibiest, the most soul-bending electric piano sound ever to rule the airwaves. The &#34;Wurli&#34; was made from 1954 to the early 1980s and used metal reeds - small blades that were struck by the hammers of a real piano action. The 140B, released in 1962, was the first solid state model.&#10;&#10;Pickups routed the sound to a self-contained amplifier and speaker. The reeds are tuned by adding drops of solder to the tip and then filing it off until the pitch is right. In this highly-detailed model, we recorded the direct out and the internal speakers as well. The first musician to record with an early 100 series Wurli was Sun Ra, for his 1956 &#34;Angels and Demons at Play&#34; and Ray Charles had a huge hit in 1959 with &#34;What&#39;d I Say,&#34; also using an early model." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 140B Pedal Noise RR Mic"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="PedalNoise" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2342209" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Many players say the iconic sound of the Wurlitzer 140B is absolutely the vibiest, the most soul-bending electric piano sound ever to rule the airwaves. The &#34;Wurli&#34; was made from 1954 to the early 1980s and used metal reeds - small blades that were struck by the hammers of a real piano action. The 140B, released in 1962, was the first solid state model.&#10;&#10;Pickups routed the sound to a self-contained amplifier and speaker. The reeds are tuned by adding drops of solder to the tip and then filing it off until the pitch is right. In this highly-detailed model, we recorded the direct out and the internal speakers as well. The first musician to record with an early 100 series Wurli was Sun Ra, for his 1956 &#34;Angels and Demons at Play&#34; and Ray Charles had a huge hit in 1959 with &#34;What&#39;d I Say,&#34; also using an early model." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 140B Release"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Scott Frankfurt" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="596968192" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Many players say the iconic sound of the Wurlitzer 140B is absolutely the vibiest, the most soul-bending electric piano sound ever to rule the airwaves. The &#34;Wurli&#34; was made from 1954 to the early 1980s and used metal reeds - small blades that were struck by the hammers of a real piano action. The 140B, released in 1962, was the first solid state model.&#10;&#10;Pickups routed the sound to a self-contained amplifier and speaker. The reeds are tuned by adding drops of solder to the tip and then filing it off until the pitch is right. In this highly-detailed model, we recorded the direct out and the internal speakers as well. The first musician to record with an early 100 series Wurli was Sun Ra, for his 1956 &#34;Angels and Demons at Play&#34; and Ray Charles had a huge hit in 1959 with &#34;What&#39;d I Say,&#34; also using an early model." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 200A Mechanical Noise ^ RR"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Author"  VALUE="Nick Manson" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="Wurlitzer 200A" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Electric Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wurlitzer 140B Pedal Noise RR Mic" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wurlitzer 140B Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="404238944" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="The iconic sound of the Wurlitzer Electric Piano has ruled the airwaves for over half a century. The &#34;Wurli&#34; was made from 1954 to the early 1980s. The 200A, updated from the 200, was released in 1974. The tone came from metal reeds - small blades that were struck by the hammers of a real piano action. Pickups routed the sound to a self-contained amplifier and speaker. It had a fixed-rate tremolo and an updated amp and speaker design. The reeds are tuned by adding drops of solder to the tip and filing it off until the pitch is right. &#10;&#10;Among the many artists who have famously used the 200A are Supertramp, Elton John, Pink Floyd, The Archies (&#34;Sugar Sugar&#34;), Joni Mitchell, and Steely Dan. We recorded both the direct signal and the speakers." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ </INDEX>
+ 

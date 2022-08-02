@@ -1,0 +1,11 @@
+[Attribs] 
+Mode = DataUpdater   
+NumberOfVolumes = 2  
+TotalSizeMillionsBytes = 925   
+RelativePath = ../Data/Lite
+RelativePath2 = ../Data/Full
+Component1SizeMillionsBytes = 96   
+InstallDataTitle = Installing Keyscape STEAM data
+PreparationTitle = Location of STEAM data
+InstallingData = Now installing Keyscape STEAM data.
+InstalledData = Installation finished.

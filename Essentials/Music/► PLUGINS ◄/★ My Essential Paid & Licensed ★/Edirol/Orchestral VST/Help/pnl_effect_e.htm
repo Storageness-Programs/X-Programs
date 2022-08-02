@@ -1,0 +1,548 @@
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<title>Effect Editor</title>
+<style><!--
+.pagestyle { line-height: 130%; color:rgb(0,0,0); font-size:10pt;}
+body { color:rgb(0,0,0);}
+th { color:rgb(0,0,0);}
+td { color:rgb(0,0,0);}
+h1 { color:rgb(0,0,204); font-size:18pt; text-decoration:underline;}
+h2 { color:rgb(100,120,0); font-size:14pt; margin-left:0pt;}
+h3 { color:rgb(190,130,0); font-size:12pt; margin-left:0pt;}
+h4 { color:rgb(10,110,130); font-size:11pt; margin-left:20pt;}
+h5 { color:rgb(0,0,0); font-size:10pt; margin-left:20pt;}
+p { color:rgb(0,0,0); font-size:10pt; margin-left:20pt;}
+p.list { color:rgb(0,0,0); font-size:10pt;}
+p.sublist { color:rgb(97,97,97); font-size:9pt;}
+p.tableitem { color:rgb(0,0,0); font-size:10pt; margin-left:0pt;}
+p.note { color:rgb(200,0,0); font-size:9pt; margin-left:30pt; margin-right:30pt; text-indent:-15pt;}
+p.info { color:rgb(0,0,150); font-size:9pt; margin-left:30pt; margin-right:30pt; text-indent:-12pt;}
+p.fig { margin-left:15pt;}
+a { font-weight:bold; }
+dt { font-weight:bold; text-decoration:underline; font-size:11pt;}
+-->
+</style>
+</head>
+
+<body bgcolor="white" text="black" link="#6666CC" vlink="#6666CC" alink="#6666CC" class="pagestyle">
+<h2><a name="Effect Editor">Effect Editor</a></h2>
+<p>Orchestral provides reverb and chorus/delay as built-in effects. You can 
+use separate windows to freely customize the settings of each effect.</p>
+        <h3><a name="About the presets">About the presets (PRESET)</a></h3>
+<p>Each effect provides several settings as system presets. You can store your 
+customized settings as user presets.</p>
+<p>For details, refer to &quot;<a href="usr_efx_e.htm#Saving and loading effect presets">Saving and loading effect presets</a>.&quot;</p>
+        <h3><a name="Reverb">Reverb (REVERB)</a></h3>
+<h4>Opening the Reverb editor</h4>
+<p>Click the <b>[EDIT]</b> button in the <b>REVERB</b> tab page of the Master 
+Panel.</p>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+<p><img src="img/rev_open.gif" width="134" height="146" border="0" alt="rev_open.gif">&nbsp;</p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<h4>About the panel</h4>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <h4><img src="img/reverb.gif" width="595" height="145" border="0" alt="reverb.gif">&nbsp;</h4>
+            </td>
+        </tr>
+    </table>
+</ul>
+<p><img src="img/box01.gif" width="18" height="18" border="0" align="absmiddle">Selects the type of reverb.</p>
+<ul>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="135">
+            <p align="center" class="tableitem"><b>Type</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="540">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA">
+            <p align="left" class="tableitem">ROOM</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">This simulates typical room acoustic reflections.</p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA">
+            <p align="left" class="tableitem">HALL</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">This simulates typical concert hall acoustic 
+                reflections.</p>
+        </td>
+    </tr>
+        <tr>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">PLATE</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">This simulates a reverb plate, a popular 
+                type of artificial reverb unit that derives its sound from the 
+                vibration of a metallic plate.</p>
+        </td>
+        </tr>
+</table>
+</ul>
+<p><img src="img/box02.gif" width="18" height="18" border="0" alt="box02.gif" align="absmiddle"><b>PRESET</b> 
+: Displays the names of the reverb presets. You can click the pulldown 
+button at the right, and choose a preset from the list that appears. If you 
+edit the parameters after selecting a preset, a check mark will be displayed 
+at the beginning of the preset name.</p>
+<p><img src="img/box03.gif" width="18" height="18" border="0" alt="box03.gif" align="absmiddle"><b>WRITE</b> 
+: Saves the current settings as a user preset. Click this to display 
+the user preset list, and then click the location in which you want to save 
+your settings.</p>
+<p><img src="img/box04.gif" width="18" height="18" border="0" alt="box04.gif" align="absmiddle">These are the reverb parameters.</p>
+<ul>
+    <dl>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">PRE DLY        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0.0 - 100.0 [ms]</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the time until the reverb is 
+                    heard.</p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA">
+            <p align="left" class="tableitem">TIME</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Duration of reverb source.</p>
+        </td>
+    </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">SIZE</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">1 - 8</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Size of the simulated room or hall</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">HIGH CUT</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">160 - 12500 [Hz], BYP.(Bypass)</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the frequency above which the 
+                    high-frequency content of the reverb is filtered out. If 
+                    you don't want to reduce the reverb's high frequencies, 
+                    set this parameter to BYPASS.</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">DENSITY</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Density of reverb</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">DIFFUSION</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the change in the density of 
+                    the reverb over time. The higher the value, the more the 
+                    density increases with time. (The effect of this setting 
+                    is most pronounced with long reverb times.)</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">LF DAMP FREQ</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">50 - 4000 [Hz]</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the frequency below which the 
+                    lowfrequency content of the reverb sound is reduced, or 
+                    &quot;damped.&quot;</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">LF DAMP GAIN</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">-36 - 0 [dB]</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the amount of damping applied 
+                    to the frequency range selected with LF Damp. With a setting 
+                    of &quot;0,&quot; there's no reduction of the reverb's low-frequency 
+                    content.</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">HF DAMP FREQ</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">4000 - 12500 [Hz]</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the frequency above which the 
+                    high-frequency content of the reverb sound is reduced, or 
+                    &quot;damped.&quot;</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">HF DAMP GAIN</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">-36 - 0 [dB]</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the amount of damping applied 
+                    to the frequency range selected with HF Damp. With a setting 
+                    of &quot;0,&quot; there's no reduction of the reverb's high-frequency 
+                    content.</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">LEVEL</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Output level of reverbration</p>
+        </td>
+            </tr>
+</table>
+</dl>
+</ul>
+<p><img src="img/box05.gif" width="18" height="18" border="0" alt="box05.gif" align="absmiddle"><b>CLOSE</b> 
+: Close the Reverb Editor window.</p>
+        <h3><a name="Chorus_Delay">Chorus / Delay (CHORUS/DELAY)</a></h3>
+<h4>Opening the Chorus / Delay editor</h4>
+<p>Click the <b>[EDIT]</b> button in the <b>CHORUS</b> tab page of the Master 
+Panel.</p>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+<p><img src="img/cho_open.gif" width="134" height="146" border="0" alt="cho_open.gif">&nbsp;</p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<h4>About the panel</h4>
+<h5>CHORUS</h5>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <p><img src="img/chorus.gif" width="595" height="145" border="0" alt="chorus.gif">&nbsp;</p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<h5>DELAY</h5>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <p><img src="img/delay.gif" width="600" height="145" border="0" alt="delay.gif">&nbsp;</p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<p><img src="img/box01.gif" width="18" height="18" border="0" align="absmiddle">Switches the effect type between chorus and delay. When you switch the type, 
+the editing window for that effect type will appear.</p>
+<p><img src="img/box02.gif" width="18" height="18" border="0" alt="box02.gif" align="absmiddle"><b>PRESET</b> 
+: Displays the names of the chorus/delay presets. You can click the pulldown 
+button at the right, and choose a preset from the list that appears. If you 
+edit the parameters after selecting a preset, a check mark will be displayed 
+at the beginning of the preset name.</p>
+<p><img src="img/box03.gif" width="18" height="18" border="0" alt="box03.gif" align="absmiddle"><b>WRITE</b> 
+: Saves the current settings as a user preset. Click this to display 
+the user preset list, and then click the location in which you want to save 
+your settings.</p>
+<p><img src="img/box04.gif" width="18" height="18" border="0" alt="box04.gif" align="absmiddle">These are the chorus parameters.</p>
+<ul>
+    <dl>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">PRE DLY        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0.0 - 100.0 [ms]</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the time until the chorus is 
+                    heard.</p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA">
+            <p align="left" class="tableitem">RATE</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0.05 - 11.00 [Hz]</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Frequency of modulation</p>
+        </td>
+    </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">DEPTH</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Depth of modulation</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">PHASE</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0 - 180 [deg]</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Spatial spread of the sound</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">FEEDBACK</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the amount of the chorus sound 
+                    that's fed back into the effect.</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">FILTER TYPE</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">OFF, LPF, HPF</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Type of filter<br> &nbsp;&nbsp;&nbsp;&nbsp;<b>OFF</b>: 
+                    no filter is used<br> &nbsp;&nbsp;&nbsp;&nbsp;<b>LPF</b>: 
+                    cuts the frequency range above the Cutoff Freq<br> &nbsp;&nbsp;&nbsp;&nbsp;<b>HPF</b>: 
+                    cuts the frequency range below the Cutoff Freq</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">FILTER CUTOFF</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">200&nbsp;~ 8000 [Hz]</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Cutoff frequency of the filter</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">REV SEND</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the amount of chorus sound 
+                    sent to the reverb.</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">LEVEL</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Volume of the chorus sound</p>
+        </td>
+            </tr>
+</table>
+</dl>
+</ul>
+<p><img src="img/box05.gif" width="18" height="18" border="0" alt="box05.gif" align="absmiddle">These are the delay parameters.</p>
+<ul>
+    <dl>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">DELAY TIME LEFT        </td>
+        <td bgcolor="#EAEAEA" rowspan="3">
+                    <p class="tableitem">0&nbsp;~ 1000 [ms]</p>
+        </td>
+        <td bgcolor="#EAEAEA" rowspan="3">
+                    <p class="tableitem">Adjusts the time until the delay is 
+                    heard.</p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA">
+            <p align="left" class="tableitem">DELAY TIME CENTER</p>
+        </td>
+    </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">DELAY TIME RIGHT</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">DELAY LEVEL LEFT</p>
+        </td>
+        <td bgcolor="#EAEAEA" rowspan="3">
+                    <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA" rowspan="3">
+                    <p class="tableitem">Volume of each delay</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">DELAY LEVEL CENTER</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">DELAY LEVEL RIGHT</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">FEEDBACK</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">-98 - +98 [%]</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the amount of the delay sound 
+                    that's fed back into the effect. Negative (-) settings 
+                    invert the phase.</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">HF DAMP</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">200 - 8000 [Hz], BYP.(Bypass)</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the frequency above which sound 
+                    fed back to the effect is filtered out. If you don't want 
+                    to filter out any high frequencies, set this parameter to 
+                    BYPASS.</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">REV SEND</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the amount of delay&nbsp;sound 
+                    sent to the reverb.</p>
+        </td>
+            </tr>
+            <tr>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">LEVEL</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Volume of the delay&nbsp;sound</p>
+        </td>
+            </tr>
+</table>
+</dl>
+</ul>
+<p><img src="img/box06.gif" width="18" height="18" border="0" alt="box06.gif" align="absmiddle"><b>CLOSE</b> 
+: Close the Chorus/Delay Editor window.</p>
+<p>&nbsp;</p>
+</body>
+
+</html>

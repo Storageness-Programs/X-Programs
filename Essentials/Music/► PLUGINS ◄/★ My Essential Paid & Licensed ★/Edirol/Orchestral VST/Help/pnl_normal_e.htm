@@ -1,0 +1,769 @@
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<title>Part Editor</title>
+<style><!--
+.pagestyle { line-height: 130%; color:rgb(0,0,0); font-size:10pt;}
+body { color:rgb(0,0,0);}
+th { color:rgb(0,0,0);}
+td { color:rgb(0,0,0);}
+h1 { color:rgb(0,0,204); font-size:18pt; text-decoration:underline;}
+h2 { color:rgb(100,120,0); font-size:14pt; margin-left:0pt;}
+h3 { color:rgb(190,130,0); font-size:12pt; margin-left:0pt;}
+h4 { color:rgb(10,110,130); font-size:11pt; margin-left:20pt;}
+h5 { color:rgb(0,0,0); font-size:10pt; margin-left:20pt;}
+p { color:rgb(0,0,0); font-size:10pt; margin-left:20pt;}
+p.list { color:rgb(0,0,0); font-size:10pt;}
+p.sublist { color:rgb(97,97,97); font-size:9pt;}
+p.tableitem { color:rgb(0,0,0); font-size:10pt; margin-left:0pt;}
+p.note { color:rgb(200,0,0); font-size:9pt; margin-left:30pt; margin-right:30pt; text-indent:-15pt;}
+p.info { color:rgb(0,0,150); font-size:9pt; margin-left:30pt; margin-right:30pt; text-indent:-12pt;}
+p.fig { margin-left:15pt;}
+a { font-weight:bold; }
+dt { font-weight:bold; text-decoration:underline; font-size:11pt;}
+-->
+</style>
+</head>
+
+<body bgcolor="white" text="black" link="#6666CC" vlink="#6666CC" alink="#6666CC" class="pagestyle">
+<h2><a name="Part editors">Part Editors</a></h2>
+<h4>Opening the Normal Part Editor or Rhythm Part Editor</h4>
+<p>Click the <b>[EDIT]</b> button located in each part of the Conductor Panel, and 
+the editor will open for the sound of the part you clicked.</p>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+<p><img src="img/edit_btn.gif" width="180" height="63" border="0" alt="edit_btn.gif">&nbsp;</p>
+            </td>
+        </tr>
+    </table>
+</ul>
+        <h3><a name="Normal Part Editor">Normal Part Editor</a></h3>
+<p>In this window you can edit settings for a part that uses a normal sound 
+(a sound other than a rhythm set). After editing a sound, you can assign a name 
+to it and save it as a user sound.</p>
+            <h4>About the panel</h4>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td><p><img src="img/normal.gif" width="492" height="454" border="0" alt="img18.gif"></p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<ol type="1">
+<p class="info"><img src="img/inform_white.gif" width="12" height="11" border="0" alt="inform_white.gif" align="absmiddle"> 
+The effect of each parameter will differ depending on the sound. For 
+some sounds, a certain parameter may have no effect.</p>
+</ol>
+<ul>
+<p class="note">
+<img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif" align="absmiddle"> 
+Changes you make using the Part Editor will be discarded when you select 
+another sound. If you want to keep your edited sound, you must save it as a 
+user sound before you select another sound.</p>
+</ul>
+<p><img src="img/box01.gif" width="18" height="18" border="0" align="absmiddle">This indicates the number of the part you are editing. To select a different 
+part for editing, you can either click the part number and choose from the menu 
+that appears, or click the up/down buttons located at the right of the part 
+number.</p>
+<p><img src="img/box02.gif" width="18" height="18" border="0" alt="box02.gif" align="absmiddle">This indicates the bank number and program number of the selected sound. 
+The upper line is the bank number, and the lower line is the program number 
+(1--36).</p>
+<p>The bank number consists of a letter (P/U) signifying whether it is a Preset 
+or a User sound, and the Bank Select LSB value (0-6).</p>
+<ul>
+    <ul>
+        <table cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+                    <p><img src="img/bank_num.gif" width="253" height="142" border="0" alt="img13.gif"></p>
+                </td>
+            </tr>
+        </table>
+    </ul>
+</ul>
+<p><img src="img/box03.gif" width="18" height="18" border="0" alt="box03.gif" align="absmiddle">This is the name of the sound. If the parameters of the sound have been edited 
+but the sound has not yet been saved, a check mark (<img src="img/check.gif" width="13" height="12" border="0" alt="img19.gif">) will be displayed at 
+the beginning of the sound name. <br>You can click on the sound name to open a menu 
+and select a sound. If you want to edit the sound name, double-click it, and 
+enter a name of up to twenty characters.</p>
+<p><img src="img/box04.gif" width="18" height="18" border="0" alt="box04.gif" align="absmiddle">If the selected sound is a stereo sound, this will be checked to indicate 
+&quot;STEREO&quot;( <img src="img/st_check.gif" align="absmiddle" width="54" height="14" border="0" alt="img1.gif"> 
+). You can click this indication to remove the check mark 
+( <img src="img/st_uncheck.gif" align="absmiddle" width="54" height="13" border="0" alt="img2.gif">), making the sound play in mono. This will conserve voices of polyphony, 
+and lets you clarify the stereo placement of the sound.</p>
+<ol type="1">
+<p class="info"><img src="img/inform_white.gif" width="12" height="11" border="0" alt="inform_white.gif" align="absmiddle"> 
+    &nbsp;If the selected sound is a monaural sound, nothing will be displayed 
+here. In this case, you cannot switch between stereo and mono.</p>
+</ol>
+<p><img src="img/box05.gif" width="18" height="18" border="0" alt="box05.gif" align="absmiddle">These buttons let you select the sound that is before or after the currently 
+selected sound.</p>
+<ul>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="135">
+            <p align="center" class="tableitem"><b>Button</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="540">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA">
+            <p align="left" class="tableitem"><img src="img/patch_inc.gif" width="14" height="13" border="0" alt="img14.gif"></p>
+        </td>
+        <td bgcolor="#EAEAEA">
+            <p align="left" class="tableitem">Selects the program number that follows the currently selected sound. <br>If 
+the currently selected sound was the last sound in its bank, the first program 
+number of the next bank will be selected.</p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA">
+            <p align="left" class="tableitem"><img src="img/patch_dec.gif" width="14" height="14" border="0" alt="img15.gif"></p>
+        </td>
+        <td bgcolor="#EAEAEA">
+            <p align="left" class="tableitem">Selects the program number that precedes the currently selected sound. <br>If 
+the currently selected sound was the first sound in its bank, the last program 
+number of the previous bank will be selected.</p>
+        </td>
+    </tr>
+</table>
+</ul>
+<p><img src="img/box06.gif" width="18" height="18" border="0" alt="box06.gif" align="absmiddle">Displays 
+the Tone Finder&nbsp;(TONE FINDER) window.</p>
+<p><img src="img/box07.gif" width="18" height="18" border="0" alt="box07.gif" align="absmiddle"><b>PREVIEW</b> 
+: You can audition the sound that you are editing. Since you have 
+the option of hearing a phrase that is appropriate for the sound, this provides 
+an easy way to grasp the character of a sound.</p>
+<ul>
+<p class="note"><img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif" align="absmiddle"> 
+If the Phrase Preview function is off, phrase audition will not occur. 
+(A single note will be played.) You can switch the Phrase Preview function on/off 
+in the Option page of the System Setting screen.</p>
+</ul>
+<p><img src="img/box08.gif" width="18" height="18" border="0" alt="box08.gif" align="absmiddle"><b>WRITE</b> 
+: Saves the edited sound as a user sound. When you click this, a list 
+of the available user bank sounds will appear. Click the location where you 
+want to save the sound.<br>For details on saving a user sound, refer to &quot;<a href="usr_data_e.htm#Saving and loading user data">Saving 
+and loading user data</a>.&quot;</p>
+<p><img src="img/box09.gif" width="18" height="18" border="0" alt="box09.gif" align="absmiddle"><b>CLOSE</b> 
+: Close the Normal Part Editor (NORMAL PART EDITOR) window.</p>
+<p><img src="img/box10.gif" width="18" height="18" border="0" alt="box10.gif" align="absmiddle">This is the part level meter. It indicates the output level of that part. 
+If the output level exceeds, the peak indicator at the far right 
+will light. If the peak indicator lights frequently, distortion or noise may 
+occur, so you will need to adjust the output level.</p>
+<p><img src="img/box11.gif" width="18" height="18" border="0" alt="box11.gif" align="absmiddle"><b>MIDI</b> 
+: This is a MIDI indicator. It will light when the currently shown part 
+receives a MIDI message. The receive channel of each part is the same as its 
+part number.</p>
+<p><img src="img/box12.gif" width="18" height="18" border="0" alt="box12.gif" align="absmiddle"><b>VOL(Part 
+Volume)</b> 
+: Adjusts the output volume of the part. Double-click the slider to restore 
+the default value(100).</p>
+<p><img src="img/box13.gif" width="18" height="18" border="0" alt="box13.gif" align="absmiddle">Adjusts the pan (stereo position) and 
+the effect send level of the part. </p>
+<ul>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+            <p align="left" class="tableitem">PAN</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">L63 - R63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">Sets the stereo position of the output sound. 
+                L63 is far left, 0 is center, 
+and R63 is far right.<br>Double-click the knob to restore 
+the default value(0 : center).         </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+            <p align="left" class="tableitem">REVERB</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">Sets the output level of the signal that is sent to the reverb.<br>Double-click the knob to restore 
+the default value(40). </p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">CHORUS</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">Sets the output level of the signal that is sent to the chorus.<br>Double-click the knob to restore 
+the default value(0). </p>
+        </td>
+    </tr>
+</table>
+</ul>
+<p><img src="img/box14.gif" width="18" height="18" border="0" alt="box14.gif" align="absmiddle">These are the parameters of the sound. You can freely edit these parameters 
+and save them as a user sound.</p>
+<ol type="1">
+    <dl>
+        <dt>SOLO<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">ON/OFF        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">ON, OFF</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">If this is on, the sound will be in Mono mode. Use this when playing solo 
+string and wind sounds.        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+            <p align="left" class="tableitem">RETRIGGER</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">ON, OFF</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">The setting determines whether sounds 
+                    are replayed or not when performing legato. Normally you 
+                    will leave this parameter &quot;ON.&quot; Set this to &quot;OFF&quot; when 
+                    performing wind and string phrases.</p>
+<p class="note"><img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif" align="absmiddle"> 
+If the Solo Switch is &quot;OFF,&quot; this setting is ignored.</p>
+        </td>
+    </tr>
+</table>
+    <dt><br>VELO SW SENS(Velocity Switch Sens)
+    </dl>
+    <dl>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="100">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="100">
+                <p class="tableitem">VELO SW SENS        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the sensitivity of the velocity switch that switches between tones 
+according to velocity. If you increase the sensitivity, even softly played (low 
+velocity) notes will be more likely to switch to the louder tone. By setting 
+this value close to the maximum or minimum value, you can cause only the louder 
+or softer tone to be sounded.        </td>
+    </tr>
+</table>
+    <dt><br>ENVELOPE<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">ATTACK        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the attack time of the envelope. Higher settings will produce a more 
+gradual attack, and lower settings will produce a sharper attack.        </td>
+    </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">DECAY</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the decay time of the envelope. Higher settings will produce a more 
+gradual decay, and lower settings will produce a shorter decay time.        </td>
+        </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">RELEASE</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the release time of the envelope. Higher settings will produce a longer 
+release, and lower settings will produce a shorter release.        </td>
+        </tr>
+</table>
+    <dt><br>VELOCITY SENS<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">ATTACK        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">Adjusts how velocity will affect the attack time of the envelope. Increasing 
+this value will cause velocity to have more control over the attack. Positive 
+(+) settings will cause stronger velocities to sharpen the attack. Negative 
+(-) settings will cause stronger velocities to soften the attack.</p>
+        </td>
+    </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">DYNAMICS</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Determines the extent to which changes in velocity (playing dynamics) will 
+affect the volume or tone. As the value is decreased, changes in velocity will 
+have less effect on the volume or tone. When the value of this parameter is 
+increased, changes in velocity will produce greater effect on the volume or 
+tone.         </td>
+        </tr>
+</table>
+    <dt><br>CHARACTER<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">CHARACTER        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-36&nbsp;- +36</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Modifies the character of the harmonics. By operating this knob you can make the 
+sound more reedy or muffled.  
+        </td>
+    </tr>
+</table>
+    <dt><br>FILTER<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">CUTOFF        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the frequency at which the 
+                    filter begins to have an effect on the waveform's frequency 
+                    components. parameter, Lower cutofffrequency settings reduce 
+                    a Tone's upper harmonics for a more rounded, warmer sound.</p>
+        </td>
+    </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">RESONANCE</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Increases the level of the cutoff frequency 
+                    itself to add a popular classic synth character to the sound. 
+                    The sound will become  sharper 
+and more unique as the value is raised.</p>
+        </td>
+        </tr>
+</table>
+    </dl>
+    <dl>
+    <dt><br>EQ
+    
+    </dl>
+    <dl>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="100">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="100">
+                <p class="tableitem">ON/OFF        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">ON, OFF</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Switches the EQ on/off.        </td>
+    </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="100">
+                <p class="tableitem">LOW (Low Gain)        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-12 - +12</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the gain of the lower range of frequencies, below 400 Hz        </td>
+        </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="100">
+                <p class="tableitem">MID (Mid Gain)</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-12 - +12</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the gain of the midrange, in the 1 kHz region        </td>
+        </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="100">
+                <p class="tableitem">HIGH (High Gain)</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-12 - +12</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the gain of the upper range of frequencies, above 4 kHz        </td>
+        </tr>
+</table>
+    <dt><br>TUNING
+    </dl>
+    <dl>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">FINE        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-50 - +50</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Specifies the amount of pitch shift in one-cent units (one cent = 1/100th of a 
+semitone).        </td>
+    </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">COARSE</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-48 - +48</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Specifies the amount of pitch shift in semitone units.        </td>
+        </tr>
+</table>
+    <dt><br>VIBRATO
+    </dl>
+    <dl>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">RATE        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the modulation speed of the vibrato.        </td>
+    </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">DEPTH</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the depth of the vibrato.        </td>
+        </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">DELAY</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the time that is to pass after a note begins sounding (or after a key's 
+been pressed) before vibrato starts being applied.        </td>
+        </tr>
+</table>
+</dl>
+</ol>
+<ol type="1">
+<p class="note">
+<img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif" align="absmiddle"> 
+These parameters have no effect on sounds that support Advanced Vibrato via 
+    modulation.</p>
+    <dt class="note">RAND MOD (Random Modulation)
+        <dl>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">RATE        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the rate of the random modulation that is applied to the sound.        </td>
+    </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">DEPTH</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the depth of the random modulation that is applied to the sound.        </td>
+        </tr>
+</table>
+    <dt><br>PORTAMENTO
+    </dl>
+    <dl>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">ON/OFF        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">ON, FF</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Switches the portamento function on/off.        </td>
+    </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">TIME</p>
+        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-63 - +63</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the amount of time it takes for the transition to the next pitch to take 
+place.<p class="note"><img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif" align="absmiddle"> 
+If the Portamento&nbsp;Switch is &quot;OFF,&quot; this setting is ignored.</p>
+        </td>
+        </tr>
+</table>
+    <dt><br>PAN KEYFOLLOW
+    <table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="110">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="110">
+                <p class="tableitem">PAN KEYFOLLOW        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">-10 - +10</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Use this parameter when you want each 
+                    note's keyboard position to affect its stereo location. 
+                    Higher settings cause a greater shifting of the Tone's 
+                    original pan position as you move further away from Middle 
+                    C (C4), where the original stereo TVA Pan value remains 
+                    in effect. Positive (+) settings cause notes above Middle 
+                    C to be panned rightward. Negative (-) settings cause them 
+                    to be panned leftward.</p>
+        </td>
+    </tr>
+</table>
+    <dt><br>MOD DEPTH (Modulation Depth)
+    <table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">MOD DEPTH        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">0 - 127</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Adjusts the depth of modulation that will occur when modulation messages are 
+received. </p>
+        </td>
+    </tr>
+</table>
+</dl>
+<p class="note">
+<img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif" align="absmiddle"> 
+These parameters have no effect on sounds that support Advanced Vibrato via 
+    modulation.</p>
+    <dt>BEND RANGE (Pitch Bend Range)
+    
+    <dl>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Parameter</b></p>
+        </td>
+        <td bgcolor="#D3D36E" width="80" align="center">
+                <p class="tableitem" align="center"><b>Value</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">BEND RANGE        </td>
+        <td bgcolor="#EAEAEA" width="80" align="center">
+                <p class="tableitem">0 - 24</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                    <p class="tableitem">Specifies the amount (in semitone units) of pitch change that is possible when 
+the pitch bend lever is operated. This determines the amount of change that can 
+take place when the lever is moved.         </td>
+    </tr>
+</table>
+    </dl>
+    <dt><br>SCALE TUNE
+    <dd>Displays <a href="pnl_scale_e.htm#Scale Tune (SCALE TUNE)">the Scale Tune window (SCALE TUNE)</a>, where you can specify the temperament.
+        </ol>
+<p><img src="img/box15.gif" width="18" height="18" border="0" alt="box15.gif" align="absmiddle">This keyboard indicates the recommended range for the selected sound. The 
+range that can normally be played by the instrument for the selected sound is 
+shown in the ordinary colors (black and white), while the other keys are shaded 
+in gray.<br> While the part is being played, a red dot indicates each currently 
+played note, letting you check whether your data stays within the normal range 
+of that instrument. <br>You can click a note on this keyboard to hear the corresponding 
+pitch.</p>
+<ol type="1">
+<p class="info"><img src="img/inform_white.gif" width="12" height="11" border="0" alt="inform_white.gif" align="absmiddle"> 
+The range indicated here is the conventional range of the instrument, 
+but in actual practice, the instrument may be played outside this range. No 
+recommended range is indicated for sounds that combine multiple instruments.</p>
+</ol>
+<p>&nbsp;</p>
+</body>
+
+</html>

@@ -1,0 +1,307 @@
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<title>Control Change Assign</title>
+<style><!--
+.pagestyle { line-height: 130%; color:rgb(0,0,0); font-size:10pt;}
+body { color:rgb(0,0,0);}
+th { color:rgb(0,0,0);}
+td { color:rgb(0,0,0);}
+h1 { color:rgb(0,0,204); font-size:18pt; text-decoration:underline;}
+h2 { color:rgb(100,120,0); font-size:14pt; margin-left:0pt;}
+h3 { color:rgb(190,130,0); font-size:12pt; margin-left:0pt;}
+h4 { color:rgb(10,110,130); font-size:11pt; margin-left:20pt;}
+h5 { color:rgb(0,0,0); font-size:10pt; margin-left:20pt;}
+p { color:rgb(0,0,0); font-size:10pt; margin-left:20pt;}
+p.list { color:rgb(0,0,0); font-size:10pt;}
+p.sublist { color:rgb(97,97,97); font-size:9pt;}
+p.tableitem { color:rgb(0,0,0); font-size:10pt; margin-left:0pt;}
+p.note { color:rgb(200,0,0); font-size:9pt; margin-left:30pt; margin-right:30pt; text-indent:-15pt;}
+p.info { color:rgb(0,0,150); font-size:9pt; margin-left:30pt; margin-right:30pt; text-indent:-12pt;}
+p.fig { margin-left:15pt;}
+a { font-weight:bold; }
+dt { font-weight:bold; text-decoration:underline; font-size:11pt;}
+-->
+</style>
+</head>
+
+<body bgcolor="white" text="black" link="#6666CC" vlink="#6666CC" alink="#6666CC" class="pagestyle">
+<h2><a name="Control change assignments">Control change assignments</a></h2>
+<p>Orchestral allows you to freely assign any parameter to control change numbers 
+1--31 and 33--119 (CC#1--CC#31, CC#33--CC#119).</p>
+<p>To assign a control change message to a parameter, right-click the controller 
+(e.g., knob or slider) for the parameter for which an assignment is to be made 
+(on the Macintosh, hold down the [Option] key and click), to open the Control 
+Change Assign dialog box.</p>
+<ul>
+<p class="info"><img src="img/inform_white.gif" width="12" height="11" border="0" alt="inform_white.gif" align="absmiddle"> 
+&nbsp;If a dialog box does not appear, it is not possible to assign a control 
+change to that parameter.</p>
+</ul>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+<p><img src="img/ccmap_dlg.gif" width="357" height="204" border="0" alt="ccmap_dlg.gif">&nbsp;</p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<ol type="1">
+<p class="info"><img src="img/inform_white.gif" width="12" height="11" border="0" alt="inform_white.gif" align="absmiddle"> 
+The screen shown here is from the Windows version.</p>
+</ol>
+<p><img src="img/box01.gif" width="18" height="18" border="0" align="absmiddle">The name of the parameter to which you are assigning a control change message.</p>
+<p><img src="img/box02.gif" width="18" height="18" border="0" alt="box02.gif" align="absmiddle">If 
+you check this, the same control change can be assigned to the same parameter 
+for every part number, using the MIDI channel corresponding to the part number, 
+regardless of any MIDI channel settings that have been made. <br>For example, 
+if you are assigning PART CHARACTER to control change number 3, and this box 
+is checked, control change number 3 will control PART CHARACTER for all parts.</p>
+<ol type="1">
+<p class="info"><img src="img/inform_white.gif" width="12" height="11" border="0" alt="inform_white.gif" align="absmiddle"> 
+You can use this option only for a Part parameter (including Scale Tune). This 
+    cannot be used for <a href="pnl_rhythm_e.htm#the sound parameters for each rhythm instrument">the 
+    sound parameters of individual rhythm instruments</a> that you adjust in 
+    the Rhythm Part Editor.</p>
+</ol>
+<p><img src="img/box03.gif" width="18" height="18" border="0" alt="box03.gif" align="absmiddle"><b>Controller</b> 
+:  The control change number that will be assigned to this parameter. 
+You can directly enter a number in the range of CC#1--CC#31 or CC#33--CC#119, 
+or use the up/down spin buttons.</p>
+<p><img src="img/box04.gif" width="18" height="18" border="0" alt="box04.gif" align="absmiddle"><b>MIDI 
+Channel</b> : The MIDI channel of the control change that will be assigned 
+to this parameter. Click the pulldown menu and choose from the list.</p>
+<p><img src="img/box05.gif" width="18" height="18" border="0" alt="box05.gif" align="absmiddle">If the currently specified control change number/MIDI channel has already 
+been assigned to a parameter, the name of the parameter will be displayed here. 
+<br>If you assign a new parameter, the previously specified parameter assignment 
+will be cancelled.</p>
+<ul>
+<p class="note">
+<img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif" align="absmiddle"> If 
+    you have already recorded automation for a previously assigned parameter, 
+    the recorded automation data (control change messages) will cause the newly 
+    assigned parameter to change.<br>If you change the control change assignment, 
+    you will also need to delete any unwanted automation data (control change 
+    messages) from your host application.</p>
+</ul>
+<p>
+If a parameter has previously been assigned, any automation formerly 
+recorded for that parameter will now automate the newly assigned parameter.</p>
+<p><img src="img/box06.gif" width="18" height="18" border="0" alt="box06.gif" align="absmiddle"><b>OK</b> 
+: Finalizes the assignment and closes the dialog box.</p>
+<p><img src="img/box07.gif" width="18" height="18" border="0" alt="box07.gif" align="absmiddle"><b>Cancel</b> 
+:  Cancels the assignment and closes the dialog box.</p>
+<p><img src="img/box08.gif" width="18" height="18" border="0" alt="box08.gif" align="absmiddle"><b>Clear</b> 
+: Clears the control change number and MIDI channel settings. By clicking 
+<b>OK</b> in this state, you can cancel the control change assignment for the parameter.</p>
+<p><b><img src="img/box09.gif" align="absmiddle" width="18" height="18" border="0">Learn</b> 
+:  If this is checked, the Learning function will be enabled. For details 
+on using the Learning function to make an assignment, refer to the next section.</p>
+        <h3><a name="Using an external controller to make assignment">Using an external controller to make assignments (Learning)</a></h3>
+<p>Here's how control changes sent from an external MIDI controller can be assigned 
+to a parameter.</p>
+<ul>
+<p class="info"><img src="img/inform_white.gif" width="12" height="11" border="0" alt="inform_white.gif" align="absmiddle"> 
+If you want to use the Learning function, you must first make settings 
+in your host application so that MIDI messages from an external MIDI controller 
+will be input to Orchestral.</p>
+</ul>
+<ol type="1">
+    <li>Right-click the controller (e.g., knob or slider) of the parameter for 
+which you want to assign a control change message. (On the Macintosh, hold down 
+the [Option] key and click.) The Control Change Assign dialog box will appear.</li>
+    <li>Check the &quot;<b>Learn</b>&quot; box.</li>
+    <li>Operate your external MIDI controller to transmit the control change message 
+you want to assign.</li>
+    <li>The control number (<b>Controller</b>) and MIDI channel (<b>MIDI Channel</b>) fields 
+will be updated to reflect the control change message that you transmitted. 
+Verify that they are correct, and click <b>OK</b>.</li>
+</ol>
+<p>The control change message transmitted from the external MIDI controller 
+has been assigned to the parameter.</p>
+        <h3><a name="Canceling control change assignments">Canceling control change assignments</a></h3>
+<p>Here's how to cancel the control change assignment for a parameter.</p>
+<ol type="1">
+    <li>Right-click the controller (e.g., knob or slider) of the parameter for 
+which you want to cancel the control change assignment. (On the Macintosh, hold 
+down the [Option] key and click.) The Control Change Assign dialog box will appear.</li>
+    <li>Click <b>Clear</b>.</li>
+    <li>Verify that the control number (<b>Controller</b>) and MIDI channel (<b>MIDI Channel</b>) 
+fields have been cleared, and click <b>OK</b>.</li>
+</ol>
+<p>The control change assignment for this parameter has been cleared.</p>
+<ul>
+<p class="note">
+<img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif" align="absmiddle"> 
+Canceling a control change assignment will not delete any automation data (control 
+    change messages) that may have been recorded in your host application.<br>If 
+    you cancel a control change assignment and then reassign that control change 
+    to a different parameter, any previously recorded automation data will affect 
+    the newly assigned parameter.<br>If you cancel a control change assignment, 
+    you will also need to delete any unwanted automation data (control change 
+    messages) from your host application.</p>
+</ul>
+<h3><a name="Checking the control change assignments">Checking the control change 
+assignments</a></h3>
+<p>When you save the current control change assignments as a file, another file 
+will also be saved, allowing you to check these assignments.<br>Since this file 
+is in text format, you can use any text editor to view it.<br>For details on 
+how to save control change assignments in a file, refer to the section that 
+follows, &quot;<a href="#Saving and loading control change assignments">Saving 
+and loading control change assignments (Control Change Map)</a>.&quot;</p>
+<h4>File contents</h4>
+<p>The saved file has the following contents.</p>
+<ul>
+    <table border="1" cellspacing="0" width="343" bordercolordark="white" bordercolorlight="#4E4636">
+        <tr>
+            <td width="337" align="center" bgcolor="#D3D36E">
+                <p class="tableitem"><b>Example of file contents</b></p>
+            </td>
+        </tr>
+        <tr>
+            <td width="337" align="center" bgcolor="#EAEAEA">
+                <div align="left">
+                    <pre>    # Control Change Map<br>    #<br><br>    Ch    CC#    Parameter<br><br>    1       1    Modulation<br>    1       2    ----------<br>    1       3    Master Volume<br>    1       4    ----------<br>    1       5    Portamento Time [PART 01]<br>    1       6    Master Volume<br>    1       7    Volume [PART 01]<br>    :       :        :<br>&nbsp;</pre>
+                </div>
+            </td>
+        </tr>
+    </table>
+</ul>
+<p>The file lists all parameters to which a control change is assigned, with 
+each line showing the MIDI channel, control change number, and parameter name.</p>
+<h3><a name="Saving and loading control change assignments">Saving and loading control change assignments (Control Change Map)</a></h3>
+<p>The control change assignments you make can be saved in a file, and can be 
+loaded and used whenever you wish. Several different predefined assignments 
+are also provided, and you can load and use these settings if desired.</p>
+<h4>Saving a control change map</h4>
+<ol type="1">
+    <li>In the Master Panel, click the <b>SYSTEM</b> button to open the <b>System Setting 
+(SYSTEM SETTINGS)</b> window.<br><br></li>
+</ol>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <p><img src="img/sys_btn.gif" width="187" height="121" border="0" alt="sys_btn.gif">&nbsp;</p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<ol type="1" start="2">
+    <li>Open the <b>OPTIONS</b> page of the System Setting window.</li>
+    <li>Click the <b>Control Change Map SAVE</b> button.<br><br></li>
+</ol>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <p><img src="img/ccmap_save.gif" width="325" height="178" border="0" alt="ccmap_save.gif"></p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<ol type="1" start="3">
+    <li value="4">When the Save dialog box appears, enter a name for the file and click 
+<b>Save.</b></li>
+</ol>
+<p>Your control change map have now been saved in a file.<br>At the same time, 
+a file that lets you view the assignments will also be saved, with the name 
+you specified and a filename extension of .txt.&nbsp;</p>
+<h4 class="note">Loading a control change map</h4>
+<ul>
+<p class="note">
+<img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif" align="absmiddle"> 
+When you load a control change map, the current assignments will all 
+be overwritten. If you want to keep the current assignments, you must first 
+save the current assignments in a file.</p>
+</ul>
+<ol type="1">
+    <li>In the Master Panel, click the <b>SYSTEM</b> button to open the <b>System Setting 
+(SYSTEM SETTINGS)</b> window.<br><br></li>
+</ol>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <p><img src="img/sys_btn.gif" width="187" height="121" border="0" alt="sys_btn.gif">&nbsp;</p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<ol type="1" start="2">
+    <li>Open the <b>OPTIONS</b> page of the System Setting window.</li>
+    <li>Click the <b>Control Change Map LOAD</b>&nbsp;button.<br><br></li>
+</ol>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <p><img src="img/ccmap_load.gif" width="325" height="178" border="0" alt="ccmap_load.gif"></p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<ol type="1" start="4">
+    <li>From the menu that appears, select the control change map that you 
+want to load.<br>&nbsp;</li>
+</ol>
+<ul>
+<table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="#4E4636">
+    <tr>
+        <td bgcolor="#D3D36E" width="90">
+            <p align="center" class="tableitem"><b>Type</b></p>
+        </td>
+        <td bgcolor="#D3D36E">
+                <p class="tableitem" align="center"><b>Description</b></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+            <p align="left" class="tableitem"><a href="impl_or_e.htm#Minimum Map">Minimum Map</a></p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">Only the controllers available in the default state can be used.</p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#EAEAEA" width="90">
+            <p align="left" class="tableitem"><a href="impl_or_e.htm#Normal Map">Normal Map</a></p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">The parameters which will be used frequently 
+                are assigned in addition to the controllers 
+that are available in the default state.</p>
+        </td>
+    </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem"><a href="impl_or_e.htm#Logic">Logic</a></p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">These settings are ideal if you are using Emagic's &quot;Logic&quot; 
+series as your host application.</p>
+        </td>
+        </tr>
+        <tr>
+        <td bgcolor="#EAEAEA" width="90">
+                <p class="tableitem">File</p>
+        </td>
+        <td bgcolor="#EAEAEA">
+                <p class="tableitem">Loading the control change map from a file</p>
+        </td>
+        </tr>
+</table>
+</ul>
+<p>For the actual parameter assignments, refer to &quot;MIDI implementation&quot; -&gt; &quot;<a href="impl_or_e.htm#Assignable controllers (controller numbers 1--3">Assignable controllers</a>.&quot;</p>
+<ol type="1">
+    <li value="5">If you select <b>File</b>, a dialog box will appear, allowing you to select a file. 
+Select the desired control change map file, and click <b>Open</b>.</li>
+    <li>A message will ask you to confirm the operation, so click <b>OK</b>.</li>
+</ol>
+<p>The control change map that were saved in that file will be loaded into Orchestral.</p>
+<p>&nbsp;</p>
+</body>
+
+</html>

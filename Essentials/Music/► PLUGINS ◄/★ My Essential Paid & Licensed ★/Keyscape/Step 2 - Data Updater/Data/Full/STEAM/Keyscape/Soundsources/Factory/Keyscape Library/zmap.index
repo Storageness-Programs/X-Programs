@@ -1,0 +1,3243 @@
+<?xml version="1.0"  encoding="ISO-8859-1"  standalone="no"?>
+<!DOCTYPE s1 SYSTEM "sbk:/style/dtd/document.dtd">
+<INDEX  VERSION="2" >
+<ENTRY  NAME="Chimeatron Chimes Release"  PATH="Keyboards/Chimeatron" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="80253584" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Chimeatron" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Chimeatron Chimes RR"  PATH="Keyboards/Chimeatron" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Chimeatron Chimes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="354572576" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Chimeatron" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Chimeatron Vibraharp Fast Release"  PATH="Keyboards/Chimeatron" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="87131200" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Chimeatron" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Chimeatron Vibraharp Fast RR"  PATH="Keyboards/Chimeatron" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Chimeatron Vibraharp Fast Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="362819872" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Chimeatron" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Chimeatron Vibraharp Slow Release"  PATH="Keyboards/Chimeatron" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="87131200" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Chimeatron" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Chimeatron Vibraharp Slow RR"  PATH="Keyboards/Chimeatron" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Chimeatron Vibraharp Slow Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="656321920" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Chimeatron" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Toy Piano Release"  PATH="Keyboards/Classic Toy Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="30699896" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Classic Toy Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Toy Piano"  PATH="Keyboards/Classic Toy Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Toy Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="496043328" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Classic Toy Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Clavichord a ^ RR"  PATH="Keyboards/Clavichord" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Clavichord Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5755564032" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Clavichord" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Clavichord b ^ RR"  PATH="Keyboards/Clavichord" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Clavichord Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="3885552128" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Clavichord" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Clavichord Release"  PATH="Keyboards/Clavichord" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="523452128" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Clavichord" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Dolceola ^ RR"  PATH="Keyboards/Dolceola" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Dolceola Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Dolceola" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Dolceola Release"  PATH="Keyboards/Dolceola" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="144958816" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Dolceola" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Dulcitone ^ RR"  PATH="Keyboards/Dulcitone/Dulcitone" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Dulcitone Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Dulcitone" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Dulcitone" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Dulcitone Release"  PATH="Keyboards/Dulcitone/Dulcitone Release" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="342453312" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Dulcitone" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Dulcitone Release" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Harder Lite"  PATH="Keyboards/Duo Maps Stage/LA Custom C7 Grand Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release Lite" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="39853064192" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="LA Custom C7 Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Hardest Lite"  PATH="Keyboards/Duo Maps Stage/LA Custom C7 Grand Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release Lite" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="35974606848" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="LA Custom C7 Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Lite"  PATH="Keyboards/Duo Maps Stage/LA Custom C7 Grand Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release Lite" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="33510021120" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="LA Custom C7 Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Softest Lite"  PATH="Keyboards/Duo Maps Stage/LA Custom C7 Grand Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release Lite" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="28555223040" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="LA Custom C7 Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Uber Hard"  PATH="Keyboards/Duo Maps Stage/LA Custom C7 Grand Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="14995645440" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="LA Custom C7 Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 Release Lite"  PATH="Keyboards/Duo Maps Stage/LA Custom C7 Grand Alt" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="LA Custom C7 Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MK-80 Contemporary Rhodes ^ Lite"  PATH="Keyboards/Duo Maps Stage/MK-80 Contemporary Rhodes" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="MK-80 Contemporary Rhodes" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MKS-20 E Piano 1 ^ Alt1"  PATH="Keyboards/Duo Maps Stage/MKS-20 E Piano 1 Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1124581504" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="MKS-20 E Piano 1 Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MKS-20 Electric Grand ^ Lite"  PATH="Keyboards/Duo Maps Stage/MKS-20 Electric Grand Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Yamaha CP-70 Release" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled A0 to C8." >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="MKS-20 Electric Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Release Lite"  PATH="Keyboards/Duo Maps Stage/Rhodes - Classic Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="218169504" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Rhodes - Classic Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Suitcase ^ Alt1"  PATH="Keyboards/Duo Maps Stage/Rhodes - Classic Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="6110245376" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Rhodes - Classic Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes ^ Alt1 Lite"  PATH="Keyboards/Duo Maps Stage/Rhodes - LA Custom Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release Lite" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Rhodes - LA Custom Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes ^ Alt1"  PATH="Keyboards/Duo Maps Stage/Rhodes - LA Custom Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5588297216" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Rhodes - LA Custom Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes ^ Floppy"  PATH="Keyboards/Duo Maps Stage/Rhodes - LA Custom Alt" >
+<ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5594235904" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Rhodes - LA Custom Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes Release Lite"  PATH="Keyboards/Duo Maps Stage/Rhodes - LA Custom Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Stage" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Rhodes - LA Custom Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Chimeatron Vibraharp Slow Release Lite"  PATH="Keyboards/Duo Maps Studio/Chimeatron Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="87131200" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Chimeatron Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Chimeatron Vibraharp Slow RR Lite"  PATH="Keyboards/Duo Maps Studio/Chimeatron Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Chimeatron Vibraharp Slow Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="656321920" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Chimeatron Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Clavichord b ^ RR Lite"  PATH="Keyboards/Duo Maps Studio/Clavichord Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="3885552128" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Clavichord Release Lite" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Clavichord Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Clavichord Release Lite"  PATH="Keyboards/Duo Maps Studio/Clavichord Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="523452064" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Clavichord Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Dolceola ^ RR Lite"  PATH="Keyboards/Duo Maps Studio/Dolceola Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Dolceola Release Lite" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Dolceola Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Dolceola Release Lite"  PATH="Keyboards/Duo Maps Studio/Dolceola Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="144958832" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Dolceola Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Dulcitone ^ RR Alt1 Lite"  PATH="Keyboards/Duo Maps Studio/Dulcitone Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="3517954304" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Dulcitone Release Lite" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Dulcitone Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Dulcitone ^ RR Alt1"  PATH="Keyboards/Duo Maps Studio/Dulcitone Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Dulcitone Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Dulcitone Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Dulcitone ^ RR Lite"  PATH="Keyboards/Duo Maps Studio/Dulcitone Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="3517954304" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Dulcitone Release Lite" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Dulcitone Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Dulcitone Release Lite"  PATH="Keyboards/Duo Maps Studio/Dulcitone Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="342453344" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Dulcitone Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Electric Harpsichord Mute Release Lite"  PATH="Keyboards/Duo Maps Studio/Electric Harpsichord Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pickup 1" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pickup 2" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="275752608" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Electric Harpsichord Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Glock Toy Piano ^ RR Alt1"  PATH="Keyboards/Duo Maps Studio/Glock Toy Piano Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Glock Toy Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2297069824" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Glock Toy Piano Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Glock Toy Piano ^ RR Alt2"  PATH="Keyboards/Duo Maps Studio/Glock Toy Piano Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Glock Toy Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Glock Toy Piano Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Glock Toy Piano ^ RR Alt3"  PATH="Keyboards/Duo Maps Studio/Glock Toy Piano Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Glock Toy Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2297069824" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Glock Toy Piano Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Glock Toy Piano Release Lite"  PATH="Keyboards/Duo Maps Studio/Glock Toy Piano Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="291912576" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Glock Toy Piano Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Saucer Bell Toy Piano ^ RR Alt1"  PATH="Keyboards/Duo Maps Studio/Saucer Bell Toy Piano Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Saucer Bell Toy Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="3301104384" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Saucer Bell Toy Piano Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Simone Celeste ^ RR Alt1"  PATH="Keyboards/Duo Maps Studio/Simone Celeste Alt" >
+<ATTR  NAME="_NoteRangeLimitHigh"  VALUE="108" >
+</ATTR>
+ <ATTR  NAME="_NoteRangeLimitLow"  VALUE="60" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Vintage Pickup" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Close Mics" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Simone Celeste Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Simone Celeste Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Upright Piano Release Mono Lite"  PATH="Keyboards/Duo Maps Studio/Wing Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="679365312" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Wing Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Upright Piano Release Stereo Lite"  PATH="Keyboards/Duo Maps Studio/Wing Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1358550528" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Wing Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Upright Tremolo ^ Stereo Alt1"  PATH="Keyboards/Duo Maps Studio/Wing Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wing Upright Pedal Noise RR Stereo" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5436184576" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wing Upright Piano Release Stereo Lite" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Wing Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Yamaha CP-70 Electric Grand ^ Alt1"  PATH="Keyboards/Duo Maps Studio/Yamaha CP-70 Electric Grand Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Yamaha CP-70 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Yamaha CP-70 Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2975878144" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Yamaha CP-70 Electric Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Yamaha CP-70 Release Lite"  PATH="Keyboards/Duo Maps Studio/Yamaha CP-70 Electric Grand Alt" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Duo Maps Studio" >
+</ATTR>
+ <ATTR  NAME="SubSubCategory"  VALUE="Yamaha CP-70 Electric Grand Alt" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Electric Harpsichord Clean ^ RR"  PATH="Keyboards/Electric Harpsichord" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pickup 1" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pickup 2" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Electric Harpsichord Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="862679040" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Electric Harpsichord" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Electric Harpsichord Mute ^ RR"  PATH="Keyboards/Electric Harpsichord" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pickup 1" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pickup 2" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Electric Harpsichord Mute Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="834434688" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Electric Harpsichord" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Electric Harpsichord Mute Release"  PATH="Keyboards/Electric Harpsichord" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pickup 1" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pickup 2" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="275752608" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Electric Harpsichord" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Electric Harpsichord Release"  PATH="Keyboards/Electric Harpsichord" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pickup 1" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pickup 2" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="151086240" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Electric Harpsichord" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Glock Toy Piano ^ RR"  PATH="Keyboards/Glock Toy Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Glock Toy Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2297069824" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Glock Toy Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Glock Toy Piano Release"  PATH="Keyboards/Glock Toy Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="291912576" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Glock Toy Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Grand Toy Piano ^ RR"  PATH="Keyboards/Grand Toy Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Glock Toy Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="3307982080" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Grand Toy Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Grand Toy Piano Release"  PATH="Keyboards/Grand Toy Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="596540352" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Grand Toy Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Harmochord ^ RR"  PATH="Keyboards/Harmochord" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Harmochord Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="852934592" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Harmochord" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Harmochord Release"  PATH="Keyboards/Harmochord" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="56404480" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Harmochord" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Clavinet C ^"  PATH="Keyboards/Hohner Clavinet C" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pickup 1" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pickup 2" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Clavinet C Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="4264363008" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Clavinet C" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Clavinet C Release"  PATH="Keyboards/Hohner Clavinet C" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pickup 1" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pickup 2" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1320440448" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Clavinet C" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="E6 Duo Clavinet ^"  PATH="Keyboards/Hohner Clavinet C" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pickup 1" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pickup 2" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Clavinet C Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="4264363008" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Clavinet C" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Pianet M a ^"  PATH="Keyboards/Hohner Pianet N" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Pianet N Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Pianet N" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Pianet M b ^"  PATH="Keyboards/Hohner Pianet N" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Pianet N Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="348972320" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Pianet N" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Pianet N a ^"  PATH="Keyboards/Hohner Pianet N" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Pianet N Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Pianet N" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Pianet N b ^"  PATH="Keyboards/Hohner Pianet N" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Pianet N Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="348972320" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Pianet N" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Pianet N Release"  PATH="Keyboards/Hohner Pianet N" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="63563920" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Pianet N" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="E6 Duo Pianet ^"  PATH="Keyboards/Hohner Pianet T" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Pianet T Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Pianet T" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Pianet M Mechanical Noise RR"  PATH="Keyboards/Hohner Pianet T" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Pianet T Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Pianet T" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Pianet N Mechanical Noise RR"  PATH="Keyboards/Hohner Pianet T" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Pianet T Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Pianet T" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Pianet T ^"  PATH="Keyboards/Hohner Pianet T" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Pianet T Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Pianet T" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Pianet T Mechanical Noise RR"  PATH="Keyboards/Hohner Pianet T" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Pianet T Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Pianet T" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Pianet T Mechanical Release"  PATH="Keyboards/Hohner Pianet T" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="63015816" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Pianet T" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Pianet T Release"  PATH="Keyboards/Hohner Pianet T" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="63563920" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Hohner Pianet T" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="JD-800 Crystal Rhodes ^"  PATH="Keyboards/JD-800 Crystal Rhodes" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1652501504" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled A0 to C8." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="JD-800 Crystal Rhodes" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Harder"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="45190148096" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Hardest"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="41507328000" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Softer"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="45190148096" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^ Softest"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="36763054080" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 ^"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Ignacio Longo" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Mauricio Gasca" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="LA Custom C7 Grand Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Acoustic Pianos" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom C7 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom C7 Release" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="This custom-modified, 7&#39; 6&#34; Yamaha C7 Grand Piano, belongs to renowned Los Angeles piano tech, Jim Wilson. It is fitted with Renner &#34;Blue Point&#34; hammers with Weickert felt - a special piano hammer felt used during the pre-Cold War &#34;golden age of Steinway.&#34; This special long-fiber virgin wool felt (which became available again after the reunification of Germany) contributes to the hammers producing a wider tonal spectrum. The tone, dynamics, and sustain of this particular instrument are astounding.&#10;&#10;Weeks went into manicuring the voicing (fine adjustment of the hammer felt density using special needles and a variety of techniques) to achieve the greatest possible dynamic range and color palette. Special care was taken to create warmth at softer velocities and more bite at higher velocities. Jim was involved with our sound designers throughout the recording and gave his blessing to the finished product." >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="45190148096" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 Pedal Noise RR"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="PedalNoise" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="30394666" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom C7 Release"  PATH="Keyboards/LA Custom C7 Grand" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2124009088" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="LA Custom C7 Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MK-80 Celeste ^"  PATH="Keyboards/MK-80 Celeste" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="510658560" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C8." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MK-80 Celeste" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MK-80 Contemporary Rhodes ^"  PATH="Keyboards/MK-80 Contemporary Rhodes" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MK-80 Contemporary Rhodes" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MKS-20 E Piano 1 ^"  PATH="Keyboards/MKS-20 E Piano 1" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MKS-20 E Piano 1" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MKS-20 E Piano 2 ^"  PATH="Keyboards/MKS-20 E Piano 2" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1322707200" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled A0 to C8." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MKS-20 E Piano 2" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MKS-20 Electric Grand ^"  PATH="Keyboards/MKS-20 Electric Grand" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Yamaha CP-70 Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="0" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled A0 to C8." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MKS-20 Electric Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Yamaha CP-70 Release"  PATH="Keyboards/MKS-20 Electric Grand" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="354911168" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MKS-20 Electric Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MKS-20 Piano 1 ^"  PATH="Keyboards/MKS-20 Piano 1" >
+<ATTR  NAME="Type"  VALUE="Vintage Digital Keys" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="MKS-20 Digital Piano" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="637150656" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="In the 1980s, players were looking for a digital (and portable) version of a grand piano, but the technology at that time only allowed for extremely short samples with unrealistic-sounding looped sustains. The industry was turned on its ear in 1987 when Roland unveiled the MKS-20 with its highly-advanced modeled pianos. Piano 1 is a model of a Steinway D.&#10;&#10;Eric Persing worked on developing the famous MKS-20 sounds in Japan with Roland in the &#39;80s. Roland wisely combined the digital side of the instrument with high-quality analog components and effects, resulting in a far warmer sound than most keyboards of that time. We are seeing a resurgence in the popularity of the MKS-20, especially with Gospel musicians!" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled A0 to C8." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MKS-20 Piano 1" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MKS-20 Piano 2 ^"  PATH="Keyboards/MKS-20 Piano 2" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Complexity"  VALUE="Simple" >
+</ATTR>
+ <ATTR  NAME="Model"  VALUE="MKS-20 Digital Piano" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vintage Digital Keys" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="789837504" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="In the 1980s, players were looking for a digital (and portable) version of a grand piano, but the technology at that time only allowed for extremely short samples with unrealistic-sounding looped sustains. The industry was turned on its ear in 1987 when Roland unveiled the MKS-20 with its highly-advanced modeled pianos. Piano 2 is a model of a Bosebdorfer grand.&#10;&#10;Eric Persing worked on developing the famous MKS-20 sounds in Japan with Roland in the &#39;80s. Roland wisely combined the digital side of the instrument with high-quality analog components and effects, resulting in a far warmer sound than most keyboards of that time. We are seeing a resurgence in the popularity of the MKS-20, especially with Gospel musicians!" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled A0 to C8." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MKS-20 Piano 2" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="MKS-20 Vibes ^"  PATH="Keyboards/MKS-20 Vibes" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1362080384" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled A0 to C8." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="MKS-20 Vibes" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes ^"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="6104306688" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Amp ^"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5699632128" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Mechanical ^ RR"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Mechanical Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="375838336" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Mechanical Release"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="110256968" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Mellow ^"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="6104306688" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Release"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="278228352" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Suitcase ^"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="6104306688" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Classic Rhodes Wah ^"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5699632128" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe EP Mechanical 2 ^ RR"  PATH="Keyboards/Rhodes - Classic" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Mechanical Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Classic Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="375838336" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Classic" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Bassett I Mechanical ^ RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="849408320" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Bassett II Mechanical ^ RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="849408320" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes ^"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5588297216" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes Mechanical ^ RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Mechanical Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="849408320" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes Mechanical Pedal Noise RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="PedalNoise" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2033370" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes Mechanical Release"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="78037688" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes Pedal Noise RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="PedalNoise" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5938521" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="LA Custom Rhodes Release"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="253680512" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Rhodes Bass Mechanical Noise ^ RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="849408320" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe EP Mechanical 1 ^ RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Mechanical Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="849408320" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe TB Mechanical ^ RR"  PATH="Keyboards/Rhodes - LA Custom" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="LA Custom Rhodes Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="849408320" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - LA Custom" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Rhodes Pre-Piano ^ RR"  PATH="Keyboards/Rhodes - Pre-Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct Pickup" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Rhodes Pre-Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5368735744" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Pre-Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Rhodes Pre-Piano Release"  PATH="Keyboards/Rhodes - Pre-Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct Pickup" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="269946016" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes - Pre-Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Rhodes Bass ^ RR"  PATH="Keyboards/Rhodes Bass" >
+<ATTR  NAME="Sublayer_1"  VALUE="Amp" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Rhodes Bass Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1897097728" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes Bass" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Rhodes Bass Release"  PATH="Keyboards/Rhodes Bass" >
+<ATTR  NAME="Sublayer_1"  VALUE="Amp" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="236673552" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Rhodes Bass" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Saucer Bell Toy Piano ^ RR"  PATH="Keyboards/Saucer Bell Toy Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Saucer Bell Toy Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="3301104640" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Saucer Bell Toy Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Saucer Bell Toy Piano Release"  PATH="Keyboards/Saucer Bell Toy Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="741636800" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Saucer Bell Toy Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Simone Celeste ^ RR"  PATH="Keyboards/Simone Celeste" >
+<ATTR  NAME="_NoteRangeLimitHigh"  VALUE="108" >
+</ATTR>
+ <ATTR  NAME="_NoteRangeLimitLow"  VALUE="60" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Vintage Pickup" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Close Mics" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Simone Celeste Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Simone Celeste" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Simone Celeste Release"  PATH="Keyboards/Simone Celeste" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="99494400" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Simone Celeste" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Simone Celeste Staccato ^ RR"  PATH="Keyboards/Simone Celeste" >
+<ATTR  NAME="_NoteRangeLimitHigh"  VALUE="108" >
+</ATTR>
+ <ATTR  NAME="_NoteRangeLimitLow"  VALUE="60" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Vintage Pickup" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Close Mics" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Simone Celeste Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Simone Celeste" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Simone Celeste Vibra-Retro ^ RR"  PATH="Keyboards/Simone Celeste" >
+<ATTR  NAME="_NoteRangeLimitHigh"  VALUE="108" >
+</ATTR>
+ <ATTR  NAME="_NoteRangeLimitLow"  VALUE="60" >
+</ATTR>
+ <ATTR  NAME="Sublayer_1"  VALUE="Vintage Pickup" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Room Mics" >
+</ATTR>
+ <ATTR  NAME="Sublayer_3"  VALUE="Close Mics" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Simone Celeste Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="4405201920" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Simone Celeste" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Student Mini-Piano ^ RR"  PATH="Keyboards/Student Mini Grand" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Student Mini-Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5062533120" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Student Mini Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Student Mini-Piano Release"  PATH="Keyboards/Student Mini Grand" >
+<ATTR  NAME="Sublayer_1"  VALUE="Room" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="767037568" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Student Mini Grand" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe Electric Piano ^"  PATH="Keyboards/Vintage Vibe EP" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Vintage Vibe Electric Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2088510976" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vintage Vibe EP" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe Electric Piano Amp ^"  PATH="Keyboards/Vintage Vibe EP" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Vintage Vibe Electric Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2088510976" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vintage Vibe EP" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe Electric Piano Release"  PATH="Keyboards/Vintage Vibe EP" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="258975744" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vintage Vibe EP" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe Electric Piano Suitcase ^"  PATH="Keyboards/Vintage Vibe EP" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Vintage Vibe Electric Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2088510976" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vintage Vibe EP" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe Electric Piano Wah ^"  PATH="Keyboards/Vintage Vibe EP" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="LA Custom Rhodes Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Vintage Vibe Electric Piano Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1737669632" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vintage Vibe EP" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe Tine Bass ^"  PATH="Keyboards/Vintage Vibe Tine Bass" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Vintage Vibe Tine Bass Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1600632448" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C1 to G4." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vintage Vibe Tine Bass" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe Tine Bass Release"  PATH="Keyboards/Vintage Vibe Tine Bass" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="18502528" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vintage Vibe Tine Bass" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe Vibanet ^"  PATH="Keyboards/Vintage Vibe Vibanet" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pickup 1" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pickup 2" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Vintage Vibe Vibanet Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="5899680768" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vintage Vibe Vibanet" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vintage Vibe Vibanet Release"  PATH="Keyboards/Vintage Vibe Vibanet" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pickup 1" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pickup 2" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1016524160" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vintage Vibe Vibanet" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 01"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Source"  VALUE="Vinyl" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1767446" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vinyl Lo-Fi" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 02"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Source"  VALUE="Vinyl" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1643024" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vinyl Lo-Fi" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 03"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Source"  VALUE="Vinyl" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="523838" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vinyl Lo-Fi" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 04"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Source"  VALUE="Vinyl" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1935614" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vinyl Lo-Fi" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 05"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Source"  VALUE="Vinyl" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1061846" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vinyl Lo-Fi" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 06"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Source"  VALUE="Vinyl" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1883702" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vinyl Lo-Fi" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 07"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Source"  VALUE="Vinyl" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1035176" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vinyl Lo-Fi" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 08"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Source"  VALUE="Vinyl" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1862648" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vinyl Lo-Fi" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 09"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Source"  VALUE="Vinyl" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1638026" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vinyl Lo-Fi" >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 10"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Source"  VALUE="Vinyl" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vinyl Lo-Fi" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1489412" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Vinyl Keyscape 11"  PATH="Keyboards/Vinyl Keyscape 01" >
+<ATTR  NAME="Author"  VALUE="Eric Persing" >
+</ATTR>
+ <ATTR  NAME="Source"  VALUE="Vinyl" >
+</ATTR>
+ <ATTR  NAME="Type"  VALUE="Vinyl Lo-Fi" >
+</ATTR>
+ <ATTR  NAME="Version"  VALUE="v2.0" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2275844" >
+</ATTR>
+ <ATTR  NAME="Specs"  VALUE="Sampled C4 to C4." >
+</ATTR>
+ <ATTR  NAME="Description"  VALUE="Vinyl Soundsources offer the distinct sound and artifacts inherent in the medium. Stylus noise, hiss crackle and pop add sonic flavor when layered with other sounds or can be used to create new effects when processed further with the STEAM engine." >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Vinyl Keyscape 01" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Weltmeister Bassett I ^ RR"  PATH="Keyboards/Weltmeister Bassett I" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Weltmeister Bassett I Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1155753728" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Weltmeister Bassett I" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Weltmeister Bassett I Release"  PATH="Keyboards/Weltmeister Bassett I" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="35550652" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Weltmeister Bassett I" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Weltmeister Bassett II ^"  PATH="Keyboards/Weltmeister Bassett II" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Weltmeister Bassett I Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="264665648" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Weltmeister Bassett II" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Weltmeister Claviset ^ RR"  PATH="Keyboards/Weltmeister Claviset" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Weltmeister Claviset Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1510487296" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Weltmeister Claviset" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Weltmeister Claviset Bass ^ RR"  PATH="Keyboards/Weltmeister Claviset" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Weltmeister Claviset Bass Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="542111488" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Weltmeister Claviset" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Weltmeister Claviset Bass Release"  PATH="Keyboards/Weltmeister Claviset" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="16425161" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Weltmeister Claviset" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Weltmeister Claviset Guitar ^ RR"  PATH="Keyboards/Weltmeister Claviset" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Weltmeister Claviset Guitar Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="527609568" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Weltmeister Claviset" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Weltmeister Claviset Guitar Release"  PATH="Keyboards/Weltmeister Claviset" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="16264011" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Weltmeister Claviset" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Weltmeister Claviset Release"  PATH="Keyboards/Weltmeister Claviset" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="49103624" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Weltmeister Claviset" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Weltmeister Claviset Tutti ^ RR"  PATH="Keyboards/Weltmeister Claviset" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Weltmeister Claviset Tutti Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="440765184" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Weltmeister Claviset" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Weltmeister Claviset Tutti Release"  PATH="Keyboards/Weltmeister Claviset" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="16414454" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Weltmeister Claviset" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Tack Piano ^ Mono"  PATH="Keyboards/Wing Tack Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wing Upright Pedal Noise RR Mono" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wing Upright Piano Release Mono" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wing Tack Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Tack Piano ^ Stereo"  PATH="Keyboards/Wing Tack Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wing Upright Pedal Noise RR Stereo" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wing Upright Piano Release Stereo" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wing Tack Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Tack Tremolo ^ Mono"  PATH="Keyboards/Wing Tack Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wing Upright Pedal Noise RR Mono" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wing Upright Piano Release Mono" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2565918976" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wing Tack Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Tack Tremolo ^ Stereo"  PATH="Keyboards/Wing Tack Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wing Upright Pedal Noise RR Stereo" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wing Upright Piano Release Stereo" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wing Tack Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Upright Pedal Noise RR Mono"  PATH="Keyboards/Wing Upright Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="PedalNoise" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="4706467" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wing Upright Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Upright Pedal Noise RR Stereo"  PATH="Keyboards/Wing Upright Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="PedalNoise" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="9412582" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wing Upright Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Upright Piano ^ Mono"  PATH="Keyboards/Wing Upright Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wing Upright Pedal Noise RR Mono" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wing Upright Piano Release Mono" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wing Upright Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Upright Piano ^ Stereo"  PATH="Keyboards/Wing Upright Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wing Upright Pedal Noise RR Stereo" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wing Upright Piano Release Stereo" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wing Upright Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Upright Piano Release Mono"  PATH="Keyboards/Wing Upright Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="679365312" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wing Upright Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Upright Piano Release Stereo"  PATH="Keyboards/Wing Upright Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Pedal Up" >
+</ATTR>
+ <ATTR  NAME="Sublayer_2"  VALUE="Pedal Down" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="1358550528" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wing Upright Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Upright Tremolo ^ Mono"  PATH="Keyboards/Wing Upright Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Mono Mic" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wing Upright Pedal Noise RR Mono" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wing Upright Piano Release Mono" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2713398528" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wing Upright Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wing Upright Tremolo ^ Stereo"  PATH="Keyboards/Wing Upright Piano" >
+<ATTR  NAME="Sublayer_1"  VALUE="Stereo Mics" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wing Upright Pedal Noise RR Stereo" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wing Upright Piano Release Stereo" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wing Upright Piano" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Weltmeister Claviset Mechanical ^ RR"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wurlitzer 140B Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="404238944" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 140B ^ RR"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wurlitzer 140B Pedal Noise RR DI" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wurlitzer 140B Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="8480677888" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 140B Mechanical Noise ^ RR"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wurlitzer 140B Pedal Noise RR Mic" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wurlitzer 140B Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="404238944" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 140B Mechanical Release"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="32897896" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 140B Pedal Noise RR DI"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="PedalNoise" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2323111" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 140B Pedal Noise RR Mic"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="PedalNoise" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2342209" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 140B Release"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="596968192" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 200A Mechanical Noise ^ RR"  PATH="Keyboards/Wurlitzer 140B" >
+<ATTR  NAME="Sublayer_1"  VALUE="Microphone" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wurlitzer 140B Pedal Noise RR Mic" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wurlitzer 140B Mechanical Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="404238944" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 140B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 200A ^"  PATH="Keyboards/Wurlitzer 200A" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Wurlitzer 140B Pedal Noise RR DI" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Wurlitzer 140B Release" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 200A" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Wurlitzer 200A Release"  PATH="Keyboards/Wurlitzer 200A" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="32202492" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Wurlitzer 200A" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Yamaha CP-70 Electric Grand ^"  PATH="Keyboards/Yamaha CP-70B" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="Sustain" >
+</ATTR>
+ <ATTR  NAME="PedalNoiseIM"  VALUE="Yamaha CP-70 Pedal Noise RR" >
+</ATTR>
+ <ATTR  NAME="ReleaseIM"  VALUE="Yamaha CP-70 Release" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="2975878144" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Yamaha CP-70B" >
+</ATTR>
+ </ENTRY>
+ <ENTRY  NAME="Yamaha CP-70 Pedal Noise RR"  PATH="Keyboards/Yamaha CP-70B" >
+<ATTR  NAME="Sublayer_1"  VALUE="Direct" >
+</ATTR>
+ <ATTR  NAME="Cluster"  VALUE="PedalNoise" >
+</ATTR>
+ <ATTR  NAME="size"  VALUE="7984300" >
+</ATTR>
+ <ATTR  NAME="Library"  VALUE="Keyscape Library" >
+</ATTR>
+ <ATTR  NAME="Category"  VALUE="Keyboards" >
+</ATTR>
+ <ATTR  NAME="SubCategory"  VALUE="Yamaha CP-70B" >
+</ATTR>
+ </ENTRY>
+ </INDEX>
+ 

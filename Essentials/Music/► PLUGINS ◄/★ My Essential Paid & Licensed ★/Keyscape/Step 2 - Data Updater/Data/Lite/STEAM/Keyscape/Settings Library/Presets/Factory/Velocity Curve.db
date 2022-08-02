@@ -1,0 +1,237 @@
+<FileSystem>
+<DIR name="Akai">
+<FILE name="Akai Advance 25.velcrv" offset="0" size="110"/>
+<FILE name="Akai Advance 49.velcrv" offset="110" size="110"/>
+<FILE name="Akai Advance 61.velcrv" offset="220" size="110"/>
+<FILE name="Akai MPK49.velcrv" offset="330" size="92"/>
+<FILE name="Akai MPK88.velcrv" offset="422" size="99"/>
+<FILE name="Akai MPKmini2.velcrv" offset="521" size="110"/>
+</DIR>
+<DIR name="Arturia">
+<FILE name="Arturia Keylab 49.velcrv" offset="631" size="103"/>
+<FILE name="Arturia Keylab 61.velcrv" offset="734" size="103"/>
+<FILE name="Arturia Keylab 88.velcrv" offset="837" size="110"/>
+</DIR>
+<DIR name="Casio">
+<FILE name="Casio Privia PX-330BK.velcrv" offset="947" size="110"/>
+<FILE name="Casio Privia PX-350M.velcrv" offset="1057" size="110"/>
+<FILE name="Casio Privia PX-760.velcrv" offset="1167" size="103"/>
+<FILE name="Casio Privia PX-860.velcrv" offset="1270" size="103"/>
+</DIR>
+<DIR name="CME">
+<FILE name="CME X-Key.velcrv" offset="1373" size="110"/>
+</DIR>
+<DIR name="Dave Smith Instruments">
+<FILE name="DSI OB-6.velcrv" offset="1483" size="110"/>
+<FILE name="DSI Prophet 12.velcrv" offset="1593" size="110"/>
+</DIR>
+<DIR name="Kawai">
+<FILE name="Kawai M8000.velcrv" offset="1703" size="99"/>
+<FILE name="Kawai MP9000.velcrv" offset="1802" size="110"/>
+</DIR>
+<DIR name="Korg">
+<FILE name="Korg Krome.velcrv" offset="1912" size="110"/>
+<FILE name="Korg Kronos 88.velcrv" offset="2022" size="110"/>
+<FILE name="Korg Kross.velcrv" offset="2132" size="110"/>
+<FILE name="Korg M3.velcrv" offset="2242" size="110"/>
+<FILE name="Korg MicroKEY.velcrv" offset="2352" size="110"/>
+<FILE name="Korg NanoKEY.velcrv" offset="2462" size="110"/>
+<FILE name="Korg SV-1.velcrv" offset="2572" size="103"/>
+</DIR>
+<DIR name="Kurzweil">
+<FILE name="Kurzweil PC2X.velcrv" offset="2675" size="110"/>
+<FILE name="Kurzweil PC88.velcrv" offset="2785" size="103"/>
+</DIR>
+<DIR name="M-Audio">
+<FILE name="M-Audio Axiom 49.velcrv" offset="2888" size="110"/>
+<FILE name="M-Audio Keystation 88.velcrv" offset="2998" size="99"/>
+<FILE name="M-Audio Keystudio.velcrv" offset="3097" size="99"/>
+</DIR>
+<DIR name="Native Instruments">
+<FILE name="NI Kontrol S25.velcrv" offset="3196" size="110"/>
+<FILE name="NI Kontrol S49.velcrv" offset="3306" size="110"/>
+<FILE name="NI Kontrol S61.velcrv" offset="3416" size="110"/>
+<FILE name="NI Kontrol S88.velcrv" offset="3526" size="110"/>
+</DIR>
+<DIR name="Nord">
+<FILE name="Nord Electro 5D.velcrv" offset="3636" size="110"/>
+<FILE name="Nord Lead.velcrv" offset="3746" size="110"/>
+<FILE name="Nord Piano 3.velcrv" offset="3856" size="103"/>
+<FILE name="Nord Stage 2.velcrv" offset="3959" size="110"/>
+</DIR>
+<DIR name="Novation">
+<FILE name="Novation Impulse 49.velcrv" offset="4069" size="99"/>
+<FILE name="Novation Impulse 61.velcrv" offset="4168" size="99"/>
+<FILE name="Novation Launchkey.velcrv" offset="4267" size="99"/>
+<FILE name="Novation SL MkII.velcrv" offset="4366" size="99"/>
+</DIR>
+<DIR name="Roland">
+<FILE name="Roland A-50.velcrv" offset="4465" size="99"/>
+<FILE name="Roland A-80.velcrv" offset="4564" size="99"/>
+<FILE name="Roland A-88.velcrv" offset="4663" size="99"/>
+<FILE name="Roland A-90.velcrv" offset="4762" size="110"/>
+<FILE name="Roland FA-08.velcrv" offset="4872" size="110"/>
+<FILE name="Roland JD-XA.velcrv" offset="4982" size="110"/>
+<FILE name="Roland Juno DS88.velcrv" offset="5092" size="110"/>
+<FILE name="Roland Jupiter 80.velcrv" offset="5202" size="110"/>
+<FILE name="Roland RD-800.velcrv" offset="5312" size="110"/>
+<FILE name="Roland VR-09.velcrv" offset="5422" size="110"/>
+</DIR>
+<DIR name="Sequential">
+<FILE name="Sequential Prophet 6.velcrv" offset="5532" size="110"/>
+</DIR>
+<DIR name="Yamaha">
+<FILE name="Yamaha CP33.velcrv" offset="5642" size="110"/>
+<FILE name="Yamaha CP4.velcrv" offset="5752" size="103"/>
+<FILE name="Yamaha MM8.velcrv" offset="5855" size="110"/>
+<FILE name="Yamaha MO8.velcrv" offset="5965" size="110"/>
+<FILE name="Yamaha Montage 6.velcrv" offset="6075" size="110"/>
+<FILE name="Yamaha Montage 8.velcrv" offset="6185" size="110"/>
+<FILE name="Yamaha Motif ES8.velcrv" offset="6295" size="110"/>
+<FILE name="Yamaha Motif XS6.velcrv" offset="6405" size="110"/>
+<FILE name="Yamaha MOXF8.velcrv" offset="6515" size="110"/>
+<FILE name="Yamaha NP-32.velcrv" offset="6625" size="110"/>
+<FILE name="Yamaha P-115.velcrv" offset="6735" size="110"/>
+<FILE name="Yamaha P-255.velcrv" offset="6845" size="110"/>
+<FILE name="Yamaha P-45.velcrv" offset="6955" size="110"/>
+<FILE name="Yamaha S90XS.velcrv" offset="7065" size="110"/>
+<FILE name="Yamaha YDP-181.velcrv" offset="7175" size="110"/>
+</DIR>
+</FileSystem>
+<VelocityCurve  vcx="3f5cfdd0"  vcy="3f042108"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f5cfdd0"  vcy="3f042108"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f5cfdd0"  vcy="3f042108"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f057858"  vcy="0"  vcg="3efdc620"  vcb="3f000000" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3e992993"  vcy="0"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3e992993"  vcy="0"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f615e16"  vcy="3f800000"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ec94c95"  vcy="3df23c90"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ea64a65"  vcy="3e042108"  vcg="3f07ca93"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3e7dcfdd"  vcy="0"  vcg="3f07ca93"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3e7dcfdd"  vcy="0"  vcg="3f07ca93"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f192993"  vcy="3e51344c"  vcg="3ec8590c"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f1b59b6"  vcy="3e1a2688"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f16f970"  vcy="3e94a52a"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ec4ec4f"  vcy="3e842108"  vcg="3f000000"  vcb="3f000000" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ec4ec4f"  vcy="3e842108"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f034835"  vcy="3d042110"  vcg="3f1525d8"  vcb="3ef9525e"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f034835"  vcy="3d042110"  vcg="3f1525d8"  vcb="3ef9525e"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f034835"  vcy="3d042110"  vcg="3f1525d8"  vcb="3ef9525e"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3eb7cb7d"  vcy="3db02c08"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ef96f97"  vcy="3f53f4fd"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3e9d89d9"  vcy="0"  vcg="3f0590b2"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f1d89d9"  vcy="3ea5294a"  vcg="3f0356d2"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3edf2df3"  vcy="0"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ee38e39"  vcy="3d302c10"  vcg="3f000000"  vcb="3f000000" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f313b14"  vcy="3e51344c"  vcg="3f000000"  vcb="3f000000" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3de38e39"  vcy="3d302c10"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ef0af0b"  vcy="3df23c90"  vcg="3f0a0474"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3e750f51"  vcy="3e8f23c8"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3eaaaaab"  vcy="0"  vcg="3f0ce94b"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ec08c09"  vcy="3d9a2688"  vcg="3f07ca93"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f6c4ec5"  vcy="3f7a7ea0"  vcg="3f000000"  vcb="3f000000" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f09d89e"  vcy="3e842108"  vcg="3f000000"  vcb="3f000000" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ef50f51"  vcy="3eecbb2e"  vcg="3f0a0474"  vcb="3f000000" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3efdcfdd"  vcy="3e94a52a"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3e494c95"  vcy="3d9a2688"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f034835"  vcy="3e9a268a"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f000000"  vcy="3f000000"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ef96f97"  vcy="3e5c370c"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f034835"  vcy="3ec0b02c"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3e906907"  vcy="3db02c08"  vcg="3f10b216"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3e520d21"  vcy="0"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3e750f51"  vcy="3d5c3710"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3de38e39"  vcy="3d5c3710"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ee38e39"  vcy="3f06e1b8"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3f4dacdb"  vcy="3f7a7ea0"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3e520d21"  vcy="3ddc3710"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3dd20d21"  vcy="3d042110"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ea64a65"  vcy="3cb02c00"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ea64a65"  vcy="3ddc3710"  vcg="3f0f5c29"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ea64a65"  vcy="3ddc3710"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ea64a65"  vcy="3ddc3710"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3dd20d21"  vcy="3eaaaaaa"  vcg="3f6e30f9"  vcb="3d795260"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3e8c08c1"  vcy="3e1a2688"  vcg="3f000000"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ <VelocityCurve  vcx="3ed20d21"  vcy="3e51344c"  vcg="3f01726c"  vcb="3f000000"  VCname="" >
+</VelocityCurve>
+ 

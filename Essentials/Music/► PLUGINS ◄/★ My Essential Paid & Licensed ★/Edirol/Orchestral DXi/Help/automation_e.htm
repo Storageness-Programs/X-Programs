@@ -1,0 +1,102 @@
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<title>Automation</title>
+<style><!--
+.pagestyle { line-height: 130%; color:rgb(0,0,0); font-size:10pt;}
+body { color:rgb(0,0,0);}
+th { color:rgb(0,0,0);}
+td { color:rgb(0,0,0);}
+h1 { color:rgb(0,0,204); font-size:18pt; text-decoration:underline;}
+h2 { color:rgb(100,120,0); font-size:14pt; margin-left:0pt;}
+h3 { color:rgb(190,130,0); font-size:12pt; margin-left:0pt;}
+h4 { color:rgb(10,110,130); font-size:11pt; margin-left:20pt;}
+h5 { color:rgb(0,0,0); font-size:10pt; margin-left:20pt;}
+p { color:rgb(0,0,0); font-size:10pt; margin-left:20pt;}
+p.list { color:rgb(0,0,0); font-size:10pt;}
+p.sublist { color:rgb(97,97,97); font-size:9pt;}
+p.tableitem { color:rgb(0,0,0); font-size:10pt; margin-left:0pt;}
+p.note { color:rgb(200,0,0); font-size:9pt; margin-left:30pt; margin-right:30pt; text-indent:-15pt;}
+p.info { color:rgb(0,0,150); font-size:9pt; margin-left:30pt; margin-right:30pt; text-indent:-12pt;}
+p.fig { margin-left:15pt;}
+a { font-weight:bold; }
+dt { font-weight:bold; text-decoration:underline; font-size:11pt;}
+-->
+</style>
+</head>
+
+<body bgcolor="white" text="black" link="#6666CC" vlink="#6666CC" alink="#6666CC" class="pagestyle">
+<h2><a name="Recording your operations">Recording your operations</a></h2>
+<p>When you operate Orchestral's controllers (e.g., knobs or sliders), the control 
+change message assigned to the corresponding controller will be sent to the 
+host application, allowing you to record the operations you perform.</p>
+<ul>
+    <table border="1" cellspacing="0" bordercolordark="white" bordercolorlight="black">
+        <tr>
+            <td align="center" bgcolor="#1F76A1">
+                <p style="line-height:150%;" class="tableitem" align="left"><b><font color="white">&nbsp;</font></b><img src="img/x_red.gif" width="10" height="10" border="0" alt="x_red.gif"><b><font color="white"> About Orchestral's automation capability </font></b><img src="img/x_red.gif" width="10" height="10" border="0" alt="x_red.gif"></p>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" bgcolor="#EEEEEE">
+<p class="tableitem" style="line-height:150%;" align="left"> 
+In order to use Orchestral's automation capability, you must have a host 
+application that supports <b>DXi2</b> or <b>VST 2.0</b>. However, some host applications that 
+support DXi2 or VST 2.0 are unable to record MIDI messages transmitted from 
+a plug-in. In this case you will not be able to use Orchestral's automation. 
+For details on now to make your host application record MIDI messages transmitted 
+from a plug-in, refer to the owner's manual of your host application.</p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<h4> Enabling recording of panel operations</h4>
+<p>Here's how to enable recording of panel operations.</p>
+<ol type="1">
+    <li>In the Master Panel, click the <b>SYSTEM</b> button to open the <b>System Setting 
+(SYSTEM SETTINGS)</b> window.<br><br></li>
+</ol>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <p><img src="img/sys_btn.gif" width="187" height="121" border="0" alt="sys_btn.gif">&nbsp;</p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<ol type="1" start="2">
+    <li>Open the <b>OPTIONS</b> page of the System Setting window.</li>
+    <li>Check &quot;<b>Record Panel Operations</b>.&quot;<br><br></li>
+</ol>
+<ul>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <p><img src="img/sys_opt1.gif" width="325" height="178" border="0" alt="sys_opt1.gif"></p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<p>Now when you operate a controller in the panel, the control change message 
+assigned to that parameter will be sent to the host application.</p>
+<ul>
+<p class="info"><img src="img/inform_white.gif" width="12" height="11" border="0" alt="inform_white.gif" align="absmiddle"> 
+    For details on how to make your host application record MIDI messages 
+that are sent from a plug-in, refer to the owner's manual of your host application.</p>
+</ul>
+<h4>Recording your operations</h4>
+<p>Here's how to record your panel operations.</p>
+<ol type="1">
+    <li>Assign the desired control change to the parameter whose operations you 
+want to record.</li>
+    <li>In your host application, begin recording the MIDI messages that are sent 
+from a plug-in.</li>
+    <li>Perform the panel operations that you want to record.</li>
+</ol>
+<p>Your panel operations will be recorded by the host application.</p>
+<p>&nbsp;</p>
+</body>
+
+</html>

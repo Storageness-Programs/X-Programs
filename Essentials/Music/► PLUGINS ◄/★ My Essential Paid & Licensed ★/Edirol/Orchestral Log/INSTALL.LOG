@@ -1,0 +1,475 @@
+***  Installation Started 03/20/2017 8:11  ***
+Title: 
+Source: C:\Users\Knowledgeable\Downloads\Edirol.HQ.Orchestral.VSTi.DXi.v1.01-ArCTiC.exe | 03-20-2017 | 08:10:52 | 133270449
+Made Dir: C:\Program Files (x86)\Edirol
+Made Dir: C:\Program Files (x86)\Edirol\Orchestral Log
+File Copy: C:\Program Files (x86)\Edirol\Orchestral Log\UNWISE.EXE | 08-15-2002 | 22:12:02 | | 181684 | c73bd7bf
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Edirol HQ Orchestral v1.01
+RegDB Val: Edirol HQ Orchestral v1.01
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Edirol HQ Orchestral v1.01
+RegDB Val: C:\PROGRA~2\Edirol\ORCHES~1\UNWISE.EXE C:\PROGRA~2\Edirol\ORCHES~1\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+Made Dir: C:\Program Files (x86)\Edirol\Orchestral DXi
+Made Dir: C:\Program Files (x86)\Edirol\Orchestral DXi\Help
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\automation_e.htm | 05-13-2002 | 13:20:22 | | 4580 | 2d047ecc
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\auto_learn_e.htm | 05-13-2002 | 13:20:26 | | 4300 | 1acafc0e
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\cc_asign_e.htm | 05-13-2002 | 13:20:28 | | 15551 | e443c25d
+Made Dir: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\bank_num.gif | 05-13-2002 | 13:19:58 | | 4364 | 5e489824
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\blue04_next.gif | 05-13-2002 | 13:19:58 | | 58 | 2f799158
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\blue05_next.gif | 05-13-2002 | 13:20:00 | | 308 | d58b76c3
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box01.gif | 05-13-2002 | 13:20:00 | | 889 | 8fd31b75
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box02.gif | 05-13-2002 | 13:20:00 | | 914 | 83f53278
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box03.gif | 05-13-2002 | 13:20:00 | | 915 | 1d183885
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box04.gif | 05-13-2002 | 13:20:00 | | 906 | 292707e0
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box05.gif | 05-13-2002 | 13:20:00 | | 921 | 10290e3e
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box06.gif | 05-13-2002 | 13:20:00 | | 924 | 9073f9aa
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box07.gif | 05-13-2002 | 13:20:00 | | 903 | c4805990
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box08.gif | 05-13-2002 | 13:20:00 | | 921 | 218672dd
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box09.gif | 05-13-2002 | 13:20:02 | | 925 | f5576aa2
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box10.gif | 05-13-2002 | 13:20:02 | | 923 | f2810e
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box11.gif | 05-13-2002 | 13:20:02 | | 912 | b9ba9fbb
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box12.gif | 05-13-2002 | 13:20:02 | | 922 | 29ae077c
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box13.gif | 05-13-2002 | 13:20:02 | | 926 | 12008415
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box14.gif | 05-13-2002 | 13:20:02 | | 915 | df0cda25
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box15.gif | 05-13-2002 | 13:20:02 | | 925 | 50ca0b7
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box16.gif | 05-13-2002 | 13:20:02 | | 928 | 433386d9
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\box17.gif | 05-13-2002 | 13:20:02 | | 915 | 793c8554
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\ccmap_dlg.gif | 05-13-2002 | 13:20:04 | | 9009 | 1f652288
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\ccmap_load.gif | 05-13-2002 | 13:20:04 | | 24932 | b16b2b76
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\ccmap_save.gif | 05-13-2002 | 13:20:04 | | 24842 | b2d79f2d
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\check.gif | 05-13-2002 | 13:20:04 | | 860 | 5d254151
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\chorus.gif | 05-13-2002 | 13:20:04 | | 24148 | 5dbd6c28
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\cho_open.gif | 05-13-2002 | 13:20:04 | | 10515 | b4a5aef7
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\cho_page.gif | 05-13-2002 | 13:20:04 | | 16042 | cb0a0c55
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\conductor.gif | 05-13-2002 | 13:20:04 | | 12353 | bd588924
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\dec_inst.gif | 05-13-2002 | 13:20:04 | | 987 | d811b33
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\delay.gif | 05-13-2002 | 13:20:06 | | 24676 | 1e6c3ebe
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\edit_btn.gif | 05-13-2002 | 13:20:06 | | 8307 | 98463210
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\edit_btn2.gif | 05-13-2002 | 13:20:06 | | 11380 | c97f5eac
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\efx_cho1.gif | 05-13-2002 | 13:20:06 | | 15241 | fb0e41f7
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\efx_combo1.gif | 05-13-2002 | 13:20:06 | | 10289 | 3c867f94
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\efx_combo2.gif | 05-13-2002 | 13:20:06 | | 15480 | 3e192d8a
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\efx_edit.gif | 05-13-2002 | 13:20:06 | | 10088 | 584cffb5
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\efx_load.gif | 05-13-2002 | 13:20:06 | | 17351 | 6e348587
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\efx_preset.gif | 05-13-2002 | 13:20:06 | | 10290 | 891a435b
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\efx_rev1.gif | 05-13-2002 | 13:20:06 | | 10253 | 6803726f
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\efx_save.gif | 05-13-2002 | 13:20:08 | | 16916 | a767b0ca
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\efx_sw.gif | 05-13-2002 | 13:20:08 | | 10151 | c39be7d8
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\efx_tab.gif | 05-13-2002 | 13:20:08 | | 10214 | 416753b3
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\h_sld.gif | 05-13-2002 | 13:20:08 | | 2752 | 47ae41f8
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\inc_inst.gif | 05-13-2002 | 13:20:08 | | 1013 | a7c30fa1
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\inform_white.gif | 05-13-2002 | 13:20:08 | | 70 | 2cac3a6a
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\knob.gif | 05-13-2002 | 13:20:08 | | 3316 | 30ef4521
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\load_btn1.gif | 05-13-2002 | 13:20:08 | | 17956 | 5cf0f580
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\master.gif | 05-13-2002 | 13:20:10 | | 83543 | 68505205
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\normal.gif | 05-13-2002 | 13:20:10 | | 70576 | 6340d281
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\output.gif | 05-13-2002 | 13:20:10 | | 31058 | 76ca7ed3
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\out_open.gif | 05-13-2002 | 13:20:10 | | 12888 | cba68ed5
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\panic_btn.gif | 05-13-2002 | 13:20:10 | | 14432 | f7a7f5a9
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\part_color1.gif | 05-13-2002 | 13:20:10 | | 943 | d22413ab
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\part_color2.gif | 05-13-2002 | 13:20:10 | | 943 | af12045a
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\part_color3.gif | 05-13-2002 | 13:20:12 | | 943 | 72aa491b
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\part_color4.gif | 05-13-2002 | 13:20:12 | | 943 | 3eb1c2f
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\patch_dec.gif | 05-13-2002 | 13:20:12 | | 944 | 6b1e2210
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\patch_inc.gif | 05-13-2002 | 13:20:12 | | 970 | bcb0bc24
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\patch_mn.gif | 05-13-2002 | 13:20:12 | | 6612 | 3cdca01b
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\pc_incdec.gif | 05-13-2002 | 13:20:12 | | 3574 | a24b9afa
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\pfm_load.gif | 05-13-2002 | 13:20:12 | | 17945 | 25c1b970
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\pfm_save.gif | 05-13-2002 | 13:20:12 | | 17970 | 6940864c
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\reb_page.gif | 05-13-2002 | 13:20:14 | | 14911 | 8011af49
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\reset_btn.gif | 05-13-2002 | 13:20:14 | | 14301 | e94c51db
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\reverb.gif | 05-13-2002 | 13:20:14 | | 25283 | 4f8185d1
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\rev_open.gif | 05-13-2002 | 13:20:14 | | 9982 | 4c3de376
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\rhythm.gif | 05-13-2002 | 13:20:14 | | 46422 | fc08fe62
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\roma01.gif | 05-13-2002 | 13:20:14 | | 67 | 554aa6e
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\roma02.gif | 05-13-2002 | 13:20:14 | | 77 | b17643d7
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\roma03.gif | 05-13-2002 | 13:20:14 | | 83 | f7d98209
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\roma04.gif | 05-13-2002 | 13:20:14 | | 97 | f615b13d
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\roma05.gif | 05-13-2002 | 13:20:16 | | 83 | 911fc981
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\roma06.gif | 05-13-2002 | 13:20:16 | | 95 | e0f40706
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\roma07.gif | 05-13-2002 | 13:20:16 | | 104 | b93c0b17
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\roma08.gif | 05-13-2002 | 13:20:16 | | 110 | dcd871e9
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\save_btn1.gif | 05-13-2002 | 13:20:16 | | 17991 | 6754989a
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\scale.gif | 05-13-2002 | 13:20:16 | | 28105 | f824df4d
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\sign_attention.gif | 05-13-2002 | 13:20:16 | | 138 | 3acc9782
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\spin.gif | 05-13-2002 | 13:20:16 | | 2905 | dcbb9787
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\spin_btn.gif | 05-13-2002 | 13:20:18 | | 892 | cfcb5113
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\steel_hh_1.jpg | 05-13-2002 | 13:20:18 | | 2265 | dafca60a
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\style.gif | 05-13-2002 | 13:20:18 | | 40831 | 8c64ce00
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\styl_open.gif | 05-13-2002 | 13:20:18 | | 12841 | 2099ddfe
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\st_check.gif | 05-13-2002 | 13:20:18 | | 961 | 6c4486b4
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\st_uncheck.gif | 05-13-2002 | 13:20:18 | | 928 | f09df129
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\system.gif | 05-13-2002 | 13:20:20 | | 16181 | ff7ed58
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\sys_btn.gif | 05-13-2002 | 13:20:18 | | 13231 | f8ff232f
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\sys_file.gif | 05-13-2002 | 13:20:18 | | 12221 | 3599a655
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\sys_master.gif | 05-13-2002 | 13:20:20 | | 10689 | 7ad482ce
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\sys_open.gif | 05-13-2002 | 13:20:20 | | 15347 | 3c551305
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\sys_opt1.gif | 05-13-2002 | 13:20:20 | | 28687 | 68306207
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\sys_option.gif | 05-13-2002 | 13:20:20 | | 18513 | 852e8128
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\tf_btn.gif | 05-13-2002 | 13:20:20 | | 5661 | cc526d9b
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\tf_btn2.gif | 05-13-2002 | 13:20:20 | | 12178 | b620d689
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\tf_pnl.gif | 05-13-2002 | 13:20:22 | | 26360 | 1aa9d696
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\tf_preusr.gif | 05-13-2002 | 13:20:22 | | 10557 | 7d35ef40
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\tn_spin1.gif | 05-13-2002 | 13:20:22 | | 6015 | 7458b0bb
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\tone_f.gif | 05-13-2002 | 13:20:22 | | 30040 | b0c4e741
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\tone_menu.gif | 05-13-2002 | 13:20:22 | | 12718 | dda8a044
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\v_sld.gif | 05-13-2002 | 13:20:22 | | 4434 | ea9cb355
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\write_btn.gif | 05-13-2002 | 13:20:22 | | 14576 | 7402a3d7
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\img\x_red.gif | 05-13-2002 | 13:20:22 | | 61 | 94842c00
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\impl_or_e.htm | 05-13-2002 | 13:20:32 | | 199204 | c35a9772
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\index_e.htm | 05-13-2002 | 13:20:24 | | 594 | bc8ac672
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\overview_e.htm | 05-13-2002 | 13:20:24 | | 4363 | 44f4fd04
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\patch_e.htm | 05-13-2002 | 13:20:24 | | 22963 | 8cdda8c8
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\performance_e.htm | 05-13-2002 | 13:20:24 | | 5791 | f8c4362a
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\pnl_about_e.htm | 05-13-2002 | 13:20:24 | | 5556 | a99abbe5
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\pnl_conductor_e.htm | 05-13-2002 | 13:20:34 | | 6840 | 2f07bdb5
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\pnl_effect_e.htm | 05-13-2002 | 13:20:28 | | 20295 | 4f261753
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\pnl_finder_e.htm | 05-13-2002 | 13:20:28 | | 8641 | cda20851
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\pnl_master_e.htm | 05-13-2002 | 13:20:26 | | 9495 | c6b3da20
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\pnl_normal_e.htm | 05-13-2002 | 13:20:34 | | 34135 | 66017c3d
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\pnl_output_e.htm | 05-13-2002 | 13:20:28 | | 4454 | bde6de13
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\pnl_rhythm_e.htm | 05-13-2002 | 13:20:34 | | 19747 | 2e8be7f8
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\pnl_scale_e.htm | 05-13-2002 | 13:20:28 | | 9284 | 547af6a2
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\pnl_style_e.htm | 05-13-2002 | 13:20:28 | | 16805 | bd52ebc6
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\pnl_system_e.htm | 05-13-2002 | 13:20:28 | | 9714 | f25cbce9
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\pre_ptc_e.htm | 05-13-2002 | 13:20:26 | | 98932 | a6e9feb1
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\toc_e.htm | 05-13-2002 | 13:20:24 | | 13455 | c92c32b
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\trouble_e.htm | 05-13-2002 | 13:20:30 | | 16637 | db03ed18
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\usage_e.htm | 05-13-2002 | 13:20:28 | | 18683 | d8f0f8e5
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\usr_data_e.htm | 05-13-2002 | 13:20:24 | | 1952 | b5cac666
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\usr_efx_e.htm | 05-13-2002 | 13:20:24 | | 8349 | 1291649b
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\usr_tone_e.htm | 05-13-2002 | 13:20:30 | | 8092 | 8e01b997
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\HQOR.dll | 11-07-2002 | 21:46:16 | 1.0.0.1 | 9330688 | d093e905
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\param.dat | 11-09-2002 | 18:20:18 | | 94548908 | c1441a82
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl000.ors | 05-01-2002 | 00:00:02 | | 3222172 | 44f4dea6
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl001.ors | 05-01-2002 | 00:00:02 | | 3812108 | f644303f
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl002.ors | 05-01-2002 | 00:00:02 | | 3564680 | fff0bfb8
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl003.ors | 05-01-2002 | 00:00:02 | | 2644628 | c2e396f5
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl004.ors | 05-01-2002 | 00:00:02 | | 2690112 | dc06cbcf
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl005.ors | 05-01-2002 | 00:00:02 | | 2495024 | 44e32568
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl006.ors | 05-01-2002 | 00:00:02 | | 3916580 | 75237e0f
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl007.ors | 05-01-2002 | 00:00:02 | | 3004680 | 6e446022
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl008.ors | 05-01-2002 | 00:00:02 | | 3407496 | 23660b49
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl009.ors | 05-01-2002 | 00:00:02 | | 2979520 | bc70688f
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl010.ors | 05-01-2002 | 00:00:02 | | 3745104 | 17d3e121
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl011.ors | 05-01-2002 | 00:00:02 | | 3032164 | 7d85f5e1
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl012.ors | 05-01-2002 | 00:00:02 | | 3261408 | 32c62229
+File Copy: C:\Program Files (x86)\Edirol\Orchestral DXi\stl013.ors | 05-01-2002 | 00:00:02 | | 3117068 | d36a6203
+RegDB Key: SOFTWARE\EDIROL
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral DXi
+RegDB Name: InstallPath
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral DXi\HELP\index_e.htm
+RegDB Name: HelpIndex
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral DXi\param.dat
+RegDB Name: BaseDataFile
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral DXi\UserPatchBank
+RegDB Name: UserPatch
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral DXi\UserRhythmBank
+RegDB Name: UserRhythm
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral DXi\UserChorus
+RegDB Name: UserChorus
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral DXi\UserReverb
+RegDB Name: UserReverb
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral DXi\UserOption
+RegDB Name: UserOption
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: Orchestral DXi Version 1.01
+RegDB Name: ProductName
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: High Quality Software Synthesizer
+RegDB Name: SeriesName
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: 1068313472
+RegDB Name: InstallTime
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: 18a240bbee2077649ea033fd7ead9fea1de03490689f710e9256b2a86fe0b57c
+RegDB Name: ScherzoNum
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: 1f957488d70d4450ac8d03cd4799aad82ccd01a551ad450e9256b2a86fe0b57c
+RegDB Name: VulcanNum
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\App Paths\yourapp.Exe
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral DXi
+RegDB Name: Path
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\App Paths\yourapp.Exe
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral DXi\yourapp.Exe
+RegDB Root: 2
+RegDB Key: Software\EDIROL
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\EDIROL\Orchestral DXi
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi\1.01
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\EDIROL\Orchestral DXi
+RegDB Val: 3380865084
+RegDB Name: LastActivation
+RegDB Root: 1
+RegDB Key: SOFTWARE\EDIROL\Orchestral DXi
+RegDB Val: 67439-342-0094521-55924
+RegDB Name: ProductId
+RegDB Root: 2
+Made Dir: C:\Program Files (x86)\Edirol\Orchestral VST
+Made Dir: C:\Program Files (x86)\Edirol\Orchestral VST\Help
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\automation_e.htm | 05-13-2002 | 13:20:22 | | 4580 | 2d047ecc
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\auto_learn_e.htm | 05-13-2002 | 13:20:26 | | 4300 | 1acafc0e
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\cc_asign_e.htm | 05-13-2002 | 13:20:28 | | 15551 | e443c25d
+Made Dir: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\bank_num.gif | 05-13-2002 | 13:19:58 | | 4364 | 5e489824
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\blue04_next.gif | 05-13-2002 | 13:19:58 | | 58 | 2f799158
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\blue05_next.gif | 05-13-2002 | 13:20:00 | | 308 | d58b76c3
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box01.gif | 05-13-2002 | 13:20:00 | | 889 | 8fd31b75
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box02.gif | 05-13-2002 | 13:20:00 | | 914 | 83f53278
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box03.gif | 05-13-2002 | 13:20:00 | | 915 | 1d183885
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box04.gif | 05-13-2002 | 13:20:00 | | 906 | 292707e0
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box05.gif | 05-13-2002 | 13:20:00 | | 921 | 10290e3e
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box06.gif | 05-13-2002 | 13:20:00 | | 924 | 9073f9aa
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box07.gif | 05-13-2002 | 13:20:00 | | 903 | c4805990
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box08.gif | 05-13-2002 | 13:20:00 | | 921 | 218672dd
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box09.gif | 05-13-2002 | 13:20:02 | | 925 | f5576aa2
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box10.gif | 05-13-2002 | 13:20:02 | | 923 | f2810e
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box11.gif | 05-13-2002 | 13:20:02 | | 912 | b9ba9fbb
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box12.gif | 05-13-2002 | 13:20:02 | | 922 | 29ae077c
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box13.gif | 05-13-2002 | 13:20:02 | | 926 | 12008415
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box14.gif | 05-13-2002 | 13:20:02 | | 915 | df0cda25
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box15.gif | 05-13-2002 | 13:20:02 | | 925 | 50ca0b7
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box16.gif | 05-13-2002 | 13:20:02 | | 928 | 433386d9
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\box17.gif | 05-13-2002 | 13:20:02 | | 915 | 793c8554
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\ccmap_dlg.gif | 05-13-2002 | 13:20:04 | | 9009 | 1f652288
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\ccmap_load.gif | 05-13-2002 | 13:20:04 | | 24932 | b16b2b76
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\ccmap_save.gif | 05-13-2002 | 13:20:04 | | 24842 | b2d79f2d
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\check.gif | 05-13-2002 | 13:20:04 | | 860 | 5d254151
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\chorus.gif | 05-13-2002 | 13:20:04 | | 24148 | 5dbd6c28
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\cho_open.gif | 05-13-2002 | 13:20:04 | | 10515 | b4a5aef7
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\cho_page.gif | 05-13-2002 | 13:20:04 | | 16042 | cb0a0c55
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\conductor.gif | 05-13-2002 | 13:20:04 | | 12353 | bd588924
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\dec_inst.gif | 05-13-2002 | 13:20:04 | | 987 | d811b33
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\delay.gif | 05-13-2002 | 13:20:06 | | 24676 | 1e6c3ebe
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\edit_btn.gif | 05-13-2002 | 13:20:06 | | 8307 | 98463210
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\edit_btn2.gif | 05-13-2002 | 13:20:06 | | 11380 | c97f5eac
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\efx_cho1.gif | 05-13-2002 | 13:20:06 | | 15241 | fb0e41f7
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\efx_combo1.gif | 05-13-2002 | 13:20:06 | | 10289 | 3c867f94
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\efx_combo2.gif | 05-13-2002 | 13:20:06 | | 15480 | 3e192d8a
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\efx_edit.gif | 05-13-2002 | 13:20:06 | | 10088 | 584cffb5
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\efx_load.gif | 05-13-2002 | 13:20:06 | | 17351 | 6e348587
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\efx_preset.gif | 05-13-2002 | 13:20:06 | | 10290 | 891a435b
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\efx_rev1.gif | 05-13-2002 | 13:20:06 | | 10253 | 6803726f
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\efx_save.gif | 05-13-2002 | 13:20:08 | | 16916 | a767b0ca
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\efx_sw.gif | 05-13-2002 | 13:20:08 | | 10151 | c39be7d8
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\efx_tab.gif | 05-13-2002 | 13:20:08 | | 10214 | 416753b3
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\h_sld.gif | 05-13-2002 | 13:20:08 | | 2752 | 47ae41f8
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\inc_inst.gif | 05-13-2002 | 13:20:08 | | 1013 | a7c30fa1
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\inform_white.gif | 05-13-2002 | 13:20:08 | | 70 | 2cac3a6a
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\knob.gif | 05-13-2002 | 13:20:08 | | 3316 | 30ef4521
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\load_btn1.gif | 05-13-2002 | 13:20:08 | | 17956 | 5cf0f580
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\master.gif | 05-13-2002 | 13:20:10 | | 83543 | 68505205
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\normal.gif | 05-13-2002 | 13:20:10 | | 70576 | 6340d281
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\output.gif | 05-13-2002 | 13:20:10 | | 31058 | 76ca7ed3
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\out_open.gif | 05-13-2002 | 13:20:10 | | 12888 | cba68ed5
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\panic_btn.gif | 05-13-2002 | 13:20:10 | | 14432 | f7a7f5a9
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\part_color1.gif | 05-13-2002 | 13:20:10 | | 943 | d22413ab
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\part_color2.gif | 05-13-2002 | 13:20:10 | | 943 | af12045a
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\part_color3.gif | 05-13-2002 | 13:20:12 | | 943 | 72aa491b
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\part_color4.gif | 05-13-2002 | 13:20:12 | | 943 | 3eb1c2f
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\patch_dec.gif | 05-13-2002 | 13:20:12 | | 944 | 6b1e2210
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\patch_inc.gif | 05-13-2002 | 13:20:12 | | 970 | bcb0bc24
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\patch_mn.gif | 05-13-2002 | 13:20:12 | | 6612 | 3cdca01b
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\pc_incdec.gif | 05-13-2002 | 13:20:12 | | 3574 | a24b9afa
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\pfm_load.gif | 05-13-2002 | 13:20:12 | | 17945 | 25c1b970
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\pfm_save.gif | 05-13-2002 | 13:20:12 | | 17970 | 6940864c
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\reb_page.gif | 05-13-2002 | 13:20:14 | | 14911 | 8011af49
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\reset_btn.gif | 05-13-2002 | 13:20:14 | | 14301 | e94c51db
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\reverb.gif | 05-13-2002 | 13:20:14 | | 25283 | 4f8185d1
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\rev_open.gif | 05-13-2002 | 13:20:14 | | 9982 | 4c3de376
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\rhythm.gif | 05-13-2002 | 13:20:14 | | 46422 | fc08fe62
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\roma01.gif | 05-13-2002 | 13:20:14 | | 67 | 554aa6e
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\roma02.gif | 05-13-2002 | 13:20:14 | | 77 | b17643d7
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\roma03.gif | 05-13-2002 | 13:20:14 | | 83 | f7d98209
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\roma04.gif | 05-13-2002 | 13:20:14 | | 97 | f615b13d
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\roma05.gif | 05-13-2002 | 13:20:16 | | 83 | 911fc981
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\roma06.gif | 05-13-2002 | 13:20:16 | | 95 | e0f40706
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\roma07.gif | 05-13-2002 | 13:20:16 | | 104 | b93c0b17
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\roma08.gif | 05-13-2002 | 13:20:16 | | 110 | dcd871e9
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\save_btn1.gif | 05-13-2002 | 13:20:16 | | 17991 | 6754989a
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\scale.gif | 05-13-2002 | 13:20:16 | | 28105 | f824df4d
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\sign_attention.gif | 05-13-2002 | 13:20:16 | | 138 | 3acc9782
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\spin.gif | 05-13-2002 | 13:20:16 | | 2905 | dcbb9787
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\spin_btn.gif | 05-13-2002 | 13:20:18 | | 892 | cfcb5113
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\steel_hh_1.jpg | 05-13-2002 | 13:20:18 | | 2265 | dafca60a
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\style.gif | 05-13-2002 | 13:20:18 | | 40831 | 8c64ce00
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\styl_open.gif | 05-13-2002 | 13:20:18 | | 12841 | 2099ddfe
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\st_check.gif | 05-13-2002 | 13:20:18 | | 961 | 6c4486b4
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\st_uncheck.gif | 05-13-2002 | 13:20:18 | | 928 | f09df129
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\system.gif | 05-13-2002 | 13:20:20 | | 16181 | ff7ed58
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\sys_btn.gif | 05-13-2002 | 13:20:18 | | 13231 | f8ff232f
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\sys_file.gif | 05-13-2002 | 13:20:18 | | 12221 | 3599a655
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\sys_master.gif | 05-13-2002 | 13:20:20 | | 10689 | 7ad482ce
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\sys_open.gif | 05-13-2002 | 13:20:20 | | 15347 | 3c551305
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\sys_opt1.gif | 05-13-2002 | 13:20:20 | | 28687 | 68306207
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\sys_option.gif | 05-13-2002 | 13:20:20 | | 18513 | 852e8128
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\tf_btn.gif | 05-13-2002 | 13:20:20 | | 5661 | cc526d9b
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\tf_btn2.gif | 05-13-2002 | 13:20:20 | | 12178 | b620d689
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\tf_pnl.gif | 05-13-2002 | 13:20:22 | | 26360 | 1aa9d696
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\tf_preusr.gif | 05-13-2002 | 13:20:22 | | 10557 | 7d35ef40
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\tn_spin1.gif | 05-13-2002 | 13:20:22 | | 6015 | 7458b0bb
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\tone_f.gif | 05-13-2002 | 13:20:22 | | 30040 | b0c4e741
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\tone_menu.gif | 05-13-2002 | 13:20:22 | | 12718 | dda8a044
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\v_sld.gif | 05-13-2002 | 13:20:22 | | 4434 | ea9cb355
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\write_btn.gif | 05-13-2002 | 13:20:22 | | 14576 | 7402a3d7
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\img\x_red.gif | 05-13-2002 | 13:20:22 | | 61 | 94842c00
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\impl_or_e.htm | 05-13-2002 | 13:20:32 | | 199204 | c35a9772
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\index_e.htm | 05-13-2002 | 13:20:24 | | 594 | bc8ac672
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\overview_e.htm | 05-13-2002 | 13:20:24 | | 4363 | 44f4fd04
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\patch_e.htm | 05-13-2002 | 13:20:24 | | 22963 | 8cdda8c8
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\performance_e.htm | 05-13-2002 | 13:20:24 | | 5791 | f8c4362a
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\pnl_about_e.htm | 05-13-2002 | 13:20:24 | | 5556 | a99abbe5
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\pnl_conductor_e.htm | 05-13-2002 | 13:20:34 | | 6840 | 2f07bdb5
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\pnl_effect_e.htm | 05-13-2002 | 13:20:28 | | 20295 | 4f261753
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\pnl_finder_e.htm | 05-13-2002 | 13:20:28 | | 8641 | cda20851
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\pnl_master_e.htm | 05-13-2002 | 13:20:26 | | 9495 | c6b3da20
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\pnl_normal_e.htm | 05-13-2002 | 13:20:34 | | 34135 | 66017c3d
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\pnl_output_e.htm | 05-13-2002 | 13:20:28 | | 4454 | bde6de13
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\pnl_rhythm_e.htm | 05-13-2002 | 13:20:34 | | 19747 | 2e8be7f8
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\pnl_scale_e.htm | 05-13-2002 | 13:20:28 | | 9284 | 547af6a2
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\pnl_style_e.htm | 05-13-2002 | 13:20:28 | | 16805 | bd52ebc6
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\pnl_system_e.htm | 05-13-2002 | 13:20:28 | | 9714 | f25cbce9
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\pre_ptc_e.htm | 05-13-2002 | 13:20:26 | | 98932 | a6e9feb1
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\toc_e.htm | 05-13-2002 | 13:20:24 | | 13455 | c92c32b
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\trouble_e.htm | 05-13-2002 | 13:20:30 | | 16637 | db03ed18
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\usage_e.htm | 05-13-2002 | 13:20:28 | | 18683 | d8f0f8e5
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\usr_data_e.htm | 05-13-2002 | 13:20:24 | | 1952 | b5cac666
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\usr_efx_e.htm | 05-13-2002 | 13:20:24 | | 8349 | 1291649b
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Help\usr_tone_e.htm | 05-13-2002 | 13:20:30 | | 8092 | 8e01b997
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\Orchestral.dll | 11-07-2002 | 21:13:58 | 1.0.0.1 | 9556033 | f938feff
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\param.dat | 11-09-2002 | 18:20:18 | | 94548908 | c1441a82
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl000.ors | 05-01-2002 | 00:00:02 | | 3222172 | 44f4dea6
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl001.ors | 05-01-2002 | 00:00:02 | | 3812108 | f644303f
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl002.ors | 05-01-2002 | 00:00:02 | | 3564680 | fff0bfb8
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl003.ors | 05-01-2002 | 00:00:02 | | 2644628 | c2e396f5
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl004.ors | 05-01-2002 | 00:00:02 | | 2690112 | dc06cbcf
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl005.ors | 05-01-2002 | 00:00:02 | | 2495024 | 44e32568
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl006.ors | 05-01-2002 | 00:00:02 | | 3916580 | 75237e0f
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl007.ors | 05-01-2002 | 00:00:02 | | 3004680 | 6e446022
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl008.ors | 05-01-2002 | 00:00:02 | | 3407496 | 23660b49
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl009.ors | 05-01-2002 | 00:00:02 | | 2979520 | bc70688f
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl010.ors | 05-01-2002 | 00:00:02 | | 3745104 | 17d3e121
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl011.ors | 05-01-2002 | 00:00:02 | | 3032164 | 7d85f5e1
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl012.ors | 05-01-2002 | 00:00:02 | | 3261408 | 32c62229
+File Copy: C:\Program Files (x86)\Edirol\Orchestral VST\stl013.ors | 05-01-2002 | 00:00:02 | | 3117068 | d36a6203
+Made Dir: C:\Program Files (x86)\Steinberg\VstPlugins\Edirol
+File Copy: C:\Program Files (x86)\Steinberg\VSTPlugins\Edirol\Orchestral.dll
+RegDB Key: SOFTWARE\EDIROL
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral VST
+RegDB Name: InstallPath
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral VST\HELP\index_e.htm
+RegDB Name: HelpIndex
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral VST\param.dat
+RegDB Name: BaseDataFile
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: C:\Program Files (x86)\Steinberg\VstPlugins\;
+RegDB Name: ModuleDestinations
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral VST\UserPatchBank
+RegDB Name: UserPatch
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral VST\UserRhythmBank
+RegDB Name: UserRhythm
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral VST\UserChorus
+RegDB Name: UserChorus
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral VST\UserReverb
+RegDB Name: UserReverb
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral VST\UserOption
+RegDB Name: UserOption
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: Orchestral VST Version 1.01
+RegDB Name: ProductName
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: High Quality Software Synthesizer
+RegDB Name: SeriesName
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: 1068313472
+RegDB Name: InstallTime
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: 2b23fab11a9b7a508b1a4f5e32b7e38f5e0d222eeaa677e9a2c3e8c6f9a23a1e
+RegDB Name: ScherzoNum
+RegDB Root: 2
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: 2c14ce8223b64964b9377f6e0b83d6bd6f20171bd39443e9a2c3e8c6f9a23a1e
+RegDB Name: VulcanNum
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\App Paths\yourapp.Exe
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral VST
+RegDB Name: Path
+RegDB Root: 2
+RegDB Old: C:\Program Files (x86)\Edirol\Orchestral DXi
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\App Paths\yourapp.Exe
+RegDB Val: C:\Program Files (x86)\Edirol\Orchestral VST\yourapp.Exe
+RegDB Root: 2
+RegDB Old: C:\Program Files (x86)\Edirol\Orchestral DXi\yourapp.Exe
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST\1.01
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\EDIROL\Orchestral VST
+RegDB Val: 579075726
+RegDB Name: LastActivation
+RegDB Root: 1
+RegDB Key: SOFTWARE\EDIROL\Orchestral VST
+RegDB Val: 67439-342-0094521-55924
+RegDB Name: ProductId
+RegDB Root: 2
+Shell Link: C:\Users\Knowledgeable\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\HQ Software Synthesizer\HQ Orchestral\Help DXi.lnk
+Link Info: C:\Program Files (x86)\Edirol\Orchestral DXi\Help\index_e.htm |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\Knowledgeable\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\HQ Software Synthesizer\HQ Orchestral\Help VSTi.lnk
+Link Info: C:\Program Files (x86)\Edirol\Orchestral VST\Help\index_e.htm |  |  | 0 | 1 | 0 | 
+Self-Register: C:\Program Files (x86)\Edirol\Orchestral DXi\HQOR.dll
+Delete in-use files: On
+User Rights: Admin

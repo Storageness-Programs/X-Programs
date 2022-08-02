@@ -1,0 +1,308 @@
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<title>Troubleshooting</title>
+<style><!--
+.pagestyle { line-height: 130%; color:rgb(0,0,0); font-size:10pt;}
+body { color:rgb(0,0,0);}
+th { color:rgb(0,0,0);}
+td { color:rgb(0,0,0);}
+h1 { color:rgb(0,0,204); font-size:18pt; text-decoration:underline;}
+h2 { color:rgb(100,120,0); font-size:14pt; margin-left:0pt;}
+h3 { color:rgb(190,130,0); font-size:12pt; margin-left:0pt;}
+h4 { color:rgb(10,110,130); font-size:11pt; margin-left:20pt;}
+h5 { color:rgb(0,0,0); font-size:10pt; margin-left:20pt;}
+p { color:rgb(0,0,0); font-size:10pt; margin-left:20pt;}
+p.list { color:rgb(0,0,0); font-size:10pt;}
+p.sublist { color:rgb(97,97,97); font-size:9pt;}
+p.tableitem { color:rgb(0,0,0); font-size:10pt; margin-left:0pt;}
+p.note { color:rgb(200,0,0); font-size:9pt; margin-left:30pt; margin-right:30pt; text-indent:-15pt;}
+p.info { color:rgb(0,0,150); font-size:9pt; margin-left:30pt; margin-right:30pt; text-indent:-12pt;}
+p.fig { margin-left:15pt;}
+a { font-weight:bold; }
+dt { font-weight:bold; text-decoration:underline; font-size:11pt;}
+-->
+</style>
+</head>
+
+<body bgcolor="white" text="black" link="#6666CC" vlink="#6666CC" alink="#6666CC" class="pagestyle">
+<h1>VII <a name="Troubleshooting">Troubleshooting</a></h1>
+<ol type="1">
+    <li><a href="#Sound is too loud too soft cannot be heard">Sound is too loud/too soft/cannot be heard.</a></li>
+    <li><a href="#Sound is interrupted playback tempo is irregula">Sound is interrupted/playback tempo is irregular/playback stops midway 
+    through.</a></li>
+    <li><a href="#Notes are delayed">Notes are delayed</a></li>
+    <li><a href="#Insufficient polyphony Notes are omitted">Insufficient polyphony/Notes are omitted.</a></li>
+    <li><a href="#Sound is distorted">Sound is distorted.</a></li>
+    <li><a href="#Effects are not applied">Effects (reverb/chorus/delay) are not applied</a></li>
+    <li><a href="#Effects are not applied to the rhythm part">Effects (reverb/chorus/delay) are not applied to the rhythm part.</a></li>
+    <li><a href="#Failure to plug-in">Failure to plug-in.</a></li>
+    <li><a href="#System exclusive messages cannot be received">System exclusive messages cannot be received.</a></li>
+    <li><a href="#An error of Can't allocate Memory is displayed when you plug-in">An error of &quot;Can't allocate Memory&quot; is displayed when you 
+    plug-in. (Macintosh)</a></li>
+    <li><a href="#VST instruments do not receive control change m">VST instruments do not receive control change messages.</a></li>
+    <li><a href="#Can't use Save Bank Load Bank of VST instrument">Can't use Save Bank/Load Bank of VST instruments to save/load settings.</a></li>
+    <li><a href="#When the Orchestral's panel is operated, a diff">When the Orchestral's panel is operated, a different slider or the sound 
+    of another sound module also changes.</a></li>
+    <li><a href="#Cant use the Learning function">Can't use the Learning function</a></li>
+</ol>
+<hr>
+<h3>[1] <a name="Sound is too loud too soft cannot be heard">Sound is too loud/too soft/cannot be heard </a></h3>
+<p>Check the following points.</p>
+<ul type="disc">
+    <li>Check the Master Panel master volume setting. </li>
+</ul>
+<ul type="disc">
+    <li>If the MIDI indicator for Master Panel&nbsp;are not blinking, it is 
+    possible that MIDI messages are not being input correctly to Orchestral. 
+    Check the following settings on your host application. </li>
+    <ul>
+        <ul type="disc">
+            <li>Make sure that Orchestral is selected as the output destination 
+            for the MIDI tracks that are playing. </li>
+            <li>Check the MIDI channel, volume, and mute settings for the MIDI 
+            tracks that are playing. </li>
+        </ul>
+    </ul>
+</ul>
+<ul>
+    <li>If the MIDI indicator in the Master panel lights, but the level meter 
+    of the part does not move, check the following.</li>
+    <ul type="disc">
+        <ul type="disc">
+        <li>It is possible that Expression (control change 11) is lowered. Try 
+            re-selecting the sound to initialize the part.</li>
+        </ul>
+    </ul>
+    <ul>
+<p class="note">
+<img src="img/sign_attention.gif" width="16" height="16" border="0" alt="sign_attention.gif" align="absmiddle"> 
+When you re-select the sound, the sound currently being edited will also be 
+        initialized. If you want to keep the sound you are editing, save it 
+        as a user sound before you re-select the sound. For details on how to 
+        save a user sound, refer to &quot;<a href="usr_tone_e.htm#Saving and loading user sounds">Saving 
+        and loading user sounds.</a>&quot;</p>
+    </ul>
+</ul>
+<ul type="disc">
+    <li>If the Master Panel&nbsp;level meters are moving, it is possible that 
+    there is a problem with the audio output settings. Check the following points. 
+    </li>
+    <ul>
+        <ul type="disc">
+            <li>Check the audio volume of the host application. Also make sure 
+            that the audio device you are using has been correctly selected. 
+            </li>
+            <li>Check the volume and other necessary settings for your audio 
+            device. </li>
+            <li>Check the connections and volume of your audio system (amp, 
+            speakers, etc.) </li>
+        </ul>
+    </ul>
+</ul>
+<ul type="disc">
+    <li>If a heavy processing load is placed on your computer, your host application 
+    may stop processing audio, causing the sound to stop. Refer to the troubleshooting 
+    items for &quot;<a href="#[2]%20Sound%20is%20interrupted/playback%20tempo%20is%20irre">[2] Sound is interrupted/playback tempo is irregular/playback 
+    stops midway through</a>.&quot; </li>
+</ul>
+<ul type="disc">
+    <li>If you use the Orchestral's multi-out feature, Check the following points.</li>
+    <ul>
+        <ul type="disc">
+            <li>Open the <a href="pnl_output_e.htm#Output Selector (OUTPUT SELECTOR)">Output Selector window</a>, and check that the output destination 
+            of each part is set correctly. </li>
+            <li>Make sure that the host application you specified as the output 
+            destination is set to receive these outputs.</li>
+            <li>&nbsp;If you are not sure whether your host application supports 
+            multi-out, try turn off the Multiple Output switch in the <a href="pnl_output_e.htm#Output Selector (OUTPUT SELECTOR)">Output 
+            Selector window</a>. </li>
+        </ul>
+    </ul>
+</ul>
+<ul>
+    <li>If neither the Master panel level meter nor part level meter are moving, 
+    check the following.</li>
+    <ul>
+        <ul type="disc">
+            <li>It is possible that your host application has stopped processing 
+            audio. Refer to the owner's manual for your host application, and 
+            check whether audio processing is enabled.</li>
+            <li>If you are using the Windows version, it is possible that the 
+            software CD-ROM verification was cancelled.<br>If a dialog box asking 
+            for the software CD-ROM appears when you plug-in Orchestral, insert 
+            the software CD-ROM into your CD-ROM drive, and click [OK]. If you 
+            click Cancel, no sound will be produced. If you clicked Cancel, 
+            exit the plug-in (i.e., unplug Orchestral). Then, plug-in Orchestral 
+            again, so it can properly vefify&nbsp;the CD-ROM.</li>
+        </ul>
+    </ul>
+</ul>
+<h3>[2] <a name="Sound is interrupted playback tempo is irregula">Sound is interrupted/playback tempo is irregular/playback stops midway 
+through </a></h3>
+<p>Check the following items.</p>
+<ul type="disc">
+    <li>If your host application allows you to adjust the size of the audio 
+    buffer, try increasing the buffer size.</li>
+</ul>
+<p>* Increasing the buffer size will increase the delay (latency) of the sound. 
+</p>
+<ul>
+    <li>If you are using Orchestral on the Macintosh with the Cubase series, 
+check the &quot;<b>Favor MIDI Timing</b>&quot; setting found in the <b>General</b> section 
+of <b>Audio System Setup</b>.</li>
+</ul>
+<ul type="disc">
+    <li>It is possible that playback cannot be performed correctly because other 
+    software is placing a processing load on the computer. Please exit any software 
+    you are not using. </li>
+</ul>
+<ul type="disc">
+    <li>Refer to the troubleshooting section in the documentation for your host 
+    application or audio device. Suggestions on how to solve problems with audio 
+    playback may be effective for this situation as well. </li>
+</ul>
+<ul type="disc">
+    <li>Try decreasing the POLYPHONY LIMIT in the <a href="pnl_master_e.htm#Master Panel">Master Panel</a>. </li>
+</ul>
+<ul type="disc">
+    <li>In the <a href="pnl_master_e.htm#Master Panel">Master Panel</a>, try turning [CHORUS] and/or [REVERB] off. </li>
+</ul>
+<ul>
+    <li>In the <a href="pnl_system_e.htm#OPTIONS">Option</a> page of the System 
+    Setting screen, try selecting &quot;<b>Light Load Mode</b>.&quot;</li>
+</ul>
+<p>Note, however, that if the MIDI data you are attempting to play is of such 
+complexity that it requires sound processing capabilities that are well beyond 
+those of your computer, these measures may not help.</p>
+<p>Such problems can also occur depending on the operating environment of your 
+computer (other drivers and software).</p>
+<ul>
+    <p class="info"><img src="img/inform_white.gif" align="absmiddle" width="12" height="11" border="0"> 
+    If you are using Windows, the performance via MME may be inadequate. We 
+    recommend using an ASIO-compatible or WDM-compatible audio device.</p>
+</ul>
+<ul>
+    <p class="info"><img src="img/inform_white.gif" align="absmiddle" width="12" height="11" border="0"> 
+    If you are using Macintosh, the performance via Sound Manager may be inadequate. 
+    We recommend using an ASIO-compatible audio device.</p>
+</ul>
+<h3>[3] <a name="Notes are delayed">Notes are delayed </a></h3>
+<p>Check the following points.</p>
+<ul type="disc">
+    <li>If your host application allows you to adjust the size of the audio 
+    buffer, try decreasing the buffer size.</li>
+</ul>
+<p>* Decreasing the buffer size too much may cause notes to be interrupted or 
+fail to sound. Make this setting as appropriate for the performance of your 
+computer and audio device. </p>
+<ul type="disc">
+    <li>If the documentation for your host application or audio device contains 
+    suggestions on how to fix problems with delayed notes, follow those suggestions. 
+    </li>
+</ul>
+<p>Depending on the performance of your computer, and on the specifications 
+of your host application and audio device, it may not be possible to resolve 
+this problem.</p>
+<h3>[4] <a name="Insufficient polyphony Notes are omitted">Insufficient polyphony/Notes are omitted</a></h3>
+<p>It is possible that this is being limited by the maximum polyphony setting. 
+Check the LIMIT setting for POLYPHONY in the <a href="pnl_master_e.htm#Master Panel">Master Panel</a>.</p>
+<p>* You can check the actual polyphony in the <b>[POLYPHONY]</b> area of the Master 
+Panel.</p>
+<h3>[5] <a name="Sound is distorted">Sound is distorted </a></h3>
+<p>Try lowering the master volume in the <a href="pnl_master_e.htm#Master Panel">Master 
+Panel</a>. </p>
+<h3>[6] <a name="Effects are not applied">Effects (reverb/chorus/delay) are not applied</a></h3>
+<p>Check the following.</p>
+<ul>
+    <li>In the Effects tab of the Master panel, make sure that effects are turned 
+    ON.</li>
+</ul>
+<ul>
+    <li>Are you using multi-out?<br>If you are using multi-out, parts assigned 
+    to an output destination other than <b>OUTPUT 1</b> cannot use Orchestral's 
+    built-in effects (reverb/chorus/delay).<br>If you want to use the built-in 
+    effects on a part, set the output destination of that part to <b>OUTPUT 
+    1</b>.</li>
+</ul>
+<h3>[7] <a name="Effects are not applied to the rhythm part">Effects (reverb/chorus/delay) are not applied to the rhythm part </a></h3>
+<p>For the rhythm part, the effect send amount (send level) is set individually 
+for each rhythm instrument.</p>
+<p>Even if the send level of the rhythm part is specified from the Part Editor 
+window, or from within the music data, there will be no effect if the send level 
+of each instrument is turned down.</p>
+<p>Make sure that the music data also specifies the send level of each instrument 
+to which you want to apply the effect. </p>
+<p>* For details on effect send level settings for rhythm instruments, refer to 
+&quot;<a href="pnl_rhythm_e.htm#Rhythm Part Editor">Rhythm Part Editor.</a>&quot;</p>
+<h3>[8] <a name="Failure to plug-in">Failure to plug-in </a></h3>
+<p>Check the following points.</p>
+<ul type="disc">
+    <li>Orchestral can be used only with the following audio formats. Check 
+    the audio format of your host application. <br>&nbsp;</li>
+</ul>
+<ul type="disc">
+    <table border="1" cellspacing="0" width="303" bordercolordark="white" bordercolorlight="black">
+        <tr>
+            <td width="181">
+                <p class="tableitem">Sampling frequency [kHz]</p>
+            </td>
+            <td width="112">
+                <p class="tableitem">44.1, 48, 96</p>
+            </td>
+        </tr>
+    </table>
+</ul>
+<ul type="disc">
+    <li>It is possible that your computer does not have enough memory. Try exiting 
+    any other applications that you are not using. If failure to plug-in occurs 
+    frequently due to insufficient memory, we recommend that you install additional 
+    memory in your computer. </li>
+</ul>
+<h3>[9] <a name="System exclusive messages cannot be received">System exclusive messages cannot be received </a></h3>
+<p>If you are using the VST instrument version, system exclusive messages cannot 
+be received due to the VST instrument specification. </p>
+<h3>[10] <a name="An error of Can't allocate Memory is displayed when you plug-in" Can't allocate Memory" is displaye">An error of &quot;Can't allocate Memory&quot; is displayed when you 
+plug-in (Macintosh) </a></h3>
+<p>This error occurs if there is not enough memory to start up the plug-in. 
+Please increase the memory that is allocated to the application. </p>
+<h3>[11] <a name="VST instruments do not receive control change m">VST instruments do not receive control change messages </a></h3>
+<p>If you are using Emagic's &quot;Logic&quot; series as the host application, 
+some control change messages cannot be received by VST instruments, due to the 
+specifications of the Logic series. (For the current specifications of Logic, 
+refer to the documentation of the Logic series.) </p>
+<p>In this case, you can either directly operate the knobs and sliders in Orchestral's 
+windows, or assign the desired parameter to a different control change.</p>
+<p>For details on control change assignments, refer to &quot;<a href="cc_asign_e.htm#Control change assignments">Control change 
+assignments</a>.&quot;</p>
+<h3>[12] <a name="Can't use Save Bank Load Bank of VST instrument">Can't use Save Bank/Load Bank of VST instruments to save/load settings 
+</a></h3>
+<p>It is not possible to use the &quot;Save Bank&quot; and &quot;Load Bank&quot; 
+commands for VST instruments of your host application to save Orchestral&nbsp;settings. 
+</p>
+<p>Orchestral settings must be saved/loaded as performance data. For details 
+on saving/loading performance data, refer to &quot;<a href="performance_e.htm#Saving and loading performance data">Saving and loading performance data</a>.&quot; 
+</p>
+<h3>[13] <a name="When the Orchestral's panel is operated, a diff">When the Orchestral's panel is operated, a different slider or the sound 
+    of another sound module also changes.</a></h3>
+<p>Is automation enabled?</p>
+<p>If automation is enabled, operating the Orchestral's&nbsp;panel will send 
+MIDI messages that assigned to parameter&nbsp;to the host application.</p>
+<p>These MIDI messages may cause unintended parameters to change at the same 
+time.</p>
+<p>If this occurs, try unchecking &quot;<b>Record Panel operations</b>&quot; in the 
+&quot;<a href="pnl_system_e.htm#OPTIONS">OPTIONS&quot; page of the System Setting (SYSTEM SETTING) window</a>.&nbsp;</p>
+<h3>&nbsp;[14] <a name="Cant use the Learning function">Can't use the Learning 
+function</a></h3>
+<ul>
+    <li>Has your host application stopped processing audio?</li>
+</ul>
+<p>If audio processing has been halted, it may not be possible to use the Learning 
+function to specify a control change, since MIDI messages are not being sent 
+to Orchestral. Refer to the owner's manual for your host application, and make 
+sure that audio processing is enabled.</p>
+<p>&nbsp;</p>
+</body>
+
+</html>
