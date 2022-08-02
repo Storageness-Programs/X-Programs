@@ -1,0 +1,4 @@
+INSTALL
+	sudo snap install vlc
+OPEN
+	vlc
